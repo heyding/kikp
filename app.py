@@ -38,4 +38,4 @@ def top_players():
     return jsonify(top_players)
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run()
