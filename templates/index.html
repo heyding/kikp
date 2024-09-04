@@ -5,6 +5,20 @@
     <title>Kicker Interactive Kaderplaner 2024/25</title>
     <link href="/dist/styles.css" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <style>
+        @media (max-width: 768px) {
+            /* Schriftgröße verkleinern */
+            #playersTable th, #playersTable td {
+                font-size: 12px;
+            }
+    
+            /* Verein und Preis-Leistungs-Verhältnis Spalten ausblenden */
+            #playersTable th:nth-child(2), #playersTable td:nth-child(2),
+            #playersTable th:nth-child(5), #playersTable td:nth-child(5) {
+                display: none;
+            }
+        }
+    </style>
 </head>
 <body class="bg-gray-100 p-6">
     <h1 class="text-3xl font-bold mb-4 text-center">Kicker Interactive Kaderplaner 2024/25</h1>
