@@ -11,7 +11,7 @@ def index():
 def top_players():
     min_expected_points = int(request.form['min_expected_points'])
     max_market_value = float(request.form['max_market_value'])
-    positions = request.form.getlist('positions')
+    chosen_position = request.form['position']
 
     with open('data/2024_25_merged_players.json', 'r') as file:
         players_data = json.load(file)
@@ -25,7 +25,7 @@ def top_players():
             try:
                 marktwert = float(marktwert)
                 expected_points = float(expected_points)
-                if expected_points >= min_expected_points and marktwert <= max_market_value and position in positions:
+                if expected_points >= min_expected_points and marktwert <= max_market_value and position == chosen_position:
                     ratio = expected_points / marktwert * 10000
                     player["Preis_Leistungs_Verhältnis"] = round(ratio, 2)
                     players_with_ratio.append(player)
