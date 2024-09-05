@@ -1,5 +1,10 @@
 from flask import Flask, render_template, request, jsonify
 import json
+import os
+from dotenv import load_dotenv
+
+# Laden Sie die Umgebungsvariablen aus der .env-Datei
+load_dotenv()
 
 app = Flask(__name__, static_folder='dist')
 
@@ -33,9 +38,11 @@ def top_players():
                 continue
 
     players_with_ratio.sort(key=lambda x: x["Preis_Leistungs_Verhältnis"], reverse=True)
-    top_players = players_with_ratio[:100]
 
-    return jsonify(top_players)
+    return jsonify(players_with_ratio)
 
 if __name__ == '__main__':
-    app.run()
+    # Überprüfen Sie die Umgebungsvariable FLASK_ENV
+    env = os.getenv('FLASK_ENV', 'production')
+    debug = env == 'development'
+    app.run(debug=debug)
