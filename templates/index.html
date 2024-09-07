@@ -20,8 +20,9 @@
         }
     </style>
 </head>
-<body class="bg-gray-100 p-6">
+<body class="bg-gray-100 p-6">      
     <h1 class="text-3xl font-bold mb-4 text-center">Kicker Interactive Kaderplaner 2024/25</h1>
+    
     <form id="playersForm" class="bg-white p-6 rounded-lg shadow-md mx-auto max-w-sm px-8">
         <div class=" mb-4">
             <label for="min_expected_points" class="block text-sm font-medium text-gray-700">Minimum Punkte:</label>
@@ -61,7 +62,8 @@
         <button type="submit" class="bg-red-600 text-white py-2 px-4 rounded-md shadow-sm hover:bg-red-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500">Berechnen</button>
     </form>
     <div class="mb-4 mt-6 text-center text-xs text-gray-400">
-        <p>Version 1.0.6.</p>
+        <p>Die Vorhersage basiert auf einer Umrechnung von <a href="https://www.ligainsider.de" target="_blank" class="text-indigo-600 hover:underline">ligainsider.de</a> Daten und kann lediglich eine Orientierung für die Kaderplanung sein.</p>
+        <p>Version 1.0.7</p>
     </div>
 
     <input type="text" id="searchInput" onkeyup="filterTable()" placeholder="Suche ..." class="mt-6 block px-3 py-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-indigo-500 focus:border-indigo-500 sm:text-sm" style="display: none;">
