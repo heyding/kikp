@@ -198,6 +198,17 @@
         "Expected_Points_Kickbase": "3535"
     },
     {
+        "ID": "pl-k00088240",
+        "Angezeigter Name": "Aleix Garcia",
+        "Verein": "Bayer 04 Leverkusen",
+        "Position": "MIDFIELDER",
+        "Marktwert": "3200000",
+        "Rank": "19",
+        "Expected_Points_Sorare": "2075",
+        "Expected_Points_Kicker": 230,
+        "Expected_Points_Kickbase": "3685"
+    },
+    {
         "ID": "pl-k00067514",
         "Angezeigter Name": "Kevin Stöger",
         "Verein": "Bor. Mönchengladbach",
@@ -902,6 +913,17 @@
         "Expected_Points_Kickbase": "3921"
     },
     {
+        "ID": "pl-k00133398",
+        "Angezeigter Name": "Benjamin Sesko",
+        "Verein": "RB Leipzig",
+        "Position": "FORWARD",
+        "Marktwert": "5000000",
+        "Rank": "85",
+        "Expected_Points_Sorare": "1738",
+        "Expected_Points_Kicker": 219,
+        "Expected_Points_Kickbase": "3725"
+    },
+    {
         "ID": "pl-k00101460",
         "Angezeigter Name": "Keven Schlotterbeck",
         "Verein": "FC Augsburg",
@@ -1164,6 +1186,16 @@
         "Expected_Points_Sorare": "1650",
         "Expected_Points_Kicker": 196,
         "Expected_Points_Kickbase": "3262"
+    },
+    {
+        "ID": "pl-k00124455",
+        "Angezeigter Name": "Konstantinos Koulierakis",
+        "Verein": "VfL Wolfsburg",
+        "Position": "DEFENDER",
+        "Marktwert": "2000000",
+        "Rank": "110",
+        "Expected_Points_Sorare": "1647",
+        "Expected_Points_Kicker": 183
     },
     {
         "ID": "pl-k00065090",
