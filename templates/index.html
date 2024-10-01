@@ -12,7 +12,7 @@
                 font-size: 12px;
             }
     
-            /* Verein und Preis-Leistungs-Verhältnis Spalten ausblenden */
+            /* Verein und Erwartete Punkte pro Spiel Spalten ausblenden */
             #playersTable th:nth-child(2), #playersTable td:nth-child(2),
             #playersTable th:nth-child(5), #playersTable td:nth-child(5) {
                 display: none;
@@ -62,7 +62,7 @@
         <button type="submit" class="bg-red-600 text-white py-2 px-4 rounded-md shadow-sm hover:bg-red-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500">Berechnen</button>
     </form>
     <div class="mb-4 mt-6 text-center text-xs text-gray-400">
-        <p>Die Vorhersage basiert auf einer Umrechnung von <a href="https://www.ligainsider.de" target="_blank" class="text-indigo-600 hover:underline">ligainsider.de</a> Daten und kann lediglich eine Orientierung für die Kaderplanung sein. Version 1.1.0</p>
+        <p>Die Vorhersage basiert auf einer Umrechnung von <a href="https://www.ligainsider.de" target="_blank" class="text-indigo-600 hover:underline">ligainsider.de</a> Daten und kann lediglich eine Orientierung für die Kaderplanung sein. Version 1.1.1</p>
     </div>
 
     <input type="text" id="searchInput" onkeyup="filterTable()" placeholder="Suche ..." class="mt-6 block px-3 py-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-indigo-500 focus:border-indigo-500 sm:text-sm" style="display: none;">
@@ -82,13 +82,13 @@
                     Punkte Vorhersage <i class="fas fa-sort"></i>
                 </th>
                 <th onclick="sortTable(4)" title="Stand 5. Spieltag" class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-                    Aktuelle Punkte <i class="fas fa-sort"></i>
+                    Punkte Vorhersage pro Spiel <i class="fas fa-sort"></i>
                 </th>
                 <th onclick="sortTable(5)" class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-                    Differenz <i class="fas fa-sort"></i>
+                    Punkte aktuell pro Spiel <i class="fas fa-sort"></i>
                 </th>
                 <th onclick="sortTable(6)" class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-                    Ratio <i class="fas fa-sort"></i>
+                    Performance <i class="fas fa-sort"></i>
                 </th>
             </tr>
         </thead>
@@ -120,9 +120,9 @@
                         <td class="px-6 py-4 whitespace-nowrap">${player['Verein']}</td>
                         <td class="px-6 py-4 whitespace-nowrap">${player['Marktwert']}</td>
                         <td class="px-6 py-4 whitespace-nowrap">${player['Expected_Points_Kicker']}</td>
-                        <td class="px-6 py-4 whitespace-nowrap">${player['Current_Points_Kicker']}</td>
-                        <td class="px-6 py-4 whitespace-nowrap">${player['Difference_Kicker']}</td>
-                        <td class="px-6 py-4 whitespace-nowrap">${player['Preis_Leistungs_Verhältnis']}</td>
+                        <td class="px-6 py-4 whitespace-nowrap">${player['Expected_Points_Per_Game_Kicker']}</td>
+                        <td class="px-6 py-4 whitespace-nowrap">${player['Current_Points_Per_Game_Kicker']}</td>
+                        <td class="px-6 py-4 whitespace-nowrap">${player['Performance']}</td>
                     </tr>`;
                     tableBody.innerHTML += row;
                 // Rufen Sie diese Funktion auf, nachdem Sie Daten zur Tabelle hinzugefügt haben

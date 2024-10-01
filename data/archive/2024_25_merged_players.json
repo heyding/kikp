@@ -9,7 +9,9 @@
         "Marktwert": 3600000,
         "Expected_Points_Kickbase": 3184,
         "Expected_Points_Sorare": 2211,
-        "Expected_Points_Kicker": 212
+        "Expected_Points_Kicker": 212,
+        "Current_Points_Kicker": 26,
+        "Difference_Kicker": -186
     },
     {
         "ID": "pl-k00037056",
@@ -21,7 +23,9 @@
         "Marktwert": 500000,
         "Expected_Points_Kickbase": "NaN",
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 0
+        "Expected_Points_Kicker": 0,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": 0
     },
     {
         "ID": "pl-k00038851",
@@ -33,7 +37,9 @@
         "Marktwert": 1300000,
         "Expected_Points_Kickbase": 364,
         "Expected_Points_Sorare": 804,
-        "Expected_Points_Kicker": 46
+        "Expected_Points_Kicker": 46,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": -46
     },
     {
         "ID": "pl-k00039161",
@@ -45,7 +51,9 @@
         "Marktwert": 1000000,
         "Expected_Points_Kickbase": 2,
         "Expected_Points_Sorare": 358,
-        "Expected_Points_Kicker": 14
+        "Expected_Points_Kicker": 14,
+        "Current_Points_Kicker": 8,
+        "Difference_Kicker": -6
     },
     {
         "ID": "pl-k00039186",
@@ -57,7 +65,9 @@
         "Marktwert": 500000,
         "Expected_Points_Kickbase": "NaN",
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 0
+        "Expected_Points_Kicker": 0,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": 0
     },
     {
         "ID": "pl-k00039245",
@@ -69,7 +79,9 @@
         "Marktwert": 3800000,
         "Expected_Points_Kickbase": 3520,
         "Expected_Points_Sorare": 1805,
-        "Expected_Points_Kicker": 209
+        "Expected_Points_Kicker": 209,
+        "Current_Points_Kicker": 26,
+        "Difference_Kicker": -183
     },
     {
         "ID": "pl-k00039317",
@@ -81,7 +93,9 @@
         "Marktwert": 4200000,
         "Expected_Points_Kickbase": 2747,
         "Expected_Points_Sorare": 1499,
-        "Expected_Points_Kicker": 167
+        "Expected_Points_Kicker": 167,
+        "Current_Points_Kicker": 26,
+        "Difference_Kicker": -141
     },
     {
         "ID": "pl-k00040780",
@@ -93,7 +107,9 @@
         "Marktwert": 1800000,
         "Expected_Points_Kickbase": "NaN",
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 0
+        "Expected_Points_Kicker": 0,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": 0
     },
     {
         "ID": "pl-k00040891",
@@ -105,7 +121,9 @@
         "Marktwert": 800000,
         "Expected_Points_Kickbase": "NaN",
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 0
+        "Expected_Points_Kicker": 0,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": 0
     },
     {
         "ID": "pl-k00041690",
@@ -117,7 +135,9 @@
         "Marktwert": 1800000,
         "Expected_Points_Kickbase": 520,
         "Expected_Points_Sorare": 862,
-        "Expected_Points_Kicker": 54
+        "Expected_Points_Kicker": 54,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": -54
     },
     {
         "ID": "pl-k00042122",
@@ -129,7 +149,9 @@
         "Marktwert": 3200000,
         "Expected_Points_Kickbase": 2604,
         "Expected_Points_Sorare": 1956,
-        "Expected_Points_Kicker": 179
+        "Expected_Points_Kicker": 179,
+        "Current_Points_Kicker": 14,
+        "Difference_Kicker": -165
     },
     {
         "ID": "pl-k00043592",
@@ -141,7 +163,9 @@
         "Marktwert": 2500000,
         "Expected_Points_Kickbase": 1555,
         "Expected_Points_Sorare": 1296,
-        "Expected_Points_Kicker": 112
+        "Expected_Points_Kicker": 112,
+        "Current_Points_Kicker": 16,
+        "Difference_Kicker": -96
     },
     {
         "ID": "pl-k00047579",
@@ -153,7 +177,9 @@
         "Marktwert": 2400000,
         "Expected_Points_Kickbase": 1068,
         "Expected_Points_Sorare": 1102,
-        "Expected_Points_Kicker": 85
+        "Expected_Points_Kicker": 85,
+        "Current_Points_Kicker": 4,
+        "Difference_Kicker": -81
     },
     {
         "ID": "pl-k00047724",
@@ -165,7 +191,9 @@
         "Marktwert": 1800000,
         "Expected_Points_Kickbase": 1784,
         "Expected_Points_Sorare": 1622,
-        "Expected_Points_Kicker": 134
+        "Expected_Points_Kicker": 134,
+        "Current_Points_Kicker": 8,
+        "Difference_Kicker": -126
     },
     {
         "ID": "pl-k00048998",
@@ -177,7 +205,9 @@
         "Marktwert": 2000000,
         "Expected_Points_Kickbase": 1385,
         "Expected_Points_Sorare": 1397,
-        "Expected_Points_Kicker": 109
+        "Expected_Points_Kicker": 109,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": -109
     },
     {
         "ID": "pl-k00049258",
@@ -189,7 +219,9 @@
         "Marktwert": 2400000,
         "Expected_Points_Kickbase": 2,
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 0
+        "Expected_Points_Kicker": 0,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": 0
     },
     {
         "ID": "pl-k00050237",
@@ -201,7 +233,9 @@
         "Marktwert": 700000,
         "Expected_Points_Kickbase": 1,
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 0
+        "Expected_Points_Kicker": 0,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": 0
     },
     {
         "ID": "pl-k00054360",
@@ -213,7 +247,9 @@
         "Marktwert": 800000,
         "Expected_Points_Kickbase": "NaN",
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 0
+        "Expected_Points_Kicker": 0,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": 0
     },
     {
         "ID": "pl-k00054640",
@@ -225,7 +261,9 @@
         "Marktwert": 1200000,
         "Expected_Points_Kickbase": 2,
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 0
+        "Expected_Points_Kicker": 0,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": 0
     },
     {
         "ID": "pl-k00054652",
@@ -237,7 +275,9 @@
         "Marktwert": 3800000,
         "Expected_Points_Kickbase": 3383,
         "Expected_Points_Sorare": 1944,
-        "Expected_Points_Kicker": 209
+        "Expected_Points_Kicker": 209,
+        "Current_Points_Kicker": 28,
+        "Difference_Kicker": -181
     },
     {
         "ID": "pl-k00054657",
@@ -249,7 +289,9 @@
         "Marktwert": 2500000,
         "Expected_Points_Kickbase": 2042,
         "Expected_Points_Sorare": 1700,
-        "Expected_Points_Kicker": 147
+        "Expected_Points_Kicker": 147,
+        "Current_Points_Kicker": 16,
+        "Difference_Kicker": -131
     },
     {
         "ID": "pl-k00054894",
@@ -261,7 +303,9 @@
         "Marktwert": 1200000,
         "Expected_Points_Kickbase": 112,
         "Expected_Points_Sorare": 44,
-        "Expected_Points_Kicker": 6
+        "Expected_Points_Kicker": 6,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": -6
     },
     {
         "ID": "pl-k00057241",
@@ -273,7 +317,9 @@
         "Marktwert": 2200000,
         "Expected_Points_Kickbase": 2015,
         "Expected_Points_Sorare": 1480,
-        "Expected_Points_Kicker": 137
+        "Expected_Points_Kicker": 137,
+        "Current_Points_Kicker": 18,
+        "Difference_Kicker": -119
     },
     {
         "ID": "pl-k00057245",
@@ -285,7 +331,9 @@
         "Marktwert": 1300000,
         "Expected_Points_Kickbase": 277,
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 16
+        "Expected_Points_Kicker": 16,
+        "Current_Points_Kicker": 12,
+        "Difference_Kicker": -4
     },
     {
         "ID": "pl-k00057247",
@@ -297,7 +345,9 @@
         "Marktwert": 3800000,
         "Expected_Points_Kickbase": 3212,
         "Expected_Points_Sorare": 1957,
-        "Expected_Points_Kicker": 203
+        "Expected_Points_Kicker": 203,
+        "Current_Points_Kicker": 19,
+        "Difference_Kicker": -184
     },
     {
         "ID": "pl-k00057343",
@@ -309,7 +359,9 @@
         "Marktwert": 6000000,
         "Expected_Points_Kickbase": 5288,
         "Expected_Points_Sorare": 2319,
-        "Expected_Points_Kicker": 298
+        "Expected_Points_Kicker": 298,
+        "Current_Points_Kicker": 36,
+        "Difference_Kicker": -262
     },
     {
         "ID": "pl-k00057797",
@@ -321,7 +373,9 @@
         "Marktwert": 500000,
         "Expected_Points_Kickbase": "NaN",
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 0
+        "Expected_Points_Kicker": 0,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": 0
     },
     {
         "ID": "pl-k00057894",
@@ -333,7 +387,9 @@
         "Marktwert": 1800000,
         "Expected_Points_Kickbase": 982,
         "Expected_Points_Sorare": 974,
-        "Expected_Points_Kicker": 77
+        "Expected_Points_Kicker": 77,
+        "Current_Points_Kicker": 22,
+        "Difference_Kicker": -55
     },
     {
         "ID": "pl-k00057925",
@@ -345,7 +401,9 @@
         "Marktwert": 3600000,
         "Expected_Points_Kickbase": 2825,
         "Expected_Points_Sorare": 2039,
-        "Expected_Points_Kicker": 191
+        "Expected_Points_Kicker": 191,
+        "Current_Points_Kicker": 20,
+        "Difference_Kicker": -171
     },
     {
         "ID": "pl-k00058003",
@@ -357,7 +415,9 @@
         "Marktwert": 3000000,
         "Expected_Points_Kickbase": 2996,
         "Expected_Points_Sorare": 1699,
-        "Expected_Points_Kicker": 184
+        "Expected_Points_Kicker": 184,
+        "Current_Points_Kicker": 35,
+        "Difference_Kicker": -149
     },
     {
         "ID": "pl-k00058007",
@@ -369,7 +429,9 @@
         "Marktwert": 2500000,
         "Expected_Points_Kickbase": 2533,
         "Expected_Points_Sorare": 1933,
-        "Expected_Points_Kicker": 175
+        "Expected_Points_Kicker": 175,
+        "Current_Points_Kicker": 26,
+        "Difference_Kicker": -149
     },
     {
         "ID": "pl-k00058073",
@@ -381,7 +443,9 @@
         "Marktwert": 800000,
         "Expected_Points_Kickbase": 2,
         "Expected_Points_Sorare": 215,
-        "Expected_Points_Kicker": 9
+        "Expected_Points_Kicker": 9,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": -9
     },
     {
         "ID": "pl-k00058548",
@@ -393,7 +457,9 @@
         "Marktwert": 3600000,
         "Expected_Points_Kickbase": 3305,
         "Expected_Points_Sorare": 2141,
-        "Expected_Points_Kicker": 214
+        "Expected_Points_Kicker": 214,
+        "Current_Points_Kicker": 61,
+        "Difference_Kicker": -153
     },
     {
         "ID": "pl-k00058740",
@@ -405,7 +471,9 @@
         "Marktwert": 800000,
         "Expected_Points_Kickbase": 2,
         "Expected_Points_Sorare": 288,
-        "Expected_Points_Kicker": 11
+        "Expected_Points_Kicker": 11,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": -11
     },
     {
         "ID": "pl-k00058774",
@@ -417,7 +485,9 @@
         "Marktwert": 1000000,
         "Expected_Points_Kickbase": 441,
         "Expected_Points_Sorare": 795,
-        "Expected_Points_Kicker": 48
+        "Expected_Points_Kicker": 48,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": -48
     },
     {
         "ID": "pl-k00058938",
@@ -429,7 +499,9 @@
         "Marktwert": 1700000,
         "Expected_Points_Kickbase": 1198,
         "Expected_Points_Sorare": 893,
-        "Expected_Points_Kicker": 82
+        "Expected_Points_Kicker": 82,
+        "Current_Points_Kicker": 6,
+        "Difference_Kicker": -76
     },
     {
         "ID": "pl-k00058963",
@@ -441,7 +513,9 @@
         "Marktwert": 800000,
         "Expected_Points_Kickbase": 2,
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 0
+        "Expected_Points_Kicker": 0,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": 0
     },
     {
         "ID": "pl-k00059041",
@@ -453,7 +527,9 @@
         "Marktwert": 5000000,
         "Expected_Points_Kickbase": 3785,
         "Expected_Points_Sorare": 2158,
-        "Expected_Points_Kicker": 233
+        "Expected_Points_Kicker": 233,
+        "Current_Points_Kicker": 43,
+        "Difference_Kicker": -190
     },
     {
         "ID": "pl-k00059580",
@@ -465,7 +541,9 @@
         "Marktwert": 1800000,
         "Expected_Points_Kickbase": 1354,
         "Expected_Points_Sorare": 1078,
-        "Expected_Points_Kicker": 95
+        "Expected_Points_Kicker": 95,
+        "Current_Points_Kicker": 6,
+        "Difference_Kicker": -89
     },
     {
         "ID": "pl-k00060522",
@@ -477,7 +555,9 @@
         "Marktwert": 1600000,
         "Expected_Points_Kickbase": 766,
         "Expected_Points_Sorare": 874,
-        "Expected_Points_Kicker": 64
+        "Expected_Points_Kicker": 64,
+        "Current_Points_Kicker": -2,
+        "Difference_Kicker": -66
     },
     {
         "ID": "pl-k00060535",
@@ -489,7 +569,9 @@
         "Marktwert": 1700000,
         "Expected_Points_Kickbase": 1169,
         "Expected_Points_Sorare": 1019,
-        "Expected_Points_Kicker": 86
+        "Expected_Points_Kicker": 86,
+        "Current_Points_Kicker": 2,
+        "Difference_Kicker": -84
     },
     {
         "ID": "pl-k00063586",
@@ -501,7 +583,9 @@
         "Marktwert": 800000,
         "Expected_Points_Kickbase": 2,
         "Expected_Points_Sorare": 244,
-        "Expected_Points_Kicker": 10
+        "Expected_Points_Kicker": 10,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": -10
     },
     {
         "ID": "pl-k00063777",
@@ -513,7 +597,9 @@
         "Marktwert": 1700000,
         "Expected_Points_Kickbase": 2091,
         "Expected_Points_Sorare": 1616,
-        "Expected_Points_Kicker": 145
+        "Expected_Points_Kicker": 145,
+        "Current_Points_Kicker": 39,
+        "Difference_Kicker": -106
     },
     {
         "ID": "pl-k00063799",
@@ -525,7 +611,9 @@
         "Marktwert": 3000000,
         "Expected_Points_Kickbase": 1575,
         "Expected_Points_Sorare": 1178,
-        "Expected_Points_Kicker": 108
+        "Expected_Points_Kicker": 108,
+        "Current_Points_Kicker": 2,
+        "Difference_Kicker": -106
     },
     {
         "ID": "pl-k00064040",
@@ -537,7 +625,9 @@
         "Marktwert": 2600000,
         "Expected_Points_Kickbase": 2917,
         "Expected_Points_Sorare": 1913,
-        "Expected_Points_Kicker": 189
+        "Expected_Points_Kicker": 189,
+        "Current_Points_Kicker": 33,
+        "Difference_Kicker": -156
     },
     {
         "ID": "pl-k00064802",
@@ -549,7 +639,9 @@
         "Marktwert": 3400000,
         "Expected_Points_Kickbase": 2998,
         "Expected_Points_Sorare": 1950,
-        "Expected_Points_Kicker": 194
+        "Expected_Points_Kicker": 194,
+        "Current_Points_Kicker": 34,
+        "Difference_Kicker": -160
     },
     {
         "ID": "pl-k00065090",
@@ -561,7 +653,9 @@
         "Marktwert": 2000000,
         "Expected_Points_Kickbase": 2133,
         "Expected_Points_Sorare": 1645,
-        "Expected_Points_Kicker": 148
+        "Expected_Points_Kicker": 148,
+        "Current_Points_Kicker": 8,
+        "Difference_Kicker": -140
     },
     {
         "ID": "pl-k00065503",
@@ -573,7 +667,9 @@
         "Marktwert": 2200000,
         "Expected_Points_Kickbase": 1908,
         "Expected_Points_Sorare": 1565,
-        "Expected_Points_Kicker": 136
+        "Expected_Points_Kicker": 136,
+        "Current_Points_Kicker": 8,
+        "Difference_Kicker": -128
     },
     {
         "ID": "pl-k00065896",
@@ -585,7 +681,9 @@
         "Marktwert": 2800000,
         "Expected_Points_Kickbase": 3243,
         "Expected_Points_Sorare": 1929,
-        "Expected_Points_Kicker": 203
+        "Expected_Points_Kicker": 203,
+        "Current_Points_Kicker": 42,
+        "Difference_Kicker": -161
     },
     {
         "ID": "pl-k00066084",
@@ -597,7 +695,9 @@
         "Marktwert": 2200000,
         "Expected_Points_Kickbase": 2451,
         "Expected_Points_Sorare": 1397,
-        "Expected_Points_Kicker": 151
+        "Expected_Points_Kicker": 151,
+        "Current_Points_Kicker": 8,
+        "Difference_Kicker": -143
     },
     {
         "ID": "pl-k00066249",
@@ -609,7 +709,9 @@
         "Marktwert": 1400000,
         "Expected_Points_Kickbase": 1068,
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 61
+        "Expected_Points_Kicker": 61,
+        "Current_Points_Kicker": 4,
+        "Difference_Kicker": -57
     },
     {
         "ID": "pl-k00066531",
@@ -621,7 +723,9 @@
         "Marktwert": 1800000,
         "Expected_Points_Kickbase": 2162,
         "Expected_Points_Sorare": 1645,
-        "Expected_Points_Kicker": 149
+        "Expected_Points_Kicker": 149,
+        "Current_Points_Kicker": 16,
+        "Difference_Kicker": -133
     },
     {
         "ID": "pl-k00066745",
@@ -633,7 +737,9 @@
         "Marktwert": 3000000,
         "Expected_Points_Kickbase": 3287,
         "Expected_Points_Sorare": 1948,
-        "Expected_Points_Kicker": 205
+        "Expected_Points_Kicker": 205,
+        "Current_Points_Kicker": 20,
+        "Difference_Kicker": -185
     },
     {
         "ID": "pl-k00066753",
@@ -645,7 +751,9 @@
         "Marktwert": 4000000,
         "Expected_Points_Kickbase": 2679,
         "Expected_Points_Sorare": 1555,
-        "Expected_Points_Kicker": 166
+        "Expected_Points_Kicker": 166,
+        "Current_Points_Kicker": 44,
+        "Difference_Kicker": -122
     },
     {
         "ID": "pl-k00066754",
@@ -657,7 +765,9 @@
         "Marktwert": 4200000,
         "Expected_Points_Kickbase": 1102,
         "Expected_Points_Sorare": 1073,
-        "Expected_Points_Kicker": 85
+        "Expected_Points_Kicker": 85,
+        "Current_Points_Kicker": 2,
+        "Difference_Kicker": -83
     },
     {
         "ID": "pl-k00067144",
@@ -669,7 +779,9 @@
         "Marktwert": 2000000,
         "Expected_Points_Kickbase": 3037,
         "Expected_Points_Sorare": 1748,
-        "Expected_Points_Kicker": 188
+        "Expected_Points_Kicker": 188,
+        "Current_Points_Kicker": 20,
+        "Difference_Kicker": -168
     },
     {
         "ID": "pl-k00067514",
@@ -681,7 +793,9 @@
         "Marktwert": 3500000,
         "Expected_Points_Kickbase": 3537,
         "Expected_Points_Sorare": 2059,
-        "Expected_Points_Kicker": 219
+        "Expected_Points_Kicker": 219,
+        "Current_Points_Kicker": 34,
+        "Difference_Kicker": -185
     },
     {
         "ID": "pl-k00067724",
@@ -693,7 +807,9 @@
         "Marktwert": 1700000,
         "Expected_Points_Kickbase": 707,
         "Expected_Points_Sorare": 1172,
-        "Expected_Points_Kicker": 74
+        "Expected_Points_Kicker": 74,
+        "Current_Points_Kicker": 14,
+        "Difference_Kicker": -60
     },
     {
         "ID": "pl-k00068029",
@@ -705,7 +821,9 @@
         "Marktwert": 4000000,
         "Expected_Points_Kickbase": 2717,
         "Expected_Points_Sorare": 1493,
-        "Expected_Points_Kicker": 165
+        "Expected_Points_Kicker": 165,
+        "Current_Points_Kicker": 2,
+        "Difference_Kicker": -163
     },
     {
         "ID": "pl-k00068578",
@@ -717,7 +835,9 @@
         "Marktwert": 5000000,
         "Expected_Points_Kickbase": 4237,
         "Expected_Points_Sorare": 1808,
-        "Expected_Points_Kicker": 237
+        "Expected_Points_Kicker": 237,
+        "Current_Points_Kicker": 24,
+        "Difference_Kicker": -213
     },
     {
         "ID": "pl-k00068667",
@@ -729,7 +849,9 @@
         "Marktwert": 1600000,
         "Expected_Points_Kickbase": 2122,
         "Expected_Points_Sorare": 1533,
-        "Expected_Points_Kicker": 143
+        "Expected_Points_Kicker": 143,
+        "Current_Points_Kicker": 18,
+        "Difference_Kicker": -125
     },
     {
         "ID": "pl-k00069255",
@@ -741,7 +863,9 @@
         "Marktwert": 3700000,
         "Expected_Points_Kickbase": 3181,
         "Expected_Points_Sorare": 1840,
-        "Expected_Points_Kicker": 197
+        "Expected_Points_Kicker": 197,
+        "Current_Points_Kicker": 10,
+        "Difference_Kicker": -187
     },
     {
         "ID": "pl-k00069475",
@@ -753,7 +877,9 @@
         "Marktwert": 500000,
         "Expected_Points_Kickbase": "NaN",
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 0
+        "Expected_Points_Kicker": 0,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": 0
     },
     {
         "ID": "pl-k00070381",
@@ -765,7 +891,9 @@
         "Marktwert": 1200000,
         "Expected_Points_Kickbase": 293,
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 17
+        "Expected_Points_Kicker": 17,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": -17
     },
     {
         "ID": "pl-k00070592",
@@ -777,7 +905,9 @@
         "Marktwert": 5500000,
         "Expected_Points_Kickbase": 3737,
         "Expected_Points_Sorare": 1960,
-        "Expected_Points_Kicker": 223
+        "Expected_Points_Kicker": 223,
+        "Current_Points_Kicker": 39,
+        "Difference_Kicker": -184
     },
     {
         "ID": "pl-k00070605",
@@ -789,7 +919,9 @@
         "Marktwert": 8500000,
         "Expected_Points_Kickbase": 5655,
         "Expected_Points_Sorare": 2432,
-        "Expected_Points_Kicker": 317
+        "Expected_Points_Kicker": 317,
+        "Current_Points_Kicker": 79,
+        "Difference_Kicker": -238
     },
     {
         "ID": "pl-k00070806",
@@ -801,7 +933,9 @@
         "Marktwert": 1400000,
         "Expected_Points_Kickbase": 310,
         "Expected_Points_Sorare": 856,
-        "Expected_Points_Kicker": 46
+        "Expected_Points_Kicker": 46,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": -46
     },
     {
         "ID": "pl-k00070987",
@@ -813,7 +947,9 @@
         "Marktwert": 800000,
         "Expected_Points_Kickbase": "NaN",
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 0
+        "Expected_Points_Kicker": 0,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": 0
     },
     {
         "ID": "pl-k00070990",
@@ -825,7 +961,9 @@
         "Marktwert": 3500000,
         "Expected_Points_Kickbase": 2934,
         "Expected_Points_Sorare": 1767,
-        "Expected_Points_Kicker": 184
+        "Expected_Points_Kicker": 184,
+        "Current_Points_Kicker": 18,
+        "Difference_Kicker": -166
     },
     {
         "ID": "pl-k00070997",
@@ -837,7 +975,9 @@
         "Marktwert": 3800000,
         "Expected_Points_Kickbase": 2470,
         "Expected_Points_Sorare": 1602,
-        "Expected_Points_Kicker": 160
+        "Expected_Points_Kicker": 160,
+        "Current_Points_Kicker": 22,
+        "Difference_Kicker": -138
     },
     {
         "ID": "pl-k00071021",
@@ -849,7 +989,9 @@
         "Marktwert": 3400000,
         "Expected_Points_Kickbase": 2708,
         "Expected_Points_Sorare": 1748,
-        "Expected_Points_Kicker": 175
+        "Expected_Points_Kicker": 175,
+        "Current_Points_Kicker": 24,
+        "Difference_Kicker": -151
     },
     {
         "ID": "pl-k00071150",
@@ -861,7 +1003,9 @@
         "Marktwert": 5000000,
         "Expected_Points_Kickbase": 4780,
         "Expected_Points_Sorare": 2288,
-        "Expected_Points_Kicker": 277
+        "Expected_Points_Kicker": 277,
+        "Current_Points_Kicker": 40,
+        "Difference_Kicker": -237
     },
     {
         "ID": "pl-k00071151",
@@ -873,7 +1017,9 @@
         "Marktwert": 2000000,
         "Expected_Points_Kickbase": 1827,
         "Expected_Points_Sorare": 1561,
-        "Expected_Points_Kicker": 133
+        "Expected_Points_Kicker": 133,
+        "Current_Points_Kicker": 19,
+        "Difference_Kicker": -114
     },
     {
         "ID": "pl-k00071294",
@@ -885,7 +1031,9 @@
         "Marktwert": 2000000,
         "Expected_Points_Kickbase": 2108,
         "Expected_Points_Sorare": 1783,
-        "Expected_Points_Kicker": 153
+        "Expected_Points_Kicker": 153,
+        "Current_Points_Kicker": 8,
+        "Difference_Kicker": -145
     },
     {
         "ID": "pl-k00071610",
@@ -897,7 +1045,9 @@
         "Marktwert": 1700000,
         "Expected_Points_Kickbase": 968,
         "Expected_Points_Sorare": 1178,
-        "Expected_Points_Kicker": 84
+        "Expected_Points_Kicker": 84,
+        "Current_Points_Kicker": 12,
+        "Difference_Kicker": -72
     },
     {
         "ID": "pl-k00071930",
@@ -909,7 +1059,9 @@
         "Marktwert": 2000000,
         "Expected_Points_Kickbase": 1432,
         "Expected_Points_Sorare": 1170,
-        "Expected_Points_Kicker": 102
+        "Expected_Points_Kicker": 102,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": -102
     },
     {
         "ID": "pl-k00071980",
@@ -921,7 +1073,9 @@
         "Marktwert": 1000000,
         "Expected_Points_Kickbase": 2,
         "Expected_Points_Sorare": 244,
-        "Expected_Points_Kicker": 10
+        "Expected_Points_Kicker": 10,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": -10
     },
     {
         "ID": "pl-k00072607",
@@ -933,7 +1087,9 @@
         "Marktwert": 500000,
         "Expected_Points_Kickbase": 2,
         "Expected_Points_Sorare": 305,
-        "Expected_Points_Kicker": 12
+        "Expected_Points_Kicker": 12,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": -12
     },
     {
         "ID": "pl-k00072676",
@@ -945,7 +1101,9 @@
         "Marktwert": 1800000,
         "Expected_Points_Kickbase": 2161,
         "Expected_Points_Sorare": 1565,
-        "Expected_Points_Kicker": 146
+        "Expected_Points_Kicker": 146,
+        "Current_Points_Kicker": 18,
+        "Difference_Kicker": -128
     },
     {
         "ID": "pl-k00072684",
@@ -957,7 +1115,9 @@
         "Marktwert": 500000,
         "Expected_Points_Kickbase": "NaN",
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 0
+        "Expected_Points_Kicker": 0,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": 0
     },
     {
         "ID": "pl-k00072706",
@@ -969,7 +1129,9 @@
         "Marktwert": 2600000,
         "Expected_Points_Kickbase": 2499,
         "Expected_Points_Sorare": 1483,
-        "Expected_Points_Kicker": 156
+        "Expected_Points_Kicker": 156,
+        "Current_Points_Kicker": 28,
+        "Difference_Kicker": -128
     },
     {
         "ID": "pl-k00072755",
@@ -981,7 +1143,9 @@
         "Marktwert": 3400000,
         "Expected_Points_Kickbase": 2849,
         "Expected_Points_Sorare": 2029,
-        "Expected_Points_Kicker": 191
+        "Expected_Points_Kicker": 191,
+        "Current_Points_Kicker": 32,
+        "Difference_Kicker": -159
     },
     {
         "ID": "pl-k00072759",
@@ -993,7 +1157,9 @@
         "Marktwert": 4000000,
         "Expected_Points_Kickbase": 3751,
         "Expected_Points_Sorare": 2055,
-        "Expected_Points_Kicker": 228
+        "Expected_Points_Kicker": 228,
+        "Current_Points_Kicker": 47,
+        "Difference_Kicker": -181
     },
     {
         "ID": "pl-k00073015",
@@ -1005,7 +1171,9 @@
         "Marktwert": 2000000,
         "Expected_Points_Kickbase": 1103,
         "Expected_Points_Sorare": 1154,
-        "Expected_Points_Kicker": 89
+        "Expected_Points_Kicker": 89,
+        "Current_Points_Kicker": 14,
+        "Difference_Kicker": -75
     },
     {
         "ID": "pl-k00073206",
@@ -1017,7 +1185,9 @@
         "Marktwert": 4000000,
         "Expected_Points_Kickbase": 3444,
         "Expected_Points_Sorare": 1799,
-        "Expected_Points_Kicker": 206
+        "Expected_Points_Kicker": 206,
+        "Current_Points_Kicker": 4,
+        "Difference_Kicker": -202
     },
     {
         "ID": "pl-k00073704",
@@ -1029,7 +1199,9 @@
         "Marktwert": 2800000,
         "Expected_Points_Kickbase": 2737,
         "Expected_Points_Sorare": 1953,
-        "Expected_Points_Kicker": 184
+        "Expected_Points_Kicker": 184,
+        "Current_Points_Kicker": 29,
+        "Difference_Kicker": -155
     },
     {
         "ID": "pl-k00075006",
@@ -1041,7 +1213,9 @@
         "Marktwert": 2200000,
         "Expected_Points_Kickbase": 2570,
         "Expected_Points_Sorare": 1764,
-        "Expected_Points_Kicker": 170
+        "Expected_Points_Kicker": 170,
+        "Current_Points_Kicker": 6,
+        "Difference_Kicker": -164
     },
     {
         "ID": "pl-k00075072",
@@ -1053,7 +1227,9 @@
         "Marktwert": 2500000,
         "Expected_Points_Kickbase": 2401,
         "Expected_Points_Sorare": 1578,
-        "Expected_Points_Kicker": 156
+        "Expected_Points_Kicker": 156,
+        "Current_Points_Kicker": 15,
+        "Difference_Kicker": -141
     },
     {
         "ID": "pl-k00075198",
@@ -1065,7 +1241,9 @@
         "Marktwert": 1600000,
         "Expected_Points_Kickbase": 1490,
         "Expected_Points_Sorare": 1488,
-        "Expected_Points_Kicker": 117
+        "Expected_Points_Kicker": 117,
+        "Current_Points_Kicker": 10,
+        "Difference_Kicker": -107
     },
     {
         "ID": "pl-k00075261",
@@ -1077,7 +1255,9 @@
         "Marktwert": 2500000,
         "Expected_Points_Kickbase": 1471,
         "Expected_Points_Sorare": 1248,
-        "Expected_Points_Kicker": 107
+        "Expected_Points_Kicker": 107,
+        "Current_Points_Kicker": 4,
+        "Difference_Kicker": -103
     },
     {
         "ID": "pl-k00075379",
@@ -1089,7 +1269,9 @@
         "Marktwert": 1800000,
         "Expected_Points_Kickbase": 944,
         "Expected_Points_Sorare": 886,
-        "Expected_Points_Kicker": 72
+        "Expected_Points_Kicker": 72,
+        "Current_Points_Kicker": 6,
+        "Difference_Kicker": -66
     },
     {
         "ID": "pl-k00075608",
@@ -1101,7 +1283,9 @@
         "Marktwert": 1200000,
         "Expected_Points_Kickbase": 931,
         "Expected_Points_Sorare": 1205,
-        "Expected_Points_Kicker": 84
+        "Expected_Points_Kicker": 84,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": -84
     },
     {
         "ID": "pl-k00075624",
@@ -1113,7 +1297,9 @@
         "Marktwert": 1500000,
         "Expected_Points_Kickbase": 1622,
         "Expected_Points_Sorare": 1383,
-        "Expected_Points_Kicker": 118
+        "Expected_Points_Kicker": 118,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": -118
     },
     {
         "ID": "pl-k00075625",
@@ -1125,7 +1311,9 @@
         "Marktwert": 1600000,
         "Expected_Points_Kickbase": 261,
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 15
+        "Expected_Points_Kicker": 15,
+        "Current_Points_Kicker": 4,
+        "Difference_Kicker": -11
     },
     {
         "ID": "pl-k00075628",
@@ -1137,7 +1325,9 @@
         "Marktwert": 1800000,
         "Expected_Points_Kickbase": 1939,
         "Expected_Points_Sorare": 1512,
-        "Expected_Points_Kicker": 135
+        "Expected_Points_Kicker": 135,
+        "Current_Points_Kicker": 10,
+        "Difference_Kicker": -125
     },
     {
         "ID": "pl-k00075632",
@@ -1149,7 +1339,9 @@
         "Marktwert": 1700000,
         "Expected_Points_Kickbase": 1679,
         "Expected_Points_Sorare": 1396,
-        "Expected_Points_Kicker": 121
+        "Expected_Points_Kicker": 121,
+        "Current_Points_Kicker": 14,
+        "Difference_Kicker": -107
     },
     {
         "ID": "pl-k00075651",
@@ -1161,7 +1353,9 @@
         "Marktwert": 3200000,
         "Expected_Points_Kickbase": 3178,
         "Expected_Points_Sorare": 2030,
-        "Expected_Points_Kicker": 204
+        "Expected_Points_Kicker": 204,
+        "Current_Points_Kicker": 39,
+        "Difference_Kicker": -165
     },
     {
         "ID": "pl-k00076053",
@@ -1173,7 +1367,9 @@
         "Marktwert": 3200000,
         "Expected_Points_Kickbase": 3256,
         "Expected_Points_Sorare": 1943,
-        "Expected_Points_Kicker": 204
+        "Expected_Points_Kicker": 204,
+        "Current_Points_Kicker": 28,
+        "Difference_Kicker": -176
     },
     {
         "ID": "pl-k00076421",
@@ -1185,7 +1381,9 @@
         "Marktwert": 1800000,
         "Expected_Points_Kickbase": 2111,
         "Expected_Points_Sorare": 1337,
-        "Expected_Points_Kicker": 135
+        "Expected_Points_Kicker": 135,
+        "Current_Points_Kicker": 26,
+        "Difference_Kicker": -109
     },
     {
         "ID": "pl-k00076446",
@@ -1197,7 +1395,9 @@
         "Marktwert": 2200000,
         "Expected_Points_Kickbase": 779,
         "Expected_Points_Sorare": 930,
-        "Expected_Points_Kicker": 67
+        "Expected_Points_Kicker": 67,
+        "Current_Points_Kicker": 10,
+        "Difference_Kicker": -57
     },
     {
         "ID": "pl-k00076575",
@@ -1209,7 +1409,9 @@
         "Marktwert": 2000000,
         "Expected_Points_Kickbase": 1202,
         "Expected_Points_Sorare": 939,
-        "Expected_Points_Kicker": 84
+        "Expected_Points_Kicker": 84,
+        "Current_Points_Kicker": 16,
+        "Difference_Kicker": -68
     },
     {
         "ID": "pl-k00076799",
@@ -1221,7 +1423,9 @@
         "Marktwert": 2200000,
         "Expected_Points_Kickbase": 2690,
         "Expected_Points_Sorare": 2051,
-        "Expected_Points_Kicker": 186
+        "Expected_Points_Kicker": 186,
+        "Current_Points_Kicker": 18,
+        "Difference_Kicker": -168
     },
     {
         "ID": "pl-k00076954",
@@ -1233,7 +1437,9 @@
         "Marktwert": 3800000,
         "Expected_Points_Kickbase": 3192,
         "Expected_Points_Sorare": 1665,
-        "Expected_Points_Kicker": 190
+        "Expected_Points_Kicker": 190,
+        "Current_Points_Kicker": 28,
+        "Difference_Kicker": -162
     },
     {
         "ID": "pl-k00077009",
@@ -1245,7 +1451,9 @@
         "Marktwert": 2500000,
         "Expected_Points_Kickbase": 186,
         "Expected_Points_Sorare": 38,
-        "Expected_Points_Kicker": 9
+        "Expected_Points_Kicker": 9,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": -9
     },
     {
         "ID": "pl-k00077322",
@@ -1257,7 +1465,9 @@
         "Marktwert": 500000,
         "Expected_Points_Kickbase": "NaN",
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 0
+        "Expected_Points_Kicker": 0,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": 0
     },
     {
         "ID": "pl-k00077333",
@@ -1269,7 +1479,9 @@
         "Marktwert": 1600000,
         "Expected_Points_Kickbase": 263,
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 15
+        "Expected_Points_Kicker": 15,
+        "Current_Points_Kicker": 2,
+        "Difference_Kicker": -13
     },
     {
         "ID": "pl-k00077817",
@@ -1281,7 +1493,9 @@
         "Marktwert": 1800000,
         "Expected_Points_Kickbase": 1927,
         "Expected_Points_Sorare": 1483,
-        "Expected_Points_Kicker": 134
+        "Expected_Points_Kicker": 134,
+        "Current_Points_Kicker": 20,
+        "Difference_Kicker": -114
     },
     {
         "ID": "pl-k00078467",
@@ -1293,7 +1507,9 @@
         "Marktwert": 1700000,
         "Expected_Points_Kickbase": 2008,
         "Expected_Points_Sorare": 1304,
-        "Expected_Points_Kicker": 130
+        "Expected_Points_Kicker": 130,
+        "Current_Points_Kicker": 26,
+        "Difference_Kicker": -104
     },
     {
         "ID": "pl-k00078917",
@@ -1305,7 +1521,9 @@
         "Marktwert": 500000,
         "Expected_Points_Kickbase": 2,
         "Expected_Points_Sorare": 253,
-        "Expected_Points_Kicker": 10
+        "Expected_Points_Kicker": 10,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": -10
     },
     {
         "ID": "pl-k00079036",
@@ -1317,7 +1535,9 @@
         "Marktwert": 2000000,
         "Expected_Points_Kickbase": 1023,
         "Expected_Points_Sorare": 1039,
-        "Expected_Points_Kicker": 81
+        "Expected_Points_Kicker": 81,
+        "Current_Points_Kicker": 6,
+        "Difference_Kicker": -75
     },
     {
         "ID": "pl-k00079078",
@@ -1329,7 +1549,9 @@
         "Marktwert": 2200000,
         "Expected_Points_Kickbase": 2161,
         "Expected_Points_Sorare": 1701,
-        "Expected_Points_Kicker": 151
+        "Expected_Points_Kicker": 151,
+        "Current_Points_Kicker": 34,
+        "Difference_Kicker": -117
     },
     {
         "ID": "pl-k00079176",
@@ -1341,7 +1563,9 @@
         "Marktwert": 3000000,
         "Expected_Points_Kickbase": 3062,
         "Expected_Points_Sorare": 1970,
-        "Expected_Points_Kicker": 197
+        "Expected_Points_Kicker": 197,
+        "Current_Points_Kicker": 25,
+        "Difference_Kicker": -172
     },
     {
         "ID": "pl-k00079188",
@@ -1353,7 +1577,9 @@
         "Marktwert": 1800000,
         "Expected_Points_Kickbase": 1892,
         "Expected_Points_Sorare": 1456,
-        "Expected_Points_Kicker": 131
+        "Expected_Points_Kicker": 131,
+        "Current_Points_Kicker": 8,
+        "Difference_Kicker": -123
     },
     {
         "ID": "pl-k00079199",
@@ -1365,7 +1591,9 @@
         "Marktwert": 1800000,
         "Expected_Points_Kickbase": 2,
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 0
+        "Expected_Points_Kicker": 0,
+        "Current_Points_Kicker": 14,
+        "Difference_Kicker": 14
     },
     {
         "ID": "pl-k00079360",
@@ -1377,7 +1605,9 @@
         "Marktwert": 1700000,
         "Expected_Points_Kickbase": 1240,
         "Expected_Points_Sorare": 910,
-        "Expected_Points_Kicker": 84
+        "Expected_Points_Kicker": 84,
+        "Current_Points_Kicker": 2,
+        "Difference_Kicker": -82
     },
     {
         "ID": "pl-k00079503",
@@ -1389,7 +1619,9 @@
         "Marktwert": 2500000,
         "Expected_Points_Kickbase": 2492,
         "Expected_Points_Sorare": 1654,
-        "Expected_Points_Kicker": 163
+        "Expected_Points_Kicker": 163,
+        "Current_Points_Kicker": 16,
+        "Difference_Kicker": -147
     },
     {
         "ID": "pl-k00079504",
@@ -1401,7 +1633,9 @@
         "Marktwert": 2600000,
         "Expected_Points_Kickbase": 2844,
         "Expected_Points_Sorare": 2193,
-        "Expected_Points_Kicker": 198
+        "Expected_Points_Kicker": 198,
+        "Current_Points_Kicker": 4,
+        "Difference_Kicker": -194
     },
     {
         "ID": "pl-k00079543",
@@ -1413,7 +1647,9 @@
         "Marktwert": 6500000,
         "Expected_Points_Kickbase": 4496,
         "Expected_Points_Sorare": 1735,
-        "Expected_Points_Kicker": 244
+        "Expected_Points_Kicker": 244,
+        "Current_Points_Kicker": 4,
+        "Difference_Kicker": -240
     },
     {
         "ID": "pl-k00079577",
@@ -1425,7 +1661,9 @@
         "Marktwert": 1800000,
         "Expected_Points_Kickbase": 2023,
         "Expected_Points_Sorare": 1385,
-        "Expected_Points_Kicker": 134
+        "Expected_Points_Kicker": 134,
+        "Current_Points_Kicker": 17,
+        "Difference_Kicker": -117
     },
     {
         "ID": "pl-k00079713",
@@ -1437,7 +1675,9 @@
         "Marktwert": 1700000,
         "Expected_Points_Kickbase": 1888,
         "Expected_Points_Sorare": 1481,
-        "Expected_Points_Kicker": 132
+        "Expected_Points_Kicker": 132,
+        "Current_Points_Kicker": 28,
+        "Difference_Kicker": -104
     },
     {
         "ID": "pl-k00079813",
@@ -1449,7 +1689,9 @@
         "Marktwert": 3500000,
         "Expected_Points_Kickbase": 3634,
         "Expected_Points_Sorare": 2035,
-        "Expected_Points_Kicker": 222
+        "Expected_Points_Kicker": 222,
+        "Current_Points_Kicker": 30,
+        "Difference_Kicker": -192
     },
     {
         "ID": "pl-k00079914",
@@ -1461,7 +1703,9 @@
         "Marktwert": 1400000,
         "Expected_Points_Kickbase": 275,
         "Expected_Points_Sorare": 839,
-        "Expected_Points_Kicker": 44
+        "Expected_Points_Kicker": 44,
+        "Current_Points_Kicker": 2,
+        "Difference_Kicker": -42
     },
     {
         "ID": "pl-k00079917",
@@ -1473,7 +1717,9 @@
         "Marktwert": 1200000,
         "Expected_Points_Kickbase": "NaN",
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 0
+        "Expected_Points_Kicker": 0,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": 0
     },
     {
         "ID": "pl-k00079935",
@@ -1485,7 +1731,9 @@
         "Marktwert": 2800000,
         "Expected_Points_Kickbase": 2243,
         "Expected_Points_Sorare": 1551,
-        "Expected_Points_Kicker": 149
+        "Expected_Points_Kicker": 149,
+        "Current_Points_Kicker": 16,
+        "Difference_Kicker": -133
     },
     {
         "ID": "pl-k00080029",
@@ -1497,7 +1745,9 @@
         "Marktwert": 1700000,
         "Expected_Points_Kickbase": 2516,
         "Expected_Points_Sorare": 1882,
-        "Expected_Points_Kicker": 172
+        "Expected_Points_Kicker": 172,
+        "Current_Points_Kicker": -4,
+        "Difference_Kicker": -176
     },
     {
         "ID": "pl-k00080083",
@@ -1509,7 +1759,9 @@
         "Marktwert": 3500000,
         "Expected_Points_Kickbase": 3760,
         "Expected_Points_Sorare": 2049,
-        "Expected_Points_Kicker": 228
+        "Expected_Points_Kicker": 228,
+        "Current_Points_Kicker": 26,
+        "Difference_Kicker": -202
     },
     {
         "ID": "pl-k00080088",
@@ -1521,7 +1773,9 @@
         "Marktwert": 2500000,
         "Expected_Points_Kickbase": "NaN",
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 0
+        "Expected_Points_Kicker": 0,
+        "Current_Points_Kicker": 6,
+        "Difference_Kicker": 6
     },
     {
         "ID": "pl-k00080174",
@@ -1533,7 +1787,9 @@
         "Marktwert": 4000000,
         "Expected_Points_Kickbase": 3735,
         "Expected_Points_Sorare": 2396,
-        "Expected_Points_Kicker": 240
+        "Expected_Points_Kicker": 240,
+        "Current_Points_Kicker": 16,
+        "Difference_Kicker": -224
     },
     {
         "ID": "pl-k00080342",
@@ -1545,7 +1801,9 @@
         "Marktwert": 1400000,
         "Expected_Points_Kickbase": 1728,
         "Expected_Points_Sorare": 1343,
-        "Expected_Points_Kicker": 120
+        "Expected_Points_Kicker": 120,
+        "Current_Points_Kicker": 16,
+        "Difference_Kicker": -104
     },
     {
         "ID": "pl-k00080351",
@@ -1557,7 +1815,9 @@
         "Marktwert": 5000000,
         "Expected_Points_Kickbase": 3146,
         "Expected_Points_Sorare": 1595,
-        "Expected_Points_Kicker": 186
+        "Expected_Points_Kicker": 186,
+        "Current_Points_Kicker": 14,
+        "Difference_Kicker": -172
     },
     {
         "ID": "pl-k00080364",
@@ -1569,7 +1829,9 @@
         "Marktwert": 1600000,
         "Expected_Points_Kickbase": 563,
         "Expected_Points_Sorare": 942,
-        "Expected_Points_Kicker": 59
+        "Expected_Points_Kicker": 59,
+        "Current_Points_Kicker": 2,
+        "Difference_Kicker": -57
     },
     {
         "ID": "pl-k00080554",
@@ -1581,7 +1843,9 @@
         "Marktwert": 1600000,
         "Expected_Points_Kickbase": 1413,
         "Expected_Points_Sorare": 1427,
-        "Expected_Points_Kicker": 111
+        "Expected_Points_Kicker": 111,
+        "Current_Points_Kicker": 22,
+        "Difference_Kicker": -89
     },
     {
         "ID": "pl-k00080766",
@@ -1593,7 +1857,9 @@
         "Marktwert": 800000,
         "Expected_Points_Kickbase": 2,
         "Expected_Points_Sorare": 253,
-        "Expected_Points_Kicker": 10
+        "Expected_Points_Kicker": 10,
+        "Current_Points_Kicker": 10,
+        "Difference_Kicker": 0
     },
     {
         "ID": "pl-k00080875",
@@ -1605,7 +1871,9 @@
         "Marktwert": 1300000,
         "Expected_Points_Kickbase": 1635,
         "Expected_Points_Sorare": 1399,
-        "Expected_Points_Kicker": 119
+        "Expected_Points_Kicker": 119,
+        "Current_Points_Kicker": 18,
+        "Difference_Kicker": -101
     },
     {
         "ID": "pl-k00081437",
@@ -1617,7 +1885,9 @@
         "Marktwert": 4200000,
         "Expected_Points_Kickbase": 1602,
         "Expected_Points_Sorare": 1149,
-        "Expected_Points_Kicker": 108
+        "Expected_Points_Kicker": 108,
+        "Current_Points_Kicker": 18,
+        "Difference_Kicker": -90
     },
     {
         "ID": "pl-k00081465",
@@ -1629,7 +1899,9 @@
         "Marktwert": 6500000,
         "Expected_Points_Kickbase": 5032,
         "Expected_Points_Sorare": 2162,
-        "Expected_Points_Kicker": 282
+        "Expected_Points_Kicker": 282,
+        "Current_Points_Kicker": 45,
+        "Difference_Kicker": -237
     },
     {
         "ID": "pl-k00081913",
@@ -1641,7 +1913,9 @@
         "Marktwert": 2200000,
         "Expected_Points_Kickbase": 1580,
         "Expected_Points_Sorare": 1088,
-        "Expected_Points_Kicker": 105
+        "Expected_Points_Kicker": 105,
+        "Current_Points_Kicker": 4,
+        "Difference_Kicker": -101
     },
     {
         "ID": "pl-k00081971",
@@ -1653,7 +1927,9 @@
         "Marktwert": 2200000,
         "Expected_Points_Kickbase": 2160,
         "Expected_Points_Sorare": 1518,
-        "Expected_Points_Kicker": 144
+        "Expected_Points_Kicker": 144,
+        "Current_Points_Kicker": 18,
+        "Difference_Kicker": -126
     },
     {
         "ID": "pl-k00082076",
@@ -1665,7 +1941,9 @@
         "Marktwert": 2400000,
         "Expected_Points_Kickbase": 2830,
         "Expected_Points_Sorare": 1595,
-        "Expected_Points_Kicker": 174
+        "Expected_Points_Kicker": 174,
+        "Current_Points_Kicker": 22,
+        "Difference_Kicker": -152
     },
     {
         "ID": "pl-k00082087",
@@ -1677,7 +1955,9 @@
         "Marktwert": 1600000,
         "Expected_Points_Kickbase": 2691,
         "Expected_Points_Sorare": 1791,
-        "Expected_Points_Kicker": 176
+        "Expected_Points_Kicker": 176,
+        "Current_Points_Kicker": 12,
+        "Difference_Kicker": -164
     },
     {
         "ID": "pl-k00082119",
@@ -1689,7 +1969,9 @@
         "Marktwert": 800000,
         "Expected_Points_Kickbase": 3,
         "Expected_Points_Sorare": 261,
-        "Expected_Points_Kicker": 10
+        "Expected_Points_Kicker": 10,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": -10
     },
     {
         "ID": "pl-k00082539",
@@ -1701,7 +1983,9 @@
         "Marktwert": 1700000,
         "Expected_Points_Kickbase": 1728,
         "Expected_Points_Sorare": 1469,
-        "Expected_Points_Kicker": 125
+        "Expected_Points_Kicker": 125,
+        "Current_Points_Kicker": 2,
+        "Difference_Kicker": -123
     },
     {
         "ID": "pl-k00082711",
@@ -1713,7 +1997,9 @@
         "Marktwert": 1300000,
         "Expected_Points_Kickbase": 797,
         "Expected_Points_Sorare": 1005,
-        "Expected_Points_Kicker": 71
+        "Expected_Points_Kicker": 71,
+        "Current_Points_Kicker": 10,
+        "Difference_Kicker": -61
     },
     {
         "ID": "pl-k00082727",
@@ -1725,7 +2011,9 @@
         "Marktwert": 3500000,
         "Expected_Points_Kickbase": 2273,
         "Expected_Points_Sorare": 1479,
-        "Expected_Points_Kicker": 147
+        "Expected_Points_Kicker": 147,
+        "Current_Points_Kicker": 10,
+        "Difference_Kicker": -137
     },
     {
         "ID": "pl-k00082732",
@@ -1737,7 +2025,9 @@
         "Marktwert": 1800000,
         "Expected_Points_Kickbase": "NaN",
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 0
+        "Expected_Points_Kicker": 0,
+        "Current_Points_Kicker": 2,
+        "Difference_Kicker": 2
     },
     {
         "ID": "pl-k00082966",
@@ -1749,7 +2039,9 @@
         "Marktwert": 1600000,
         "Expected_Points_Kickbase": 1793,
         "Expected_Points_Sorare": 1319,
-        "Expected_Points_Kicker": 122
+        "Expected_Points_Kicker": 122,
+        "Current_Points_Kicker": 22,
+        "Difference_Kicker": -100
     },
     {
         "ID": "pl-k00083673",
@@ -1761,7 +2053,9 @@
         "Marktwert": 1800000,
         "Expected_Points_Kickbase": 1489,
         "Expected_Points_Sorare": 1168,
-        "Expected_Points_Kicker": 104
+        "Expected_Points_Kicker": 104,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": -104
     },
     {
         "ID": "pl-k00083812",
@@ -1773,7 +2067,9 @@
         "Marktwert": 1000000,
         "Expected_Points_Kickbase": 491,
         "Expected_Points_Sorare": 925,
-        "Expected_Points_Kicker": 56
+        "Expected_Points_Kicker": 56,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": -56
     },
     {
         "ID": "pl-k00083928",
@@ -1785,7 +2081,9 @@
         "Marktwert": 1200000,
         "Expected_Points_Kickbase": 312,
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 18
+        "Expected_Points_Kicker": 18,
+        "Current_Points_Kicker": 10,
+        "Difference_Kicker": -8
     },
     {
         "ID": "pl-k00083988",
@@ -1797,7 +2095,9 @@
         "Marktwert": 2400000,
         "Expected_Points_Kickbase": 987,
         "Expected_Points_Sorare": 1076,
-        "Expected_Points_Kicker": 81
+        "Expected_Points_Kicker": 81,
+        "Current_Points_Kicker": 41,
+        "Difference_Kicker": -40
     },
     {
         "ID": "pl-k00084309",
@@ -1809,7 +2109,9 @@
         "Marktwert": 2600000,
         "Expected_Points_Kickbase": 3129,
         "Expected_Points_Sorare": 1829,
-        "Expected_Points_Kicker": 194
+        "Expected_Points_Kicker": 194,
+        "Current_Points_Kicker": 14,
+        "Difference_Kicker": -180
     },
     {
         "ID": "pl-k00084365",
@@ -1821,7 +2123,9 @@
         "Marktwert": 2000000,
         "Expected_Points_Kickbase": 2852,
         "Expected_Points_Sorare": 1804,
-        "Expected_Points_Kicker": 183
+        "Expected_Points_Kicker": 183,
+        "Current_Points_Kicker": 25,
+        "Difference_Kicker": -158
     },
     {
         "ID": "pl-k00084523",
@@ -1833,7 +2137,9 @@
         "Marktwert": 3200000,
         "Expected_Points_Kickbase": 1246,
         "Expected_Points_Sorare": 1038,
-        "Expected_Points_Kicker": 90
+        "Expected_Points_Kicker": 90,
+        "Current_Points_Kicker": 2,
+        "Difference_Kicker": -88
     },
     {
         "ID": "pl-k00084538",
@@ -1845,7 +2151,9 @@
         "Marktwert": 1600000,
         "Expected_Points_Kickbase": 1946,
         "Expected_Points_Sorare": 1631,
-        "Expected_Points_Kicker": 140
+        "Expected_Points_Kicker": 140,
+        "Current_Points_Kicker": 14,
+        "Difference_Kicker": -126
     },
     {
         "ID": "pl-k00084545",
@@ -1857,7 +2165,9 @@
         "Marktwert": 1200000,
         "Expected_Points_Kickbase": 808,
         "Expected_Points_Sorare": 975,
-        "Expected_Points_Kicker": 70
+        "Expected_Points_Kicker": 70,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": -70
     },
     {
         "ID": "pl-k00084550",
@@ -1869,7 +2179,9 @@
         "Marktwert": 3000000,
         "Expected_Points_Kickbase": 2902,
         "Expected_Points_Sorare": 1815,
-        "Expected_Points_Kicker": 185
+        "Expected_Points_Kicker": 185,
+        "Current_Points_Kicker": 34,
+        "Difference_Kicker": -151
     },
     {
         "ID": "pl-k00084940",
@@ -1881,7 +2193,9 @@
         "Marktwert": 3000000,
         "Expected_Points_Kickbase": 2664,
         "Expected_Points_Sorare": 1821,
-        "Expected_Points_Kicker": 176
+        "Expected_Points_Kicker": 176,
+        "Current_Points_Kicker": 18,
+        "Difference_Kicker": -158
     },
     {
         "ID": "pl-k00084943",
@@ -1893,7 +2207,9 @@
         "Marktwert": 3200000,
         "Expected_Points_Kickbase": 1400,
         "Expected_Points_Sorare": 1081,
-        "Expected_Points_Kicker": 97
+        "Expected_Points_Kicker": 97,
+        "Current_Points_Kicker": 14,
+        "Difference_Kicker": -83
     },
     {
         "ID": "pl-k00085013",
@@ -1905,7 +2221,9 @@
         "Marktwert": 5000000,
         "Expected_Points_Kickbase": 3215,
         "Expected_Points_Sorare": 2057,
-        "Expected_Points_Kicker": 207
+        "Expected_Points_Kicker": 207,
+        "Current_Points_Kicker": 12,
+        "Difference_Kicker": -195
     },
     {
         "ID": "pl-k00085014",
@@ -1917,7 +2235,9 @@
         "Marktwert": 2800000,
         "Expected_Points_Kickbase": 267,
         "Expected_Points_Sorare": 71,
-        "Expected_Points_Kicker": 13
+        "Expected_Points_Kicker": 13,
+        "Current_Points_Kicker": 2,
+        "Difference_Kicker": -11
     },
     {
         "ID": "pl-k00085252",
@@ -1929,7 +2249,9 @@
         "Marktwert": 1600000,
         "Expected_Points_Kickbase": "NaN",
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 0
+        "Expected_Points_Kicker": 0,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": 0
     },
     {
         "ID": "pl-k00085382",
@@ -1941,7 +2263,9 @@
         "Marktwert": 3200000,
         "Expected_Points_Kickbase": 3304,
         "Expected_Points_Sorare": 2012,
-        "Expected_Points_Kicker": 208
+        "Expected_Points_Kicker": 208,
+        "Current_Points_Kicker": 30,
+        "Difference_Kicker": -178
     },
     {
         "ID": "pl-k00085575",
@@ -1953,7 +2277,9 @@
         "Marktwert": 1000000,
         "Expected_Points_Kickbase": "NaN",
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 0
+        "Expected_Points_Kicker": 0,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": 0
     },
     {
         "ID": "pl-k00085778",
@@ -1965,7 +2291,9 @@
         "Marktwert": 4000000,
         "Expected_Points_Kickbase": 2014,
         "Expected_Points_Sorare": 1346,
-        "Expected_Points_Kicker": 132
+        "Expected_Points_Kicker": 132,
+        "Current_Points_Kicker": 4,
+        "Difference_Kicker": -128
     },
     {
         "ID": "pl-k00086106",
@@ -1977,7 +2305,9 @@
         "Marktwert": 1800000,
         "Expected_Points_Kickbase": 2067,
         "Expected_Points_Sorare": 1477,
-        "Expected_Points_Kicker": 139
+        "Expected_Points_Kicker": 139,
+        "Current_Points_Kicker": 21,
+        "Difference_Kicker": -118
     },
     {
         "ID": "pl-k00086166",
@@ -1989,7 +2319,9 @@
         "Marktwert": 3400000,
         "Expected_Points_Kickbase": 3240,
         "Expected_Points_Sorare": 1774,
-        "Expected_Points_Kicker": 197
+        "Expected_Points_Kicker": 197,
+        "Current_Points_Kicker": 24,
+        "Difference_Kicker": -173
     },
     {
         "ID": "pl-k00087441",
@@ -2001,7 +2333,9 @@
         "Marktwert": 1600000,
         "Expected_Points_Kickbase": 1093,
         "Expected_Points_Sorare": 1167,
-        "Expected_Points_Kicker": 89
+        "Expected_Points_Kicker": 89,
+        "Current_Points_Kicker": 2,
+        "Difference_Kicker": -87
     },
     {
         "ID": "pl-k00087673",
@@ -2013,7 +2347,9 @@
         "Marktwert": 4200000,
         "Expected_Points_Kickbase": 3325,
         "Expected_Points_Sorare": 2088,
-        "Expected_Points_Kicker": 212
+        "Expected_Points_Kicker": 212,
+        "Current_Points_Kicker": 28,
+        "Difference_Kicker": -184
     },
     {
         "ID": "pl-k00087705",
@@ -2025,7 +2361,9 @@
         "Marktwert": 4800000,
         "Expected_Points_Kickbase": 3403,
         "Expected_Points_Sorare": 1763,
-        "Expected_Points_Kicker": 203
+        "Expected_Points_Kicker": 203,
+        "Current_Points_Kicker": 41,
+        "Difference_Kicker": -162
     },
     {
         "ID": "pl-k00087750",
@@ -2037,7 +2375,9 @@
         "Marktwert": 3600000,
         "Expected_Points_Kickbase": 3760,
         "Expected_Points_Sorare": 1844,
-        "Expected_Points_Kicker": 220
+        "Expected_Points_Kicker": 220,
+        "Current_Points_Kicker": 26,
+        "Difference_Kicker": -194
     },
     {
         "ID": "pl-k00087823",
@@ -2049,7 +2389,9 @@
         "Marktwert": 2800000,
         "Expected_Points_Kickbase": 2149,
         "Expected_Points_Sorare": 1501,
-        "Expected_Points_Kicker": 143
+        "Expected_Points_Kicker": 143,
+        "Current_Points_Kicker": 16,
+        "Difference_Kicker": -127
     },
     {
         "ID": "pl-k00087885",
@@ -2061,7 +2403,9 @@
         "Marktwert": 5500000,
         "Expected_Points_Kickbase": 3911,
         "Expected_Points_Sorare": 1837,
-        "Expected_Points_Kicker": 225
+        "Expected_Points_Kicker": 225,
+        "Current_Points_Kicker": 40,
+        "Difference_Kicker": -185
     },
     {
         "ID": "pl-k00088061",
@@ -2073,7 +2417,9 @@
         "Marktwert": 2500000,
         "Expected_Points_Kickbase": 842,
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 48
+        "Expected_Points_Kicker": 48,
+        "Current_Points_Kicker": 6,
+        "Difference_Kicker": -42
     },
     {
         "ID": "pl-k00088151",
@@ -2085,7 +2431,9 @@
         "Marktwert": 3000000,
         "Expected_Points_Kickbase": 2975,
         "Expected_Points_Sorare": 1847,
-        "Expected_Points_Kicker": 189
+        "Expected_Points_Kicker": 189,
+        "Current_Points_Kicker": 30,
+        "Difference_Kicker": -159
     },
     {
         "ID": "pl-k00088182",
@@ -2097,7 +2445,9 @@
         "Marktwert": 2000000,
         "Expected_Points_Kickbase": 1082,
         "Expected_Points_Sorare": 1030,
-        "Expected_Points_Kicker": 83
+        "Expected_Points_Kicker": 83,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": -83
     },
     {
         "ID": "pl-k00088192",
@@ -2109,7 +2459,9 @@
         "Marktwert": 3800000,
         "Expected_Points_Kickbase": 2520,
         "Expected_Points_Sorare": 1485,
-        "Expected_Points_Kicker": 157
+        "Expected_Points_Kicker": 157,
+        "Current_Points_Kicker": 37,
+        "Difference_Kicker": -120
     },
     {
         "ID": "pl-k00088240",
@@ -2121,7 +2473,9 @@
         "Marktwert": 3200000,
         "Expected_Points_Kickbase": 3554,
         "Expected_Points_Sorare": 2094,
-        "Expected_Points_Kicker": 221
+        "Expected_Points_Kicker": 221,
+        "Current_Points_Kicker": 12,
+        "Difference_Kicker": -209
     },
     {
         "ID": "pl-k00088376",
@@ -2133,7 +2487,9 @@
         "Marktwert": 2400000,
         "Expected_Points_Kickbase": 1187,
         "Expected_Points_Sorare": 1219,
-        "Expected_Points_Kicker": 94
+        "Expected_Points_Kicker": 94,
+        "Current_Points_Kicker": 8,
+        "Difference_Kicker": -86
     },
     {
         "ID": "pl-k00088705",
@@ -2145,7 +2501,9 @@
         "Marktwert": 1400000,
         "Expected_Points_Kickbase": 255,
         "Expected_Points_Sorare": 43,
-        "Expected_Points_Kicker": 12
+        "Expected_Points_Kicker": 12,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": -12
     },
     {
         "ID": "pl-k00088765",
@@ -2157,7 +2515,9 @@
         "Marktwert": 1200000,
         "Expected_Points_Kickbase": 734,
         "Expected_Points_Sorare": 884,
-        "Expected_Points_Kicker": 63
+        "Expected_Points_Kicker": 63,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": -63
     },
     {
         "ID": "pl-k00088770",
@@ -2169,7 +2529,9 @@
         "Marktwert": 1800000,
         "Expected_Points_Kickbase": 1075,
         "Expected_Points_Sorare": 984,
-        "Expected_Points_Kicker": 81
+        "Expected_Points_Kicker": 81,
+        "Current_Points_Kicker": 10,
+        "Difference_Kicker": -71
     },
     {
         "ID": "pl-k00088774",
@@ -2181,7 +2543,9 @@
         "Marktwert": 1400000,
         "Expected_Points_Kickbase": 595,
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 34
+        "Expected_Points_Kicker": 34,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": -34
     },
     {
         "ID": "pl-k00088986",
@@ -2193,7 +2557,9 @@
         "Marktwert": 1400000,
         "Expected_Points_Kickbase": 1,
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 0
+        "Expected_Points_Kicker": 0,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": 0
     },
     {
         "ID": "pl-k00089233",
@@ -2205,7 +2571,9 @@
         "Marktwert": 1300000,
         "Expected_Points_Kickbase": 1293,
         "Expected_Points_Sorare": 1347,
-        "Expected_Points_Kicker": 104
+        "Expected_Points_Kicker": 104,
+        "Current_Points_Kicker": 8,
+        "Difference_Kicker": -96
     },
     {
         "ID": "pl-k00089406",
@@ -2217,7 +2585,9 @@
         "Marktwert": 1000000,
         "Expected_Points_Kickbase": 642,
         "Expected_Points_Sorare": 829,
-        "Expected_Points_Kicker": 58
+        "Expected_Points_Kicker": 58,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": -58
     },
     {
         "ID": "pl-k00089434",
@@ -2229,7 +2599,9 @@
         "Marktwert": 3000000,
         "Expected_Points_Kickbase": 1612,
         "Expected_Points_Sorare": 1114,
-        "Expected_Points_Kicker": 107
+        "Expected_Points_Kicker": 107,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": -107
     },
     {
         "ID": "pl-k00089441",
@@ -2241,7 +2613,9 @@
         "Marktwert": 2400000,
         "Expected_Points_Kickbase": 1493,
         "Expected_Points_Sorare": 1623,
-        "Expected_Points_Kicker": 122
+        "Expected_Points_Kicker": 122,
+        "Current_Points_Kicker": 8,
+        "Difference_Kicker": -114
     },
     {
         "ID": "pl-k00089442",
@@ -2253,7 +2627,9 @@
         "Marktwert": 7500000,
         "Expected_Points_Kickbase": 4339,
         "Expected_Points_Sorare": 1664,
-        "Expected_Points_Kicker": 235
+        "Expected_Points_Kicker": 235,
+        "Current_Points_Kicker": 34,
+        "Difference_Kicker": -201
     },
     {
         "ID": "pl-k00089649",
@@ -2265,7 +2641,9 @@
         "Marktwert": 2400000,
         "Expected_Points_Kickbase": 1641,
         "Expected_Points_Sorare": 1144,
-        "Expected_Points_Kicker": 109
+        "Expected_Points_Kicker": 109,
+        "Current_Points_Kicker": 10,
+        "Difference_Kicker": -99
     },
     {
         "ID": "pl-k00089650",
@@ -2277,7 +2655,9 @@
         "Marktwert": 1700000,
         "Expected_Points_Kickbase": 722,
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 41
+        "Expected_Points_Kicker": 41,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": -41
     },
     {
         "ID": "pl-k00089655",
@@ -2289,7 +2669,9 @@
         "Marktwert": 3200000,
         "Expected_Points_Kickbase": 2703,
         "Expected_Points_Sorare": 1877,
-        "Expected_Points_Kicker": 180
+        "Expected_Points_Kicker": 180,
+        "Current_Points_Kicker": 12,
+        "Difference_Kicker": -168
     },
     {
         "ID": "pl-k00089775",
@@ -2301,7 +2683,9 @@
         "Marktwert": 500000,
         "Expected_Points_Kickbase": "NaN",
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 0
+        "Expected_Points_Kicker": 0,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": 0
     },
     {
         "ID": "pl-k00089834",
@@ -2313,7 +2697,9 @@
         "Marktwert": 1500000,
         "Expected_Points_Kickbase": 1815,
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 104
+        "Expected_Points_Kicker": 104,
+        "Current_Points_Kicker": 10,
+        "Difference_Kicker": -94
     },
     {
         "ID": "pl-k00089857",
@@ -2325,7 +2711,9 @@
         "Marktwert": 1500000,
         "Expected_Points_Kickbase": 1507,
         "Expected_Points_Sorare": 1338,
-        "Expected_Points_Kicker": 112
+        "Expected_Points_Kicker": 112,
+        "Current_Points_Kicker": 19,
+        "Difference_Kicker": -93
     },
     {
         "ID": "pl-k00089892",
@@ -2337,7 +2725,9 @@
         "Marktwert": 2000000,
         "Expected_Points_Kickbase": 2064,
         "Expected_Points_Sorare": 1530,
-        "Expected_Points_Kicker": 141
+        "Expected_Points_Kicker": 141,
+        "Current_Points_Kicker": 24,
+        "Difference_Kicker": -117
     },
     {
         "ID": "pl-k00090042",
@@ -2349,7 +2739,9 @@
         "Marktwert": 3500000,
         "Expected_Points_Kickbase": 2811,
         "Expected_Points_Sorare": 1828,
-        "Expected_Points_Kicker": 182
+        "Expected_Points_Kicker": 182,
+        "Current_Points_Kicker": 14,
+        "Difference_Kicker": -168
     },
     {
         "ID": "pl-k00090095",
@@ -2361,7 +2753,9 @@
         "Marktwert": 1800000,
         "Expected_Points_Kickbase": 1887,
         "Expected_Points_Sorare": 1403,
-        "Expected_Points_Kicker": 129
+        "Expected_Points_Kicker": 129,
+        "Current_Points_Kicker": 6,
+        "Difference_Kicker": -123
     },
     {
         "ID": "pl-k00090133",
@@ -2373,7 +2767,9 @@
         "Marktwert": 1800000,
         "Expected_Points_Kickbase": 1922,
         "Expected_Points_Sorare": 1560,
-        "Expected_Points_Kicker": 137
+        "Expected_Points_Kicker": 137,
+        "Current_Points_Kicker": 18,
+        "Difference_Kicker": -119
     },
     {
         "ID": "pl-k00090149",
@@ -2385,7 +2781,9 @@
         "Marktwert": 1600000,
         "Expected_Points_Kickbase": 950,
         "Expected_Points_Sorare": 884,
-        "Expected_Points_Kicker": 72
+        "Expected_Points_Kicker": 72,
+        "Current_Points_Kicker": 4,
+        "Difference_Kicker": -68
     },
     {
         "ID": "pl-k00090371",
@@ -2397,7 +2795,9 @@
         "Marktwert": 2000000,
         "Expected_Points_Kickbase": 1583,
         "Expected_Points_Sorare": 1415,
-        "Expected_Points_Kicker": 118
+        "Expected_Points_Kicker": 118,
+        "Current_Points_Kicker": 14,
+        "Difference_Kicker": -104
     },
     {
         "ID": "pl-k00090996",
@@ -2409,7 +2809,9 @@
         "Marktwert": 5000000,
         "Expected_Points_Kickbase": 3458,
         "Expected_Points_Sorare": 2222,
-        "Expected_Points_Kicker": 223
+        "Expected_Points_Kicker": 223,
+        "Current_Points_Kicker": 6,
+        "Difference_Kicker": -217
     },
     {
         "ID": "pl-k00091011",
@@ -2421,7 +2823,9 @@
         "Marktwert": 1200000,
         "Expected_Points_Kickbase": 624,
         "Expected_Points_Sorare": 937,
-        "Expected_Points_Kicker": 61
+        "Expected_Points_Kicker": 61,
+        "Current_Points_Kicker": 6,
+        "Difference_Kicker": -55
     },
     {
         "ID": "pl-k00091126",
@@ -2433,7 +2837,9 @@
         "Marktwert": 2800000,
         "Expected_Points_Kickbase": 3042,
         "Expected_Points_Sorare": 1725,
-        "Expected_Points_Kicker": 187
+        "Expected_Points_Kicker": 187,
+        "Current_Points_Kicker": 21,
+        "Difference_Kicker": -166
     },
     {
         "ID": "pl-k00091372",
@@ -2445,7 +2851,9 @@
         "Marktwert": 1800000,
         "Expected_Points_Kickbase": 2303,
         "Expected_Points_Sorare": 1690,
-        "Expected_Points_Kicker": 157
+        "Expected_Points_Kicker": 157,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": -157
     },
     {
         "ID": "pl-k00091663",
@@ -2457,7 +2865,9 @@
         "Marktwert": 2000000,
         "Expected_Points_Kickbase": 1767,
         "Expected_Points_Sorare": 1567,
-        "Expected_Points_Kicker": 131
+        "Expected_Points_Kicker": 131,
+        "Current_Points_Kicker": 10,
+        "Difference_Kicker": -121
     },
     {
         "ID": "pl-k00092237",
@@ -2469,7 +2879,9 @@
         "Marktwert": 2600000,
         "Expected_Points_Kickbase": 2775,
         "Expected_Points_Sorare": 1881,
-        "Expected_Points_Kicker": 183
+        "Expected_Points_Kicker": 183,
+        "Current_Points_Kicker": 22,
+        "Difference_Kicker": -161
     },
     {
         "ID": "pl-k00092331",
@@ -2481,7 +2893,9 @@
         "Marktwert": 2600000,
         "Expected_Points_Kickbase": 2561,
         "Expected_Points_Sorare": 1513,
-        "Expected_Points_Kicker": 160
+        "Expected_Points_Kicker": 160,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": -160
     },
     {
         "ID": "pl-k00093359",
@@ -2493,7 +2907,9 @@
         "Marktwert": 600000,
         "Expected_Points_Kickbase": "NaN",
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 0
+        "Expected_Points_Kicker": 0,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": 0
     },
     {
         "ID": "pl-k00093478",
@@ -2505,7 +2921,9 @@
         "Marktwert": 800000,
         "Expected_Points_Kickbase": 2,
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 0
+        "Expected_Points_Kicker": 0,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": 0
     },
     {
         "ID": "pl-k00093610",
@@ -2517,7 +2935,9 @@
         "Marktwert": 500000,
         "Expected_Points_Kickbase": "NaN",
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 0
+        "Expected_Points_Kicker": 0,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": 0
     },
     {
         "ID": "pl-k00093688",
@@ -2529,7 +2949,9 @@
         "Marktwert": 1800000,
         "Expected_Points_Kickbase": 1396,
         "Expected_Points_Sorare": 1144,
-        "Expected_Points_Kicker": 100
+        "Expected_Points_Kicker": 100,
+        "Current_Points_Kicker": 4,
+        "Difference_Kicker": -96
     },
     {
         "ID": "pl-k00093843",
@@ -2541,7 +2963,9 @@
         "Marktwert": 500000,
         "Expected_Points_Kickbase": 2,
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 0
+        "Expected_Points_Kicker": 0,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": 0
     },
     {
         "ID": "pl-k00094213",
@@ -2553,7 +2977,9 @@
         "Marktwert": 2000000,
         "Expected_Points_Kickbase": 2434,
         "Expected_Points_Sorare": 1403,
-        "Expected_Points_Kicker": 150
+        "Expected_Points_Kicker": 150,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": -150
     },
     {
         "ID": "pl-k00094223",
@@ -2565,7 +2991,9 @@
         "Marktwert": 1500000,
         "Expected_Points_Kickbase": 1,
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 0
+        "Expected_Points_Kicker": 0,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": 0
     },
     {
         "ID": "pl-k00094305",
@@ -2577,7 +3005,9 @@
         "Marktwert": 1200000,
         "Expected_Points_Kickbase": 180,
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 10
+        "Expected_Points_Kicker": 10,
+        "Current_Points_Kicker": 2,
+        "Difference_Kicker": -8
     },
     {
         "ID": "pl-k00094599",
@@ -2589,7 +3019,9 @@
         "Marktwert": 1000000,
         "Expected_Points_Kickbase": 212,
         "Expected_Points_Sorare": 50,
-        "Expected_Points_Kicker": 10
+        "Expected_Points_Kicker": 10,
+        "Current_Points_Kicker": -4,
+        "Difference_Kicker": -14
     },
     {
         "ID": "pl-k00094920",
@@ -2601,7 +3033,9 @@
         "Marktwert": 2000000,
         "Expected_Points_Kickbase": 1340,
         "Expected_Points_Sorare": 1038,
-        "Expected_Points_Kicker": 93
+        "Expected_Points_Kicker": 93,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": -93
     },
     {
         "ID": "pl-k00094959",
@@ -2613,7 +3047,9 @@
         "Marktwert": 3200000,
         "Expected_Points_Kickbase": 2709,
         "Expected_Points_Sorare": 1584,
-        "Expected_Points_Kicker": 168
+        "Expected_Points_Kicker": 168,
+        "Current_Points_Kicker": 33,
+        "Difference_Kicker": -135
     },
     {
         "ID": "pl-k00095052",
@@ -2625,7 +3061,9 @@
         "Marktwert": 1000000,
         "Expected_Points_Kickbase": "NaN",
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 0
+        "Expected_Points_Kicker": 0,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": 0
     },
     {
         "ID": "pl-k00095063",
@@ -2637,7 +3075,9 @@
         "Marktwert": 1800000,
         "Expected_Points_Kickbase": 2769,
         "Expected_Points_Sorare": 1956,
-        "Expected_Points_Kicker": 185
+        "Expected_Points_Kicker": 185,
+        "Current_Points_Kicker": 12,
+        "Difference_Kicker": -173
     },
     {
         "ID": "pl-k00095202",
@@ -2649,7 +3089,9 @@
         "Marktwert": 500000,
         "Expected_Points_Kickbase": "NaN",
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 0
+        "Expected_Points_Kicker": 0,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": 0
     },
     {
         "ID": "pl-k00095222",
@@ -2661,7 +3103,9 @@
         "Marktwert": 1000000,
         "Expected_Points_Kickbase": 468,
         "Expected_Points_Sorare": 899,
-        "Expected_Points_Kicker": 54
+        "Expected_Points_Kicker": 54,
+        "Current_Points_Kicker": 22,
+        "Difference_Kicker": -32
     },
     {
         "ID": "pl-k00095291",
@@ -2673,7 +3117,9 @@
         "Marktwert": 2200000,
         "Expected_Points_Kickbase": 2549,
         "Expected_Points_Sorare": 1525,
-        "Expected_Points_Kicker": 160
+        "Expected_Points_Kicker": 160,
+        "Current_Points_Kicker": 22,
+        "Difference_Kicker": -138
     },
     {
         "ID": "pl-k00095487",
@@ -2685,7 +3131,9 @@
         "Marktwert": 1700000,
         "Expected_Points_Kickbase": 1378,
         "Expected_Points_Sorare": 1173,
-        "Expected_Points_Kicker": 100
+        "Expected_Points_Kicker": 100,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": -100
     },
     {
         "ID": "pl-k00095745",
@@ -2697,7 +3145,9 @@
         "Marktwert": 1800000,
         "Expected_Points_Kickbase": 1681,
         "Expected_Points_Sorare": 1383,
-        "Expected_Points_Kicker": 120
+        "Expected_Points_Kicker": 120,
+        "Current_Points_Kicker": 9,
+        "Difference_Kicker": -111
     },
     {
         "ID": "pl-k00096032",
@@ -2709,7 +3159,9 @@
         "Marktwert": 1600000,
         "Expected_Points_Kickbase": 1804,
         "Expected_Points_Sorare": 1465,
-        "Expected_Points_Kicker": 128
+        "Expected_Points_Kicker": 128,
+        "Current_Points_Kicker": 23,
+        "Difference_Kicker": -105
     },
     {
         "ID": "pl-k00096038",
@@ -2721,7 +3173,9 @@
         "Marktwert": 3000000,
         "Expected_Points_Kickbase": 3050,
         "Expected_Points_Sorare": 2196,
-        "Expected_Points_Kicker": 206
+        "Expected_Points_Kicker": 206,
+        "Current_Points_Kicker": 10,
+        "Difference_Kicker": -196
     },
     {
         "ID": "pl-k00096140",
@@ -2733,7 +3187,9 @@
         "Marktwert": 3800000,
         "Expected_Points_Kickbase": 3884,
         "Expected_Points_Sorare": 2350,
-        "Expected_Points_Kicker": 244
+        "Expected_Points_Kicker": 244,
+        "Current_Points_Kicker": 5,
+        "Difference_Kicker": -239
     },
     {
         "ID": "pl-k00096210",
@@ -2745,7 +3201,9 @@
         "Marktwert": 1800000,
         "Expected_Points_Kickbase": 2161,
         "Expected_Points_Sorare": 1487,
-        "Expected_Points_Kicker": 143
+        "Expected_Points_Kicker": 143,
+        "Current_Points_Kicker": 22,
+        "Difference_Kicker": -121
     },
     {
         "ID": "pl-k00096680",
@@ -2757,7 +3215,9 @@
         "Marktwert": 2000000,
         "Expected_Points_Kickbase": 2286,
         "Expected_Points_Sorare": 1524,
-        "Expected_Points_Kicker": 149
+        "Expected_Points_Kicker": 149,
+        "Current_Points_Kicker": 30,
+        "Difference_Kicker": -119
     },
     {
         "ID": "pl-k00096744",
@@ -2769,7 +3229,9 @@
         "Marktwert": 1600000,
         "Expected_Points_Kickbase": 2057,
         "Expected_Points_Sorare": 1405,
-        "Expected_Points_Kicker": 136
+        "Expected_Points_Kicker": 136,
+        "Current_Points_Kicker": 6,
+        "Difference_Kicker": -130
     },
     {
         "ID": "pl-k00097350",
@@ -2781,7 +3243,9 @@
         "Marktwert": 1700000,
         "Expected_Points_Kickbase": 2312,
         "Expected_Points_Sorare": 1394,
-        "Expected_Points_Kicker": 145
+        "Expected_Points_Kicker": 145,
+        "Current_Points_Kicker": 14,
+        "Difference_Kicker": -131
     },
     {
         "ID": "pl-k00097452",
@@ -2793,7 +3257,9 @@
         "Marktwert": 1600000,
         "Expected_Points_Kickbase": 623,
         "Expected_Points_Sorare": 884,
-        "Expected_Points_Kicker": 59
+        "Expected_Points_Kicker": 59,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": -59
     },
     {
         "ID": "pl-k00097629",
@@ -2805,7 +3271,9 @@
         "Marktwert": 1500000,
         "Expected_Points_Kickbase": 939,
         "Expected_Points_Sorare": 918,
-        "Expected_Points_Kicker": 73
+        "Expected_Points_Kicker": 73,
+        "Current_Points_Kicker": 10,
+        "Difference_Kicker": -63
     },
     {
         "ID": "pl-k00097797",
@@ -2817,7 +3285,9 @@
         "Marktwert": 3000000,
         "Expected_Points_Kickbase": 2312,
         "Expected_Points_Sorare": 1426,
-        "Expected_Points_Kicker": 147
+        "Expected_Points_Kicker": 147,
+        "Current_Points_Kicker": 19,
+        "Difference_Kicker": -128
     },
     {
         "ID": "pl-k00097892",
@@ -2829,7 +3299,9 @@
         "Marktwert": 800000,
         "Expected_Points_Kickbase": "NaN",
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 0
+        "Expected_Points_Kicker": 0,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": 0
     },
     {
         "ID": "pl-k00097901",
@@ -2841,7 +3313,9 @@
         "Marktwert": 1000000,
         "Expected_Points_Kickbase": 251,
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 14
+        "Expected_Points_Kicker": 14,
+        "Current_Points_Kicker": 2,
+        "Difference_Kicker": -12
     },
     {
         "ID": "pl-k00097912",
@@ -2853,7 +3327,9 @@
         "Marktwert": 1600000,
         "Expected_Points_Kickbase": 1249,
         "Expected_Points_Sorare": 915,
-        "Expected_Points_Kicker": 85
+        "Expected_Points_Kicker": 85,
+        "Current_Points_Kicker": 4,
+        "Difference_Kicker": -81
     },
     {
         "ID": "pl-k00097999",
@@ -2865,7 +3341,9 @@
         "Marktwert": 1200000,
         "Expected_Points_Kickbase": 498,
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 28
+        "Expected_Points_Kicker": 28,
+        "Current_Points_Kicker": 6,
+        "Difference_Kicker": -22
     },
     {
         "ID": "pl-k00098165",
@@ -2877,7 +3355,9 @@
         "Marktwert": 2200000,
         "Expected_Points_Kickbase": 1841,
         "Expected_Points_Sorare": 1269,
-        "Expected_Points_Kicker": 122
+        "Expected_Points_Kicker": 122,
+        "Current_Points_Kicker": 19,
+        "Difference_Kicker": -103
     },
     {
         "ID": "pl-k00098320",
@@ -2889,7 +3369,9 @@
         "Marktwert": 2200000,
         "Expected_Points_Kickbase": 2758,
         "Expected_Points_Sorare": 1615,
-        "Expected_Points_Kicker": 171
+        "Expected_Points_Kicker": 171,
+        "Current_Points_Kicker": -2,
+        "Difference_Kicker": -173
     },
     {
         "ID": "pl-k00098654",
@@ -2901,7 +3383,9 @@
         "Marktwert": 1700000,
         "Expected_Points_Kickbase": 1942,
         "Expected_Points_Sorare": 1700,
-        "Expected_Points_Kicker": 143
+        "Expected_Points_Kicker": 143,
+        "Current_Points_Kicker": 22,
+        "Difference_Kicker": -121
     },
     {
         "ID": "pl-k00099583",
@@ -2913,7 +3397,9 @@
         "Marktwert": 3400000,
         "Expected_Points_Kickbase": 2808,
         "Expected_Points_Sorare": 1799,
-        "Expected_Points_Kicker": 181
+        "Expected_Points_Kicker": 181,
+        "Current_Points_Kicker": 24,
+        "Difference_Kicker": -157
     },
     {
         "ID": "pl-k00099754",
@@ -2925,7 +3411,9 @@
         "Marktwert": 1800000,
         "Expected_Points_Kickbase": 2203,
         "Expected_Points_Sorare": 1654,
-        "Expected_Points_Kicker": 151
+        "Expected_Points_Kicker": 151,
+        "Current_Points_Kicker": 20,
+        "Difference_Kicker": -131
     },
     {
         "ID": "pl-k00099757",
@@ -2937,7 +3425,9 @@
         "Marktwert": 2200000,
         "Expected_Points_Kickbase": 1552,
         "Expected_Points_Sorare": 1203,
-        "Expected_Points_Kicker": 108
+        "Expected_Points_Kicker": 108,
+        "Current_Points_Kicker": 18,
+        "Difference_Kicker": -90
     },
     {
         "ID": "pl-k00099794",
@@ -2949,7 +3439,9 @@
         "Marktwert": 2800000,
         "Expected_Points_Kickbase": 3058,
         "Expected_Points_Sorare": 2020,
-        "Expected_Points_Kicker": 199
+        "Expected_Points_Kicker": 199,
+        "Current_Points_Kicker": 20,
+        "Difference_Kicker": -179
     },
     {
         "ID": "pl-k00099897",
@@ -2961,7 +3453,9 @@
         "Marktwert": 2000000,
         "Expected_Points_Kickbase": 1821,
         "Expected_Points_Sorare": 1509,
-        "Expected_Points_Kicker": 131
+        "Expected_Points_Kicker": 131,
+        "Current_Points_Kicker": 12,
+        "Difference_Kicker": -119
     },
     {
         "ID": "pl-k00099914",
@@ -2973,7 +3467,9 @@
         "Marktwert": 2200000,
         "Expected_Points_Kickbase": 2083,
         "Expected_Points_Sorare": 1585,
-        "Expected_Points_Kicker": 144
+        "Expected_Points_Kicker": 144,
+        "Current_Points_Kicker": 20,
+        "Difference_Kicker": -124
     },
     {
         "ID": "pl-k00099946",
@@ -2985,7 +3481,9 @@
         "Marktwert": 1000000,
         "Expected_Points_Kickbase": "NaN",
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 0
+        "Expected_Points_Kicker": 0,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": 0
     },
     {
         "ID": "pl-k00100299",
@@ -2997,7 +3495,9 @@
         "Marktwert": 2000000,
         "Expected_Points_Kickbase": 1186,
         "Expected_Points_Sorare": 1045,
-        "Expected_Points_Kicker": 87
+        "Expected_Points_Kicker": 87,
+        "Current_Points_Kicker": 4,
+        "Difference_Kicker": -83
     },
     {
         "ID": "pl-k00100305",
@@ -3009,7 +3509,9 @@
         "Marktwert": 2000000,
         "Expected_Points_Kickbase": 2316,
         "Expected_Points_Sorare": 1594,
-        "Expected_Points_Kicker": 153
+        "Expected_Points_Kicker": 153,
+        "Current_Points_Kicker": 8,
+        "Difference_Kicker": -145
     },
     {
         "ID": "pl-k00100558",
@@ -3021,7 +3523,9 @@
         "Marktwert": 2600000,
         "Expected_Points_Kickbase": 2687,
         "Expected_Points_Sorare": 1659,
-        "Expected_Points_Kicker": 170
+        "Expected_Points_Kicker": 170,
+        "Current_Points_Kicker": 10,
+        "Difference_Kicker": -160
     },
     {
         "ID": "pl-k00100591",
@@ -3033,7 +3537,9 @@
         "Marktwert": 1800000,
         "Expected_Points_Kickbase": 1796,
         "Expected_Points_Sorare": 1333,
-        "Expected_Points_Kicker": 123
+        "Expected_Points_Kicker": 123,
+        "Current_Points_Kicker": 6,
+        "Difference_Kicker": -117
     },
     {
         "ID": "pl-k00100767",
@@ -3045,7 +3551,9 @@
         "Marktwert": 1200000,
         "Expected_Points_Kickbase": "NaN",
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 0
+        "Expected_Points_Kicker": 0,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": 0
     },
     {
         "ID": "pl-k00100804",
@@ -3057,7 +3565,9 @@
         "Marktwert": 2000000,
         "Expected_Points_Kickbase": 707,
         "Expected_Points_Sorare": 495,
-        "Expected_Points_Kicker": 47
+        "Expected_Points_Kicker": 47,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": -47
     },
     {
         "ID": "pl-k00101253",
@@ -3069,7 +3579,9 @@
         "Marktwert": 1400000,
         "Expected_Points_Kickbase": 686,
         "Expected_Points_Sorare": 891,
-        "Expected_Points_Kicker": 62
+        "Expected_Points_Kicker": 62,
+        "Current_Points_Kicker": -2,
+        "Difference_Kicker": -64
     },
     {
         "ID": "pl-k00101451",
@@ -3081,7 +3593,9 @@
         "Marktwert": 1800000,
         "Expected_Points_Kickbase": 1750,
         "Expected_Points_Sorare": 1361,
-        "Expected_Points_Kicker": 122
+        "Expected_Points_Kicker": 122,
+        "Current_Points_Kicker": 30,
+        "Difference_Kicker": -92
     },
     {
         "ID": "pl-k00101460",
@@ -3093,7 +3607,9 @@
         "Marktwert": 2800000,
         "Expected_Points_Kickbase": 2784,
         "Expected_Points_Sorare": 1729,
-        "Expected_Points_Kicker": 177
+        "Expected_Points_Kicker": 177,
+        "Current_Points_Kicker": 17,
+        "Difference_Kicker": -160
     },
     {
         "ID": "pl-k00101614",
@@ -3105,7 +3621,9 @@
         "Marktwert": 1700000,
         "Expected_Points_Kickbase": 2379,
         "Expected_Points_Sorare": 1767,
-        "Expected_Points_Kicker": 163
+        "Expected_Points_Kicker": 163,
+        "Current_Points_Kicker": 22,
+        "Difference_Kicker": -141
     },
     {
         "ID": "pl-k00101639",
@@ -3117,7 +3635,9 @@
         "Marktwert": 2200000,
         "Expected_Points_Kickbase": 2672,
         "Expected_Points_Sorare": 1594,
-        "Expected_Points_Kicker": 167
+        "Expected_Points_Kicker": 167,
+        "Current_Points_Kicker": 20,
+        "Difference_Kicker": -147
     },
     {
         "ID": "pl-k00101673",
@@ -3129,7 +3649,9 @@
         "Marktwert": 1700000,
         "Expected_Points_Kickbase": 520,
         "Expected_Points_Sorare": 904,
-        "Expected_Points_Kicker": 56
+        "Expected_Points_Kicker": 56,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": -56
     },
     {
         "ID": "pl-k00101721",
@@ -3141,7 +3663,9 @@
         "Marktwert": 1600000,
         "Expected_Points_Kickbase": 1227,
         "Expected_Points_Sorare": 1293,
-        "Expected_Points_Kicker": 99
+        "Expected_Points_Kicker": 99,
+        "Current_Points_Kicker": 16,
+        "Difference_Kicker": -83
     },
     {
         "ID": "pl-k00101764",
@@ -3153,7 +3677,9 @@
         "Marktwert": 1000000,
         "Expected_Points_Kickbase": 370,
         "Expected_Points_Sorare": 817,
-        "Expected_Points_Kicker": 47
+        "Expected_Points_Kicker": 47,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": -47
     },
     {
         "ID": "pl-k00101783",
@@ -3165,7 +3691,9 @@
         "Marktwert": 1800000,
         "Expected_Points_Kickbase": 2179,
         "Expected_Points_Sorare": 1309,
-        "Expected_Points_Kicker": 137
+        "Expected_Points_Kicker": 137,
+        "Current_Points_Kicker": 12,
+        "Difference_Kicker": -125
     },
     {
         "ID": "pl-k00101899",
@@ -3177,7 +3705,9 @@
         "Marktwert": 1700000,
         "Expected_Points_Kickbase": 1614,
         "Expected_Points_Sorare": 1502,
-        "Expected_Points_Kicker": 122
+        "Expected_Points_Kicker": 122,
+        "Current_Points_Kicker": 14,
+        "Difference_Kicker": -108
     },
     {
         "ID": "pl-k00102402",
@@ -3189,7 +3719,9 @@
         "Marktwert": 4500000,
         "Expected_Points_Kickbase": 2652,
         "Expected_Points_Sorare": 1480,
-        "Expected_Points_Kicker": 162
+        "Expected_Points_Kicker": 162,
+        "Current_Points_Kicker": 7,
+        "Difference_Kicker": -155
     },
     {
         "ID": "pl-k00102731",
@@ -3201,7 +3733,9 @@
         "Marktwert": 2500000,
         "Expected_Points_Kickbase": 2737,
         "Expected_Points_Sorare": 1550,
-        "Expected_Points_Kicker": 168
+        "Expected_Points_Kicker": 168,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": -168
     },
     {
         "ID": "pl-k00102795",
@@ -3213,7 +3747,9 @@
         "Marktwert": 800000,
         "Expected_Points_Kickbase": 3,
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 0
+        "Expected_Points_Kicker": 0,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": 0
     },
     {
         "ID": "pl-k00102800",
@@ -3225,7 +3761,9 @@
         "Marktwert": 3000000,
         "Expected_Points_Kickbase": 1819,
         "Expected_Points_Sorare": 1218,
-        "Expected_Points_Kicker": 119
+        "Expected_Points_Kicker": 119,
+        "Current_Points_Kicker": 10,
+        "Difference_Kicker": -109
     },
     {
         "ID": "pl-k00102817",
@@ -3237,7 +3775,9 @@
         "Marktwert": 4000000,
         "Expected_Points_Kickbase": 3153,
         "Expected_Points_Sorare": 1652,
-        "Expected_Points_Kicker": 188
+        "Expected_Points_Kicker": 188,
+        "Current_Points_Kicker": 36,
+        "Difference_Kicker": -152
     },
     {
         "ID": "pl-k00102956",
@@ -3249,7 +3789,9 @@
         "Marktwert": 2800000,
         "Expected_Points_Kickbase": 3295,
         "Expected_Points_Sorare": 1915,
-        "Expected_Points_Kicker": 204
+        "Expected_Points_Kicker": 204,
+        "Current_Points_Kicker": 45,
+        "Difference_Kicker": -159
     },
     {
         "ID": "pl-k00102978",
@@ -3261,7 +3803,9 @@
         "Marktwert": 1300000,
         "Expected_Points_Kickbase": 434,
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 25
+        "Expected_Points_Kicker": 25,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": -25
     },
     {
         "ID": "pl-k00103305",
@@ -3273,7 +3817,9 @@
         "Marktwert": 1400000,
         "Expected_Points_Kickbase": 1797,
         "Expected_Points_Sorare": 1443,
-        "Expected_Points_Kicker": 127
+        "Expected_Points_Kicker": 127,
+        "Current_Points_Kicker": 18,
+        "Difference_Kicker": -109
     },
     {
         "ID": "pl-k00103374",
@@ -3285,7 +3831,9 @@
         "Marktwert": 2400000,
         "Expected_Points_Kickbase": 2455,
         "Expected_Points_Sorare": 1720,
-        "Expected_Points_Kicker": 164
+        "Expected_Points_Kicker": 164,
+        "Current_Points_Kicker": 24,
+        "Difference_Kicker": -140
     },
     {
         "ID": "pl-k00103527",
@@ -3297,7 +3845,9 @@
         "Marktwert": 800000,
         "Expected_Points_Sorare": 944,
         "Expected_Points_Kickbase": "NaN",
-        "Expected_Points_Kicker": 118
+        "Expected_Points_Kicker": 118,
+        "Current_Points_Kicker": 2,
+        "Difference_Kicker": -116
     },
     {
         "ID": "pl-k00103695",
@@ -3309,7 +3859,9 @@
         "Marktwert": 1000000,
         "Expected_Points_Kickbase": 275,
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 16
+        "Expected_Points_Kicker": 16,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": -16
     },
     {
         "ID": "pl-k00103702",
@@ -3321,7 +3873,9 @@
         "Marktwert": 1400000,
         "Expected_Points_Kickbase": 1729,
         "Expected_Points_Sorare": 1349,
-        "Expected_Points_Kicker": 121
+        "Expected_Points_Kicker": 121,
+        "Current_Points_Kicker": 2,
+        "Difference_Kicker": -119
     },
     {
         "ID": "pl-k00103767",
@@ -3333,7 +3887,9 @@
         "Marktwert": 1700000,
         "Expected_Points_Kickbase": 473,
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 27
+        "Expected_Points_Kicker": 27,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": -27
     },
     {
         "ID": "pl-k00103853",
@@ -3345,7 +3901,9 @@
         "Marktwert": 3500000,
         "Expected_Points_Kickbase": 2771,
         "Expected_Points_Sorare": 1974,
-        "Expected_Points_Kicker": 186
+        "Expected_Points_Kicker": 186,
+        "Current_Points_Kicker": 29,
+        "Difference_Kicker": -157
     },
     {
         "ID": "pl-k00103878",
@@ -3357,7 +3915,9 @@
         "Marktwert": 3500000,
         "Expected_Points_Kickbase": 3962,
         "Expected_Points_Sorare": 1894,
-        "Expected_Points_Kicker": 230
+        "Expected_Points_Kicker": 230,
+        "Current_Points_Kicker": 83,
+        "Difference_Kicker": -147
     },
     {
         "ID": "pl-k00104010",
@@ -3369,7 +3929,9 @@
         "Marktwert": 1000000,
         "Expected_Points_Kickbase": 336,
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 19
+        "Expected_Points_Kicker": 19,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": -19
     },
     {
         "ID": "pl-k00104317",
@@ -3381,7 +3943,9 @@
         "Marktwert": 4500000,
         "Expected_Points_Kickbase": 3795,
         "Expected_Points_Sorare": 2126,
-        "Expected_Points_Kicker": 232
+        "Expected_Points_Kicker": 232,
+        "Current_Points_Kicker": 28,
+        "Difference_Kicker": -204
     },
     {
         "ID": "pl-k00104484",
@@ -3393,7 +3957,9 @@
         "Marktwert": 3200000,
         "Expected_Points_Kickbase": 2203,
         "Expected_Points_Sorare": 1716,
-        "Expected_Points_Kicker": 154
+        "Expected_Points_Kicker": 154,
+        "Current_Points_Kicker": 11,
+        "Difference_Kicker": -143
     },
     {
         "ID": "pl-k00104485",
@@ -3405,7 +3971,9 @@
         "Marktwert": 2800000,
         "Expected_Points_Kickbase": 1779,
         "Expected_Points_Sorare": 1170,
-        "Expected_Points_Kicker": 116
+        "Expected_Points_Kicker": 116,
+        "Current_Points_Kicker": 22,
+        "Difference_Kicker": -94
     },
     {
         "ID": "pl-k00104895",
@@ -3417,7 +3985,9 @@
         "Marktwert": 3000000,
         "Expected_Points_Kickbase": 2567,
         "Expected_Points_Sorare": 1816,
-        "Expected_Points_Kicker": 172
+        "Expected_Points_Kicker": 172,
+        "Current_Points_Kicker": 14,
+        "Difference_Kicker": -158
     },
     {
         "ID": "pl-k00104978",
@@ -3429,7 +3999,9 @@
         "Marktwert": 1800000,
         "Expected_Points_Kickbase": 2139,
         "Expected_Points_Sorare": 1489,
-        "Expected_Points_Kicker": 142
+        "Expected_Points_Kicker": 142,
+        "Current_Points_Kicker": 21,
+        "Difference_Kicker": -121
     },
     {
         "ID": "pl-k00105180",
@@ -3441,7 +4013,9 @@
         "Marktwert": 2600000,
         "Expected_Points_Kickbase": 1749,
         "Expected_Points_Sorare": 1274,
-        "Expected_Points_Kicker": 119
+        "Expected_Points_Kicker": 119,
+        "Current_Points_Kicker": 39,
+        "Difference_Kicker": -80
     },
     {
         "ID": "pl-k00105274",
@@ -3453,7 +4027,9 @@
         "Marktwert": 500000,
         "Expected_Points_Kickbase": 2,
         "Expected_Points_Sorare": 226,
-        "Expected_Points_Kicker": 9
+        "Expected_Points_Kicker": 9,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": -9
     },
     {
         "ID": "pl-k00105275",
@@ -3465,7 +4041,9 @@
         "Marktwert": 1200000,
         "Expected_Points_Kickbase": 467,
         "Expected_Points_Sorare": 806,
-        "Expected_Points_Kicker": 50
+        "Expected_Points_Kicker": 50,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": -50
     },
     {
         "ID": "pl-k00105566",
@@ -3477,7 +4055,9 @@
         "Marktwert": 1200000,
         "Expected_Points_Kickbase": 932,
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 53
+        "Expected_Points_Kicker": 53,
+        "Current_Points_Kicker": -4,
+        "Difference_Kicker": -57
     },
     {
         "ID": "pl-k00105841",
@@ -3489,7 +4069,9 @@
         "Marktwert": 3000000,
         "Expected_Points_Kickbase": 1718,
         "Expected_Points_Sorare": 1252,
-        "Expected_Points_Kicker": 116
+        "Expected_Points_Kicker": 116,
+        "Current_Points_Kicker": 33,
+        "Difference_Kicker": -83
     },
     {
         "ID": "pl-k00105845",
@@ -3501,7 +4083,9 @@
         "Marktwert": 2600000,
         "Expected_Points_Kickbase": 3008,
         "Expected_Points_Sorare": 1959,
-        "Expected_Points_Kicker": 195
+        "Expected_Points_Kicker": 195,
+        "Current_Points_Kicker": 12,
+        "Difference_Kicker": -183
     },
     {
         "ID": "pl-k00105999",
@@ -3513,7 +4097,9 @@
         "Marktwert": 3800000,
         "Expected_Points_Kickbase": 2639,
         "Expected_Points_Sorare": 1619,
-        "Expected_Points_Kicker": 167
+        "Expected_Points_Kicker": 167,
+        "Current_Points_Kicker": 19,
+        "Difference_Kicker": -148
     },
     {
         "ID": "pl-k00106078",
@@ -3525,7 +4111,9 @@
         "Marktwert": 1300000,
         "Expected_Points_Kickbase": 1113,
         "Expected_Points_Sorare": 1168,
-        "Expected_Points_Kicker": 89
+        "Expected_Points_Kicker": 89,
+        "Current_Points_Kicker": 8,
+        "Difference_Kicker": -81
     },
     {
         "ID": "pl-k00106087",
@@ -3537,7 +4125,9 @@
         "Marktwert": 2000000,
         "Expected_Points_Kickbase": 2911,
         "Expected_Points_Sorare": 1793,
-        "Expected_Points_Kicker": 184
+        "Expected_Points_Kicker": 184,
+        "Current_Points_Kicker": 16,
+        "Difference_Kicker": -168
     },
     {
         "ID": "pl-k00106313",
@@ -3549,7 +4139,9 @@
         "Marktwert": 1400000,
         "Expected_Points_Kickbase": 1565,
         "Expected_Points_Sorare": 1421,
-        "Expected_Points_Kicker": 117
+        "Expected_Points_Kicker": 117,
+        "Current_Points_Kicker": 30,
+        "Difference_Kicker": -87
     },
     {
         "ID": "pl-k00106358",
@@ -3561,7 +4153,9 @@
         "Marktwert": 3600000,
         "Expected_Points_Kickbase": 3005,
         "Expected_Points_Sorare": 1630,
-        "Expected_Points_Kicker": 182
+        "Expected_Points_Kicker": 182,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": -182
     },
     {
         "ID": "pl-k00106370",
@@ -3573,7 +4167,9 @@
         "Marktwert": 2000000,
         "Expected_Points_Kickbase": 2850,
         "Expected_Points_Sorare": 1524,
-        "Expected_Points_Kicker": 172
+        "Expected_Points_Kicker": 172,
+        "Current_Points_Kicker": 10,
+        "Difference_Kicker": -162
     },
     {
         "ID": "pl-k00106697",
@@ -3585,7 +4181,9 @@
         "Marktwert": 800000,
         "Expected_Points_Kickbase": 243,
         "Expected_Points_Sorare": 833,
-        "Expected_Points_Kicker": 42
+        "Expected_Points_Kicker": 42,
+        "Current_Points_Kicker": 6,
+        "Difference_Kicker": -36
     },
     {
         "ID": "pl-k00106698",
@@ -3597,7 +4195,9 @@
         "Marktwert": 1800000,
         "Expected_Points_Kickbase": 1084,
         "Expected_Points_Sorare": 1028,
-        "Expected_Points_Kicker": 83
+        "Expected_Points_Kicker": 83,
+        "Current_Points_Kicker": 4,
+        "Difference_Kicker": -79
     },
     {
         "ID": "pl-k00106928",
@@ -3609,7 +4209,9 @@
         "Marktwert": 2200000,
         "Expected_Points_Kickbase": 1582,
         "Expected_Points_Sorare": 1129,
-        "Expected_Points_Kicker": 106
+        "Expected_Points_Kicker": 106,
+        "Current_Points_Kicker": 12,
+        "Difference_Kicker": -94
     },
     {
         "ID": "pl-k00107684",
@@ -3621,7 +4223,9 @@
         "Marktwert": 1700000,
         "Expected_Points_Kickbase": 2188,
         "Expected_Points_Sorare": 1524,
-        "Expected_Points_Kicker": 146
+        "Expected_Points_Kicker": 146,
+        "Current_Points_Kicker": 6,
+        "Difference_Kicker": -140
     },
     {
         "ID": "pl-k00107692",
@@ -3633,7 +4237,9 @@
         "Marktwert": 7000000,
         "Expected_Points_Kickbase": 5521,
         "Expected_Points_Sorare": 2311,
-        "Expected_Points_Kicker": 307
+        "Expected_Points_Kicker": 307,
+        "Current_Points_Kicker": 58,
+        "Difference_Kicker": -249
     },
     {
         "ID": "pl-k00107693",
@@ -3645,7 +4251,9 @@
         "Marktwert": 8500000,
         "Expected_Points_Kickbase": 6150,
         "Expected_Points_Sorare": 2207,
-        "Expected_Points_Kicker": 328
+        "Expected_Points_Kicker": 328,
+        "Current_Points_Kicker": 66,
+        "Difference_Kicker": -262
     },
     {
         "ID": "pl-k00107843",
@@ -3657,7 +4265,9 @@
         "Marktwert": 2000000,
         "Expected_Points_Kickbase": 197,
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 11
+        "Expected_Points_Kicker": 11,
+        "Current_Points_Kicker": 2,
+        "Difference_Kicker": -9
     },
     {
         "ID": "pl-k00108204",
@@ -3669,7 +4279,9 @@
         "Marktwert": 1000000,
         "Expected_Points_Kickbase": 1357,
         "Expected_Points_Sorare": 1358,
-        "Expected_Points_Kicker": 106
+        "Expected_Points_Kicker": 106,
+        "Current_Points_Kicker": 18,
+        "Difference_Kicker": -88
     },
     {
         "ID": "pl-k00109417",
@@ -3681,7 +4293,9 @@
         "Marktwert": 1800000,
         "Expected_Points_Kickbase": 1726,
         "Expected_Points_Sorare": 1597,
-        "Expected_Points_Kicker": 130
+        "Expected_Points_Kicker": 130,
+        "Current_Points_Kicker": 38,
+        "Difference_Kicker": -92
     },
     {
         "ID": "pl-k00109512",
@@ -3693,7 +4307,9 @@
         "Marktwert": 1700000,
         "Expected_Points_Kickbase": 1724,
         "Expected_Points_Sorare": 1575,
-        "Expected_Points_Kicker": 129
+        "Expected_Points_Kicker": 129,
+        "Current_Points_Kicker": 37,
+        "Difference_Kicker": -92
     },
     {
         "ID": "pl-k00109835",
@@ -3705,7 +4321,9 @@
         "Marktwert": 500000,
         "Expected_Points_Kickbase": "NaN",
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 0
+        "Expected_Points_Kicker": 0,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": 0
     },
     {
         "ID": "pl-k00109956",
@@ -3717,7 +4335,9 @@
         "Marktwert": 1500000,
         "Expected_Points_Kickbase": 2125,
         "Expected_Points_Sorare": 1578,
-        "Expected_Points_Kicker": 145
+        "Expected_Points_Kicker": 145,
+        "Current_Points_Kicker": 12,
+        "Difference_Kicker": -133
     },
     {
         "ID": "pl-k00110187",
@@ -3729,7 +4349,9 @@
         "Marktwert": 1400000,
         "Expected_Points_Kickbase": 1201,
         "Expected_Points_Sorare": 1250,
-        "Expected_Points_Kicker": 96
+        "Expected_Points_Kicker": 96,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": -96
     },
     {
         "ID": "pl-k00110417",
@@ -3741,7 +4363,9 @@
         "Marktwert": 500000,
         "Expected_Points_Kickbase": 2,
         "Expected_Points_Sorare": 288,
-        "Expected_Points_Kicker": 11
+        "Expected_Points_Kicker": 11,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": -11
     },
     {
         "ID": "pl-k00110709",
@@ -3753,7 +4377,9 @@
         "Marktwert": 500000,
         "Expected_Points_Kickbase": "NaN",
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 0
+        "Expected_Points_Kicker": 0,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": 0
     },
     {
         "ID": "pl-k00110717",
@@ -3765,7 +4391,9 @@
         "Marktwert": 8000000,
         "Expected_Points_Kickbase": 4374,
         "Expected_Points_Sorare": 2053,
-        "Expected_Points_Kicker": 252
+        "Expected_Points_Kicker": 252,
+        "Current_Points_Kicker": 46,
+        "Difference_Kicker": -206
     },
     {
         "ID": "pl-k00110890",
@@ -3777,7 +4405,9 @@
         "Marktwert": 1000000,
         "Expected_Points_Kickbase": 712,
         "Expected_Points_Sorare": 1142,
-        "Expected_Points_Kicker": 73
+        "Expected_Points_Kicker": 73,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": -73
     },
     {
         "ID": "pl-k00110984",
@@ -3789,7 +4419,9 @@
         "Marktwert": 500000,
         "Expected_Points_Kickbase": "NaN",
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 0
+        "Expected_Points_Kicker": 0,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": 0
     },
     {
         "ID": "pl-k00111186",
@@ -3801,7 +4433,9 @@
         "Marktwert": 500000,
         "Expected_Points_Kickbase": "NaN",
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 0
+        "Expected_Points_Kicker": 0,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": 0
     },
     {
         "ID": "pl-k00111315",
@@ -3813,7 +4447,9 @@
         "Marktwert": 2000000,
         "Expected_Points_Kickbase": 1262,
         "Expected_Points_Sorare": 1030,
-        "Expected_Points_Kicker": 90
+        "Expected_Points_Kicker": 90,
+        "Current_Points_Kicker": 2,
+        "Difference_Kicker": -88
     },
     {
         "ID": "pl-k00111919",
@@ -3825,7 +4461,9 @@
         "Marktwert": 500000,
         "Expected_Points_Kickbase": 699,
         "Expected_Points_Sorare": 1009,
-        "Expected_Points_Kicker": 67
+        "Expected_Points_Kicker": 67,
+        "Current_Points_Kicker": 20,
+        "Difference_Kicker": -47
     },
     {
         "ID": "pl-k00111928",
@@ -3837,7 +4475,9 @@
         "Marktwert": 1700000,
         "Expected_Points_Kickbase": 1381,
         "Expected_Points_Sorare": 1129,
-        "Expected_Points_Kicker": 98
+        "Expected_Points_Kicker": 98,
+        "Current_Points_Kicker": 9,
+        "Difference_Kicker": -89
     },
     {
         "ID": "pl-k00112064",
@@ -3849,7 +4489,9 @@
         "Marktwert": 1000000,
         "Expected_Points_Kickbase": 430,
         "Expected_Points_Sorare": 1107,
-        "Expected_Points_Kicker": 60
+        "Expected_Points_Kicker": 60,
+        "Current_Points_Kicker": 10,
+        "Difference_Kicker": -50
     },
     {
         "ID": "pl-k00112134",
@@ -3861,7 +4503,9 @@
         "Marktwert": 2800000,
         "Expected_Points_Kickbase": 2378,
         "Expected_Points_Sorare": 1657,
-        "Expected_Points_Kicker": 158
+        "Expected_Points_Kicker": 158,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": -158
     },
     {
         "ID": "pl-k00112498",
@@ -3873,7 +4517,9 @@
         "Marktwert": 1600000,
         "Expected_Points_Kickbase": 1113,
         "Expected_Points_Sorare": 1017,
-        "Expected_Points_Kicker": 84
+        "Expected_Points_Kicker": 84,
+        "Current_Points_Kicker": 24,
+        "Difference_Kicker": -60
     },
     {
         "ID": "pl-k00112668",
@@ -3885,7 +4531,9 @@
         "Marktwert": 1800000,
         "Expected_Points_Kickbase": 1950,
         "Expected_Points_Sorare": 1428,
-        "Expected_Points_Kicker": 132
+        "Expected_Points_Kicker": 132,
+        "Current_Points_Kicker": 32,
+        "Difference_Kicker": -100
     },
     {
         "ID": "pl-k00112741",
@@ -3897,7 +4545,9 @@
         "Marktwert": 1400000,
         "Expected_Points_Kickbase": 1961,
         "Expected_Points_Sorare": 1353,
-        "Expected_Points_Kicker": 130
+        "Expected_Points_Kicker": 130,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": -130
     },
     {
         "ID": "pl-k00112924",
@@ -3909,7 +4559,9 @@
         "Marktwert": 1000000,
         "Expected_Points_Kickbase": 2,
         "Expected_Points_Sorare": 325,
-        "Expected_Points_Kicker": 13
+        "Expected_Points_Kicker": 13,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": -13
     },
     {
         "ID": "pl-k00113185",
@@ -3921,7 +4573,9 @@
         "Marktwert": 1500000,
         "Expected_Points_Kickbase": 2067,
         "Expected_Points_Sorare": 1320,
-        "Expected_Points_Kicker": 133
+        "Expected_Points_Kicker": 133,
+        "Current_Points_Kicker": 12,
+        "Difference_Kicker": -121
     },
     {
         "ID": "pl-k00113667",
@@ -3933,7 +4587,9 @@
         "Marktwert": 1000000,
         "Expected_Points_Kickbase": 122,
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 7
+        "Expected_Points_Kicker": 7,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": -7
     },
     {
         "ID": "pl-k00114601",
@@ -3945,7 +4601,9 @@
         "Marktwert": 3600000,
         "Expected_Points_Kickbase": 3578,
         "Expected_Points_Sorare": 1997,
-        "Expected_Points_Kicker": 219
+        "Expected_Points_Kicker": 219,
+        "Current_Points_Kicker": 20,
+        "Difference_Kicker": -199
     },
     {
         "ID": "pl-k00114612",
@@ -3957,7 +4615,9 @@
         "Marktwert": 1800000,
         "Expected_Points_Kickbase": 1259,
         "Expected_Points_Sorare": 1067,
-        "Expected_Points_Kicker": 91
+        "Expected_Points_Kicker": 91,
+        "Current_Points_Kicker": 45,
+        "Difference_Kicker": -46
     },
     {
         "ID": "pl-k00114616",
@@ -3969,7 +4629,9 @@
         "Marktwert": 1800000,
         "Expected_Points_Kickbase": 2232,
         "Expected_Points_Sorare": 1671,
-        "Expected_Points_Kicker": 153
+        "Expected_Points_Kicker": 153,
+        "Current_Points_Kicker": 2,
+        "Difference_Kicker": -151
     },
     {
         "ID": "pl-k00114735",
@@ -3981,7 +4643,9 @@
         "Marktwert": 800000,
         "Expected_Points_Kickbase": "NaN",
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 0
+        "Expected_Points_Kicker": 0,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": 0
     },
     {
         "ID": "pl-k00114736",
@@ -3993,7 +4657,9 @@
         "Marktwert": 4800000,
         "Expected_Points_Kickbase": 2813,
         "Expected_Points_Sorare": 1536,
-        "Expected_Points_Kicker": 171
+        "Expected_Points_Kicker": 171,
+        "Current_Points_Kicker": 4,
+        "Difference_Kicker": -167
     },
     {
         "ID": "pl-k00114751",
@@ -4005,7 +4671,9 @@
         "Marktwert": 1800000,
         "Expected_Points_Kickbase": 1136,
         "Expected_Points_Sorare": 949,
-        "Expected_Points_Kicker": 82
+        "Expected_Points_Kicker": 82,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": -82
     },
     {
         "ID": "pl-k00115533",
@@ -4017,7 +4685,9 @@
         "Marktwert": 2200000,
         "Expected_Points_Kickbase": 1331,
         "Expected_Points_Sorare": 1093,
-        "Expected_Points_Kicker": 95
+        "Expected_Points_Kicker": 95,
+        "Current_Points_Kicker": 21,
+        "Difference_Kicker": -74
     },
     {
         "ID": "pl-k00115990",
@@ -4029,7 +4699,9 @@
         "Marktwert": 1800000,
         "Expected_Points_Kickbase": 1284,
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 73
+        "Expected_Points_Kicker": 73,
+        "Current_Points_Kicker": 10,
+        "Difference_Kicker": -63
     },
     {
         "ID": "pl-k00116369",
@@ -4041,7 +4713,9 @@
         "Marktwert": 2000000,
         "Expected_Points_Kickbase": 1721,
         "Expected_Points_Sorare": 1166,
-        "Expected_Points_Kicker": 113
+        "Expected_Points_Kicker": 113,
+        "Current_Points_Kicker": 8,
+        "Difference_Kicker": -105
     },
     {
         "ID": "pl-k00116548",
@@ -4053,7 +4727,9 @@
         "Marktwert": 500000,
         "Expected_Points_Kickbase": "NaN",
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 0
+        "Expected_Points_Kicker": 0,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": 0
     },
     {
         "ID": "pl-k00116616",
@@ -4065,7 +4741,9 @@
         "Marktwert": 1600000,
         "Expected_Points_Kickbase": 1076,
         "Expected_Points_Sorare": 1193,
-        "Expected_Points_Kicker": 89
+        "Expected_Points_Kicker": 89,
+        "Current_Points_Kicker": 8,
+        "Difference_Kicker": -81
     },
     {
         "ID": "pl-k00116648",
@@ -4077,7 +4755,9 @@
         "Marktwert": 2200000,
         "Expected_Points_Kickbase": 2329,
         "Expected_Points_Sorare": 1712,
-        "Expected_Points_Kicker": 158
+        "Expected_Points_Kicker": 158,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": -158
     },
     {
         "ID": "pl-k00116706",
@@ -4089,7 +4769,9 @@
         "Marktwert": 1700000,
         "Expected_Points_Kickbase": "NaN",
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 0
+        "Expected_Points_Kicker": 0,
+        "Current_Points_Kicker": 2,
+        "Difference_Kicker": 2
     },
     {
         "ID": "pl-k00116714",
@@ -4101,7 +4783,9 @@
         "Marktwert": 3500000,
         "Expected_Points_Kickbase": 3469,
         "Expected_Points_Sorare": 1873,
-        "Expected_Points_Kicker": 209
+        "Expected_Points_Kicker": 209,
+        "Current_Points_Kicker": 55,
+        "Difference_Kicker": -154
     },
     {
         "ID": "pl-k00116735",
@@ -4113,7 +4797,9 @@
         "Marktwert": 1200000,
         "Expected_Points_Kickbase": 1668,
         "Expected_Points_Sorare": 1468,
-        "Expected_Points_Kicker": 123
+        "Expected_Points_Kicker": 123,
+        "Current_Points_Kicker": 8,
+        "Difference_Kicker": -115
     },
     {
         "ID": "pl-k00117298",
@@ -4125,7 +4811,9 @@
         "Marktwert": 2000000,
         "Expected_Points_Kickbase": 2393,
         "Expected_Points_Sorare": 1583,
-        "Expected_Points_Kicker": 156
+        "Expected_Points_Kicker": 156,
+        "Current_Points_Kicker": 41,
+        "Difference_Kicker": -115
     },
     {
         "ID": "pl-k00117583",
@@ -4137,7 +4825,9 @@
         "Marktwert": 1800000,
         "Expected_Points_Kickbase": 824,
         "Expected_Points_Sorare": 934,
-        "Expected_Points_Kicker": 69
+        "Expected_Points_Kicker": 69,
+        "Current_Points_Kicker": 6,
+        "Difference_Kicker": -63
     },
     {
         "ID": "pl-k00117805",
@@ -4149,7 +4839,9 @@
         "Marktwert": 2500000,
         "Expected_Points_Kickbase": 2912,
         "Expected_Points_Sorare": 1569,
-        "Expected_Points_Kicker": 176
+        "Expected_Points_Kicker": 176,
+        "Current_Points_Kicker": 11,
+        "Difference_Kicker": -165
     },
     {
         "ID": "pl-k00118051",
@@ -4161,7 +4853,9 @@
         "Marktwert": 1000000,
         "Expected_Points_Kickbase": 2,
         "Expected_Points_Sorare": 199,
-        "Expected_Points_Kicker": 8
+        "Expected_Points_Kicker": 8,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": -8
     },
     {
         "ID": "pl-k00118059",
@@ -4173,7 +4867,9 @@
         "Marktwert": 1400000,
         "Expected_Points_Kickbase": 843,
         "Expected_Points_Sorare": 900,
-        "Expected_Points_Kicker": 68
+        "Expected_Points_Kicker": 68,
+        "Current_Points_Kicker": 4,
+        "Difference_Kicker": -64
     },
     {
         "ID": "pl-k00118061",
@@ -4185,7 +4881,9 @@
         "Marktwert": 600000,
         "Expected_Points_Kickbase": 207,
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 12
+        "Expected_Points_Kicker": 12,
+        "Current_Points_Kicker": 2,
+        "Difference_Kicker": -10
     },
     {
         "ID": "pl-k00118073",
@@ -4197,7 +4895,9 @@
         "Marktwert": 1700000,
         "Expected_Points_Kickbase": 1031,
         "Expected_Points_Sorare": 1054,
-        "Expected_Points_Kicker": 82
+        "Expected_Points_Kicker": 82,
+        "Current_Points_Kicker": 6,
+        "Difference_Kicker": -76
     },
     {
         "ID": "pl-k00118285",
@@ -4209,7 +4909,9 @@
         "Marktwert": 1500000,
         "Expected_Points_Kickbase": 908,
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 52
+        "Expected_Points_Kicker": 52,
+        "Current_Points_Kicker": 20,
+        "Difference_Kicker": -32
     },
     {
         "ID": "pl-k00118291",
@@ -4221,7 +4923,9 @@
         "Marktwert": 2000000,
         "Expected_Points_Kickbase": 1263,
         "Expected_Points_Sorare": 1195,
-        "Expected_Points_Kicker": 96
+        "Expected_Points_Kicker": 96,
+        "Current_Points_Kicker": 14,
+        "Difference_Kicker": -82
     },
     {
         "ID": "pl-k00118312",
@@ -4233,7 +4937,9 @@
         "Marktwert": 2000000,
         "Expected_Points_Kickbase": 2483,
         "Expected_Points_Sorare": 1651,
-        "Expected_Points_Kicker": 162
+        "Expected_Points_Kicker": 162,
+        "Current_Points_Kicker": 21,
+        "Difference_Kicker": -141
     },
     {
         "ID": "pl-k00118660",
@@ -4245,7 +4951,9 @@
         "Marktwert": 1500000,
         "Expected_Points_Kickbase": 1384,
         "Expected_Points_Sorare": 1377,
-        "Expected_Points_Kicker": 108
+        "Expected_Points_Kicker": 108,
+        "Current_Points_Kicker": 11,
+        "Difference_Kicker": -97
     },
     {
         "ID": "pl-k00118662",
@@ -4257,7 +4965,9 @@
         "Marktwert": 1000000,
         "Expected_Points_Kickbase": 565,
         "Expected_Points_Sorare": 1532,
-        "Expected_Points_Kicker": 82
+        "Expected_Points_Kicker": 82,
+        "Current_Points_Kicker": 2,
+        "Difference_Kicker": -80
     },
     {
         "ID": "pl-k00118755",
@@ -4269,7 +4979,9 @@
         "Marktwert": 2000000,
         "Expected_Points_Kickbase": 1700,
         "Expected_Points_Sorare": 1076,
-        "Expected_Points_Kicker": 109
+        "Expected_Points_Kicker": 109,
+        "Current_Points_Kicker": 2,
+        "Difference_Kicker": -107
     },
     {
         "ID": "pl-k00118768",
@@ -4281,7 +4993,9 @@
         "Marktwert": 800000,
         "Expected_Points_Kickbase": 105,
         "Expected_Points_Sorare": 70,
-        "Expected_Points_Kicker": 7
+        "Expected_Points_Kicker": 7,
+        "Current_Points_Kicker": 6,
+        "Difference_Kicker": -1
     },
     {
         "ID": "pl-k00119357",
@@ -4293,7 +5007,9 @@
         "Marktwert": 800000,
         "Expected_Points_Kickbase": 417,
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 24
+        "Expected_Points_Kicker": 24,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": -24
     },
     {
         "ID": "pl-k00119613",
@@ -4305,7 +5021,9 @@
         "Marktwert": 600000,
         "Expected_Points_Kickbase": 98,
         "Expected_Points_Sorare": 40,
-        "Expected_Points_Kicker": 5
+        "Expected_Points_Kicker": 5,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": -5
     },
     {
         "ID": "pl-k00119706",
@@ -4317,7 +5035,9 @@
         "Marktwert": 3200000,
         "Expected_Points_Sorare": 975,
         "Expected_Points_Kickbase": "NaN",
-        "Expected_Points_Kicker": 122
+        "Expected_Points_Kicker": 122,
+        "Current_Points_Kicker": 8,
+        "Difference_Kicker": -114
     },
     {
         "ID": "pl-k00119823",
@@ -4329,7 +5049,9 @@
         "Marktwert": 1800000,
         "Expected_Points_Kickbase": 2423,
         "Expected_Points_Sorare": 1507,
-        "Expected_Points_Kicker": 154
+        "Expected_Points_Kicker": 154,
+        "Current_Points_Kicker": 14,
+        "Difference_Kicker": -140
     },
     {
         "ID": "pl-k00119824",
@@ -4341,7 +5063,9 @@
         "Marktwert": 2200000,
         "Expected_Points_Kickbase": 1893,
         "Expected_Points_Sorare": 1404,
-        "Expected_Points_Kicker": 129
+        "Expected_Points_Kicker": 129,
+        "Current_Points_Kicker": 18,
+        "Difference_Kicker": -111
     },
     {
         "ID": "pl-k00119825",
@@ -4353,7 +5077,9 @@
         "Marktwert": 2600000,
         "Expected_Points_Kickbase": 2495,
         "Expected_Points_Sorare": 1520,
-        "Expected_Points_Kicker": 157
+        "Expected_Points_Kicker": 157,
+        "Current_Points_Kicker": 12,
+        "Difference_Kicker": -145
     },
     {
         "ID": "pl-k00119858",
@@ -4365,7 +5091,9 @@
         "Marktwert": 2500000,
         "Expected_Points_Kickbase": 2491,
         "Expected_Points_Sorare": 1490,
-        "Expected_Points_Kicker": 156
+        "Expected_Points_Kicker": 156,
+        "Current_Points_Kicker": 10,
+        "Difference_Kicker": -146
     },
     {
         "ID": "pl-k00119868",
@@ -4377,7 +5105,9 @@
         "Marktwert": 1200000,
         "Expected_Points_Kickbase": 684,
         "Expected_Points_Sorare": 907,
-        "Expected_Points_Kicker": 62
+        "Expected_Points_Kicker": 62,
+        "Current_Points_Kicker": 8,
+        "Difference_Kicker": -54
     },
     {
         "ID": "pl-k00119995",
@@ -4389,7 +5119,9 @@
         "Marktwert": 500000,
         "Expected_Points_Kickbase": "NaN",
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 0
+        "Expected_Points_Kicker": 0,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": 0
     },
     {
         "ID": "pl-k00121838",
@@ -4401,7 +5133,9 @@
         "Marktwert": 1400000,
         "Expected_Points_Kickbase": 1490,
         "Expected_Points_Sorare": 1194,
-        "Expected_Points_Kicker": 105
+        "Expected_Points_Kicker": 105,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": -105
     },
     {
         "ID": "pl-k00121863",
@@ -4413,7 +5147,9 @@
         "Marktwert": 1600000,
         "Expected_Points_Kickbase": 1701,
         "Expected_Points_Sorare": 971,
-        "Expected_Points_Kicker": 105
+        "Expected_Points_Kicker": 105,
+        "Current_Points_Kicker": -2,
+        "Difference_Kicker": -107
     },
     {
         "ID": "pl-k00121927",
@@ -4425,7 +5161,9 @@
         "Marktwert": 6000000,
         "Expected_Points_Kickbase": 3658,
         "Expected_Points_Sorare": 1743,
-        "Expected_Points_Kicker": 212
+        "Expected_Points_Kicker": 212,
+        "Current_Points_Kicker": 33,
+        "Difference_Kicker": -179
     },
     {
         "ID": "pl-k00123373",
@@ -4437,7 +5175,9 @@
         "Marktwert": 1600000,
         "Expected_Points_Kickbase": 726,
         "Expected_Points_Sorare": 819,
-        "Expected_Points_Kicker": 61
+        "Expected_Points_Kicker": 61,
+        "Current_Points_Kicker": 4,
+        "Difference_Kicker": -57
     },
     {
         "ID": "pl-k00123524",
@@ -4449,7 +5189,9 @@
         "Marktwert": 3600000,
         "Expected_Points_Kickbase": 2880,
         "Expected_Points_Sorare": 1444,
-        "Expected_Points_Kicker": 170
+        "Expected_Points_Kicker": 170,
+        "Current_Points_Kicker": -2,
+        "Difference_Kicker": -172
     },
     {
         "ID": "pl-k00123796",
@@ -4461,7 +5203,9 @@
         "Marktwert": 1200000,
         "Expected_Points_Kickbase": 464,
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 27
+        "Expected_Points_Kicker": 27,
+        "Current_Points_Kicker": 8,
+        "Difference_Kicker": -19
     },
     {
         "ID": "pl-k00123844",
@@ -4473,7 +5217,9 @@
         "Marktwert": 2600000,
         "Expected_Points_Kickbase": 3271,
         "Expected_Points_Sorare": 1915,
-        "Expected_Points_Kicker": 203
+        "Expected_Points_Kicker": 203,
+        "Current_Points_Kicker": 31,
+        "Difference_Kicker": -172
     },
     {
         "ID": "pl-k00123991",
@@ -4485,7 +5231,9 @@
         "Marktwert": 1600000,
         "Expected_Points_Kickbase": 2098,
         "Expected_Points_Sorare": 1477,
-        "Expected_Points_Kicker": 140
+        "Expected_Points_Kicker": 140,
+        "Current_Points_Kicker": 14,
+        "Difference_Kicker": -126
     },
     {
         "ID": "pl-k00124089",
@@ -4497,7 +5245,9 @@
         "Marktwert": 1600000,
         "Expected_Points_Kickbase": 759,
         "Expected_Points_Sorare": 948,
-        "Expected_Points_Kicker": 67
+        "Expected_Points_Kicker": 67,
+        "Current_Points_Kicker": 6,
+        "Difference_Kicker": -61
     },
     {
         "ID": "pl-k00124455",
@@ -4509,7 +5259,9 @@
         "Marktwert": 2000000,
         "Expected_Points_Kickbase": 2540,
         "Expected_Points_Sorare": 1641,
-        "Expected_Points_Kicker": 164
+        "Expected_Points_Kicker": 164,
+        "Current_Points_Kicker": 8,
+        "Difference_Kicker": -156
     },
     {
         "ID": "pl-k00124479",
@@ -4521,7 +5273,9 @@
         "Marktwert": 700000,
         "Expected_Points_Kickbase": "NaN",
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 0
+        "Expected_Points_Kicker": 0,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": 0
     },
     {
         "ID": "pl-k00124798",
@@ -4533,7 +5287,9 @@
         "Marktwert": 1400000,
         "Expected_Points_Kickbase": 1646,
         "Expected_Points_Sorare": 1387,
-        "Expected_Points_Kicker": 119
+        "Expected_Points_Kicker": 119,
+        "Current_Points_Kicker": 4,
+        "Difference_Kicker": -115
     },
     {
         "ID": "pl-k00125181",
@@ -4545,7 +5301,9 @@
         "Marktwert": 5000000,
         "Expected_Points_Kickbase": 4215,
         "Expected_Points_Sorare": 1887,
-        "Expected_Points_Kicker": 239
+        "Expected_Points_Kicker": 239,
+        "Current_Points_Kicker": 55,
+        "Difference_Kicker": -184
     },
     {
         "ID": "pl-k00125269",
@@ -4557,7 +5315,9 @@
         "Marktwert": 2000000,
         "Expected_Points_Kickbase": 1684,
         "Expected_Points_Sorare": 1259,
-        "Expected_Points_Kicker": 115
+        "Expected_Points_Kicker": 115,
+        "Current_Points_Kicker": 14,
+        "Difference_Kicker": -101
     },
     {
         "ID": "pl-k00125581",
@@ -4569,7 +5329,9 @@
         "Marktwert": 1200000,
         "Expected_Points_Kickbase": "NaN",
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 0
+        "Expected_Points_Kicker": 0,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": 0
     },
     {
         "ID": "pl-k00125604",
@@ -4581,7 +5343,9 @@
         "Marktwert": 1600000,
         "Expected_Points_Kickbase": 1922,
         "Expected_Points_Sorare": 1332,
-        "Expected_Points_Kicker": 128
+        "Expected_Points_Kicker": 128,
+        "Current_Points_Kicker": 18,
+        "Difference_Kicker": -110
     },
     {
         "ID": "pl-k00125797",
@@ -4593,7 +5357,9 @@
         "Marktwert": 1200000,
         "Expected_Points_Kickbase": 167,
         "Expected_Points_Sorare": 912,
-        "Expected_Points_Kicker": 42
+        "Expected_Points_Kicker": 42,
+        "Current_Points_Kicker": 4,
+        "Difference_Kicker": -38
     },
     {
         "ID": "pl-k00125975",
@@ -4605,7 +5371,9 @@
         "Marktwert": 700000,
         "Expected_Points_Kickbase": 484,
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 28
+        "Expected_Points_Kicker": 28,
+        "Current_Points_Kicker": -3,
+        "Difference_Kicker": -31
     },
     {
         "ID": "pl-k00125994",
@@ -4617,7 +5385,9 @@
         "Marktwert": 1700000,
         "Expected_Points_Kickbase": 2164,
         "Expected_Points_Sorare": 1653,
-        "Expected_Points_Kicker": 150
+        "Expected_Points_Kicker": 150,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": -150
     },
     {
         "ID": "pl-k00126213",
@@ -4629,7 +5399,9 @@
         "Marktwert": 1500000,
         "Expected_Points_Kickbase": 676,
         "Expected_Points_Sorare": 904,
-        "Expected_Points_Kicker": 62
+        "Expected_Points_Kicker": 62,
+        "Current_Points_Kicker": 6,
+        "Difference_Kicker": -56
     },
     {
         "ID": "pl-k00128262",
@@ -4641,7 +5413,9 @@
         "Marktwert": 1800000,
         "Expected_Points_Kickbase": 1105,
         "Expected_Points_Sorare": 1028,
-        "Expected_Points_Kicker": 84
+        "Expected_Points_Kicker": 84,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": -84
     },
     {
         "ID": "pl-k00129118",
@@ -4653,7 +5427,9 @@
         "Marktwert": 3000000,
         "Expected_Points_Kickbase": 1432,
         "Expected_Points_Sorare": 1020,
-        "Expected_Points_Kicker": 96
+        "Expected_Points_Kicker": 96,
+        "Current_Points_Kicker": 6,
+        "Difference_Kicker": -90
     },
     {
         "ID": "pl-k00129212",
@@ -4665,7 +5441,9 @@
         "Marktwert": 1700000,
         "Expected_Points_Kickbase": 1922,
         "Expected_Points_Sorare": 1292,
-        "Expected_Points_Kicker": 126
+        "Expected_Points_Kicker": 126,
+        "Current_Points_Kicker": 2,
+        "Difference_Kicker": -124
     },
     {
         "ID": "pl-k00129414",
@@ -4677,7 +5455,9 @@
         "Marktwert": 2700000,
         "Expected_Points_Kickbase": 2975,
         "Expected_Points_Sorare": 1897,
-        "Expected_Points_Kicker": 191
+        "Expected_Points_Kicker": 191,
+        "Current_Points_Kicker": 30,
+        "Difference_Kicker": -161
     },
     {
         "ID": "pl-k00129671",
@@ -4689,7 +5469,9 @@
         "Marktwert": 1400000,
         "Expected_Points_Kickbase": 1069,
         "Expected_Points_Sorare": 889,
-        "Expected_Points_Kicker": 77
+        "Expected_Points_Kicker": 77,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": -77
     },
     {
         "ID": "pl-k00129784",
@@ -4701,7 +5483,9 @@
         "Marktwert": 1600000,
         "Expected_Points_Kickbase": 2291,
         "Expected_Points_Sorare": 1523,
-        "Expected_Points_Kicker": 150
+        "Expected_Points_Kicker": 150,
+        "Current_Points_Kicker": 2,
+        "Difference_Kicker": -148
     },
     {
         "ID": "pl-k00130251",
@@ -4713,7 +5497,9 @@
         "Marktwert": 1500000,
         "Expected_Points_Kickbase": 1434,
         "Expected_Points_Sorare": 1422,
-        "Expected_Points_Kicker": 112
+        "Expected_Points_Kicker": 112,
+        "Current_Points_Kicker": 33,
+        "Difference_Kicker": -79
     },
     {
         "ID": "pl-k00130252",
@@ -4725,7 +5511,9 @@
         "Marktwert": 2200000,
         "Expected_Points_Kickbase": 1065,
         "Expected_Points_Sorare": 1101,
-        "Expected_Points_Kicker": 85
+        "Expected_Points_Kicker": 85,
+        "Current_Points_Kicker": 14,
+        "Difference_Kicker": -71
     },
     {
         "ID": "pl-k00130566",
@@ -4737,7 +5525,9 @@
         "Marktwert": 1800000,
         "Expected_Points_Kickbase": 1127,
         "Expected_Points_Sorare": 940,
-        "Expected_Points_Kicker": 81
+        "Expected_Points_Kicker": 81,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": -81
     },
     {
         "ID": "pl-k00130568",
@@ -4749,7 +5539,9 @@
         "Marktwert": 1200000,
         "Expected_Points_Kickbase": 2001,
         "Expected_Points_Sorare": 1358,
-        "Expected_Points_Kicker": 132
+        "Expected_Points_Kicker": 132,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": -132
     },
     {
         "ID": "pl-k00130593",
@@ -4761,7 +5553,9 @@
         "Marktwert": 2000000,
         "Expected_Points_Kickbase": 1781,
         "Expected_Points_Sorare": 1609,
-        "Expected_Points_Kicker": 133
+        "Expected_Points_Kicker": 133,
+        "Current_Points_Kicker": 12,
+        "Difference_Kicker": -121
     },
     {
         "ID": "pl-k00130880",
@@ -4773,7 +5567,9 @@
         "Marktwert": 1000000,
         "Expected_Points_Kickbase": "NaN",
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 0
+        "Expected_Points_Kicker": 0,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": 0
     },
     {
         "ID": "pl-k00131053",
@@ -4785,7 +5581,9 @@
         "Marktwert": 1400000,
         "Expected_Points_Kickbase": 658,
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 38
+        "Expected_Points_Kicker": 38,
+        "Current_Points_Kicker": 4,
+        "Difference_Kicker": -34
     },
     {
         "ID": "pl-k00131111",
@@ -4797,7 +5595,9 @@
         "Marktwert": 6500000,
         "Expected_Points_Kickbase": 4922,
         "Expected_Points_Sorare": 2094,
-        "Expected_Points_Kicker": 275
+        "Expected_Points_Kicker": 275,
+        "Current_Points_Kicker": 28,
+        "Difference_Kicker": -247
     },
     {
         "ID": "pl-k00131172",
@@ -4809,7 +5609,9 @@
         "Marktwert": 1000000,
         "Expected_Points_Kickbase": 515,
         "Expected_Points_Sorare": 870,
-        "Expected_Points_Kicker": 54
+        "Expected_Points_Kicker": 54,
+        "Current_Points_Kicker": 8,
+        "Difference_Kicker": -46
     },
     {
         "ID": "pl-k00131396",
@@ -4821,7 +5623,9 @@
         "Marktwert": 1200000,
         "Expected_Points_Kickbase": "NaN",
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 0
+        "Expected_Points_Kicker": 0,
+        "Current_Points_Kicker": 4,
+        "Difference_Kicker": 4
     },
     {
         "ID": "pl-k00131588",
@@ -4833,7 +5637,9 @@
         "Marktwert": 2400000,
         "Expected_Points_Kickbase": 2849,
         "Expected_Points_Sorare": 1687,
-        "Expected_Points_Kicker": 178
+        "Expected_Points_Kicker": 178,
+        "Current_Points_Kicker": 29,
+        "Difference_Kicker": -149
     },
     {
         "ID": "pl-k00131628",
@@ -4845,7 +5651,9 @@
         "Marktwert": 1000000,
         "Expected_Points_Kickbase": 198,
         "Expected_Points_Sorare": 105,
-        "Expected_Points_Kicker": 12
+        "Expected_Points_Kicker": 12,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": -12
     },
     {
         "ID": "pl-k00131800",
@@ -4857,7 +5665,9 @@
         "Marktwert": 1400000,
         "Expected_Points_Kickbase": 1721,
         "Expected_Points_Sorare": 1486,
-        "Expected_Points_Kicker": 126
+        "Expected_Points_Kicker": 126,
+        "Current_Points_Kicker": 21,
+        "Difference_Kicker": -105
     },
     {
         "ID": "pl-k00131919",
@@ -4869,7 +5679,9 @@
         "Marktwert": 3500000,
         "Expected_Points_Kickbase": 3911,
         "Expected_Points_Sorare": 2039,
-        "Expected_Points_Kicker": 233
+        "Expected_Points_Kicker": 233,
+        "Current_Points_Kicker": 38,
+        "Difference_Kicker": -195
     },
     {
         "ID": "pl-k00131930",
@@ -4881,7 +5693,9 @@
         "Marktwert": 2200000,
         "Expected_Points_Kickbase": 2020,
         "Expected_Points_Sorare": 1185,
-        "Expected_Points_Kicker": 126
+        "Expected_Points_Kicker": 126,
+        "Current_Points_Kicker": 26,
+        "Difference_Kicker": -100
     },
     {
         "ID": "pl-k00132029",
@@ -4893,7 +5707,9 @@
         "Marktwert": 500000,
         "Expected_Points_Kickbase": "NaN",
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 0
+        "Expected_Points_Kicker": 0,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": 0
     },
     {
         "ID": "pl-k00132173",
@@ -4905,7 +5721,9 @@
         "Marktwert": 1000000,
         "Expected_Points_Kickbase": 866,
         "Expected_Points_Sorare": 905,
-        "Expected_Points_Kicker": 69
+        "Expected_Points_Kicker": 69,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": -69
     },
     {
         "ID": "pl-k00132180",
@@ -4917,7 +5735,9 @@
         "Marktwert": 500000,
         "Expected_Points_Kickbase": "NaN",
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 0
+        "Expected_Points_Kicker": 0,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": 0
     },
     {
         "ID": "pl-k00132183",
@@ -4929,7 +5749,9 @@
         "Marktwert": 1200000,
         "Expected_Points_Kickbase": 1504,
         "Expected_Points_Sorare": 1438,
-        "Expected_Points_Kicker": 115
+        "Expected_Points_Kicker": 115,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": -115
     },
     {
         "ID": "pl-k00132187",
@@ -4941,7 +5763,9 @@
         "Marktwert": 1300000,
         "Expected_Points_Kickbase": 605,
         "Expected_Points_Sorare": 936,
-        "Expected_Points_Kicker": 60
+        "Expected_Points_Kicker": 60,
+        "Current_Points_Kicker": 4,
+        "Difference_Kicker": -56
     },
     {
         "ID": "pl-k00132193",
@@ -4953,7 +5777,9 @@
         "Marktwert": 500000,
         "Expected_Points_Kickbase": "NaN",
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 0
+        "Expected_Points_Kicker": 0,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": 0
     },
     {
         "ID": "pl-k00132198",
@@ -4965,7 +5791,9 @@
         "Marktwert": 1200000,
         "Expected_Points_Kickbase": "NaN",
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 0
+        "Expected_Points_Kicker": 0,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": 0
     },
     {
         "ID": "pl-k00132204",
@@ -4977,7 +5805,9 @@
         "Marktwert": 500000,
         "Expected_Points_Kickbase": 2,
         "Expected_Points_Sorare": 215,
-        "Expected_Points_Kicker": 9
+        "Expected_Points_Kicker": 9,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": -9
     },
     {
         "ID": "pl-k00132205",
@@ -4989,7 +5819,9 @@
         "Marktwert": 600000,
         "Expected_Points_Kickbase": 285,
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 16
+        "Expected_Points_Kicker": 16,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": -16
     },
     {
         "ID": "pl-k00132207",
@@ -5001,7 +5833,9 @@
         "Marktwert": 1400000,
         "Expected_Points_Kickbase": 351,
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 20
+        "Expected_Points_Kicker": 20,
+        "Current_Points_Kicker": 4,
+        "Difference_Kicker": -16
     },
     {
         "ID": "pl-k00132800",
@@ -5013,7 +5847,9 @@
         "Marktwert": 6000000,
         "Expected_Points_Kickbase": 3988,
         "Expected_Points_Sorare": 1936,
-        "Expected_Points_Kicker": 232
+        "Expected_Points_Kicker": 232,
+        "Current_Points_Kicker": 38,
+        "Difference_Kicker": -194
     },
     {
         "ID": "pl-k00132863",
@@ -5025,7 +5861,9 @@
         "Marktwert": 1700000,
         "Expected_Points_Kickbase": 1823,
         "Expected_Points_Sorare": 1480,
-        "Expected_Points_Kicker": 130
+        "Expected_Points_Kicker": 130,
+        "Current_Points_Kicker": 12,
+        "Difference_Kicker": -118
     },
     {
         "ID": "pl-k00133398",
@@ -5037,7 +5875,9 @@
         "Marktwert": 5000000,
         "Expected_Points_Kickbase": 3486,
         "Expected_Points_Sorare": 1742,
-        "Expected_Points_Kicker": 205
+        "Expected_Points_Kicker": 205,
+        "Current_Points_Kicker": 29,
+        "Difference_Kicker": -176
     },
     {
         "ID": "pl-k00134048",
@@ -5049,7 +5889,9 @@
         "Marktwert": 800000,
         "Expected_Points_Kickbase": "NaN",
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 0
+        "Expected_Points_Kicker": 0,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": 0
     },
     {
         "ID": "pl-k00135025",
@@ -5061,7 +5903,9 @@
         "Marktwert": 2800000,
         "Expected_Points_Kickbase": 2570,
         "Expected_Points_Sorare": 1720,
-        "Expected_Points_Kicker": 168
+        "Expected_Points_Kicker": 168,
+        "Current_Points_Kicker": 26,
+        "Difference_Kicker": -142
     },
     {
         "ID": "pl-k00135247",
@@ -5073,7 +5917,9 @@
         "Marktwert": 1500000,
         "Expected_Points_Kickbase": 2096,
         "Expected_Points_Sorare": 1458,
-        "Expected_Points_Kicker": 139
+        "Expected_Points_Kicker": 139,
+        "Current_Points_Kicker": 4,
+        "Difference_Kicker": -135
     },
     {
         "ID": "pl-k00135346",
@@ -5085,7 +5931,9 @@
         "Marktwert": 1600000,
         "Expected_Points_Kickbase": 360,
         "Expected_Points_Sorare": 861,
-        "Expected_Points_Kicker": 48
+        "Expected_Points_Kicker": 48,
+        "Current_Points_Kicker": 8,
+        "Difference_Kicker": -40
     },
     {
         "ID": "pl-k00135660",
@@ -5097,7 +5945,9 @@
         "Marktwert": 2000000,
         "Expected_Points_Kickbase": 2160,
         "Expected_Points_Sorare": 1784,
-        "Expected_Points_Kicker": 155
+        "Expected_Points_Kicker": 155,
+        "Current_Points_Kicker": 18,
+        "Difference_Kicker": -137
     },
     {
         "ID": "pl-k00136357",
@@ -5109,7 +5959,9 @@
         "Marktwert": 2000000,
         "Expected_Points_Kickbase": 1908,
         "Expected_Points_Sorare": 1427,
-        "Expected_Points_Kicker": 131
+        "Expected_Points_Kicker": 131,
+        "Current_Points_Kicker": 34,
+        "Difference_Kicker": -97
     },
     {
         "ID": "pl-k00136435",
@@ -5121,7 +5973,9 @@
         "Marktwert": 2000000,
         "Expected_Points_Kickbase": 2409,
         "Expected_Points_Sorare": 1424,
-        "Expected_Points_Kicker": 150
+        "Expected_Points_Kicker": 150,
+        "Current_Points_Kicker": 4,
+        "Difference_Kicker": -146
     },
     {
         "ID": "pl-k00136515",
@@ -5133,7 +5987,9 @@
         "Marktwert": 500000,
         "Expected_Points_Kickbase": 353,
         "Expected_Points_Sorare": 807,
-        "Expected_Points_Kicker": 45
+        "Expected_Points_Kicker": 45,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": -45
     },
     {
         "ID": "pl-k00136673",
@@ -5145,7 +6001,9 @@
         "Marktwert": 1500000,
         "Expected_Points_Kickbase": 488,
         "Expected_Points_Sorare": 913,
-        "Expected_Points_Kicker": 55
+        "Expected_Points_Kicker": 55,
+        "Current_Points_Kicker": 6,
+        "Difference_Kicker": -49
     },
     {
         "ID": "pl-k00136677",
@@ -5157,7 +6015,9 @@
         "Marktwert": 1400000,
         "Expected_Points_Kickbase": 547,
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 31
+        "Expected_Points_Kicker": 31,
+        "Current_Points_Kicker": 4,
+        "Difference_Kicker": -27
     },
     {
         "ID": "pl-k00136835",
@@ -5169,7 +6029,9 @@
         "Marktwert": 1000000,
         "Expected_Points_Kickbase": 596,
         "Expected_Points_Sorare": 857,
-        "Expected_Points_Kicker": 57
+        "Expected_Points_Kicker": 57,
+        "Current_Points_Kicker": 9,
+        "Difference_Kicker": -48
     },
     {
         "ID": "pl-k00137082",
@@ -5181,7 +6043,9 @@
         "Marktwert": 2000000,
         "Expected_Points_Kickbase": 959,
         "Expected_Points_Sorare": 1034,
-        "Expected_Points_Kicker": 78
+        "Expected_Points_Kicker": 78,
+        "Current_Points_Kicker": 8,
+        "Difference_Kicker": -70
     },
     {
         "ID": "pl-k00137168",
@@ -5193,7 +6057,9 @@
         "Marktwert": 500000,
         "Expected_Points_Kickbase": 184,
         "Expected_Points_Sorare": 32,
-        "Expected_Points_Kicker": 8
+        "Expected_Points_Kicker": 8,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": -8
     },
     {
         "ID": "pl-k00137416",
@@ -5205,7 +6071,9 @@
         "Marktwert": 500000,
         "Expected_Points_Kickbase": "NaN",
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 0
+        "Expected_Points_Kicker": 0,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": 0
     },
     {
         "ID": "pl-k00137800",
@@ -5217,7 +6085,9 @@
         "Marktwert": 1600000,
         "Expected_Points_Kickbase": 1097,
         "Expected_Points_Sorare": 1237,
-        "Expected_Points_Kicker": 92
+        "Expected_Points_Kicker": 92,
+        "Current_Points_Kicker": 45,
+        "Difference_Kicker": -47
     },
     {
         "ID": "pl-k00137843",
@@ -5229,7 +6099,9 @@
         "Marktwert": 500000,
         "Expected_Points_Kickbase": "NaN",
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 0
+        "Expected_Points_Kicker": 0,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": 0
     },
     {
         "ID": "pl-k00137924",
@@ -5241,7 +6113,9 @@
         "Marktwert": 500000,
         "Expected_Points_Kickbase": "NaN",
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 0
+        "Expected_Points_Kicker": 0,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": 0
     },
     {
         "ID": "pl-k00137935",
@@ -5253,7 +6127,9 @@
         "Marktwert": 1000000,
         "Expected_Points_Kickbase": 815,
         "Expected_Points_Sorare": 1031,
-        "Expected_Points_Kicker": 72
+        "Expected_Points_Kicker": 72,
+        "Current_Points_Kicker": 2,
+        "Difference_Kicker": -70
     },
     {
         "ID": "pl-k00138020",
@@ -5265,7 +6141,9 @@
         "Marktwert": 1500000,
         "Expected_Points_Kickbase": 363,
         "Expected_Points_Sorare": 830,
-        "Expected_Points_Kicker": 47
+        "Expected_Points_Kicker": 47,
+        "Current_Points_Kicker": 2,
+        "Difference_Kicker": -45
     },
     {
         "ID": "pl-k00138025",
@@ -5277,7 +6155,9 @@
         "Marktwert": 500000,
         "Expected_Points_Kickbase": "NaN",
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 0
+        "Expected_Points_Kicker": 0,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": 0
     },
     {
         "ID": "pl-k00138026",
@@ -5289,7 +6169,9 @@
         "Marktwert": 500000,
         "Expected_Points_Kickbase": "NaN",
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 0
+        "Expected_Points_Kicker": 0,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": 0
     },
     {
         "ID": "pl-k00138453",
@@ -5301,7 +6183,9 @@
         "Marktwert": 500000,
         "Expected_Points_Kickbase": "NaN",
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 0
+        "Expected_Points_Kicker": 0,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": 0
     },
     {
         "ID": "pl-k00138505",
@@ -5313,7 +6197,9 @@
         "Marktwert": 500000,
         "Expected_Points_Kickbase": "NaN",
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 0
+        "Expected_Points_Kicker": 0,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": 0
     },
     {
         "ID": "pl-k00138529",
@@ -5325,7 +6211,9 @@
         "Marktwert": 3500000,
         "Expected_Points_Kickbase": 2674,
         "Expected_Points_Sorare": 1946,
-        "Expected_Points_Kicker": 181
+        "Expected_Points_Kicker": 181,
+        "Current_Points_Kicker": 28,
+        "Difference_Kicker": -153
     },
     {
         "ID": "pl-k00138530",
@@ -5337,7 +6225,9 @@
         "Marktwert": 1600000,
         "Expected_Points_Kickbase": 2897,
         "Expected_Points_Sorare": 1717,
-        "Expected_Points_Kicker": 181
+        "Expected_Points_Kicker": 181,
+        "Current_Points_Kicker": 34,
+        "Difference_Kicker": -147
     },
     {
         "ID": "pl-k00138699",
@@ -5349,7 +6239,9 @@
         "Marktwert": 2800000,
         "Expected_Points_Kickbase": 1466,
         "Expected_Points_Sorare": 1081,
-        "Expected_Points_Kicker": 100
+        "Expected_Points_Kicker": 100,
+        "Current_Points_Kicker": 4,
+        "Difference_Kicker": -96
     },
     {
         "ID": "pl-k00139040",
@@ -5361,7 +6253,9 @@
         "Marktwert": 2400000,
         "Expected_Points_Kickbase": 2747,
         "Expected_Points_Sorare": 1746,
-        "Expected_Points_Kicker": 176
+        "Expected_Points_Kicker": 176,
+        "Current_Points_Kicker": 28,
+        "Difference_Kicker": -148
     },
     {
         "ID": "pl-k00139273",
@@ -5373,7 +6267,9 @@
         "Marktwert": 1200000,
         "Expected_Points_Kickbase": 999,
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 57
+        "Expected_Points_Kicker": 57,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": -57
     },
     {
         "ID": "pl-k00139276",
@@ -5385,7 +6281,9 @@
         "Marktwert": 500000,
         "Expected_Points_Kickbase": "NaN",
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 0
+        "Expected_Points_Kicker": 0,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": 0
     },
     {
         "ID": "pl-k00139302",
@@ -5397,7 +6295,9 @@
         "Marktwert": 2200000,
         "Expected_Points_Kickbase": 2702,
         "Expected_Points_Sorare": 1627,
-        "Expected_Points_Kicker": 170
+        "Expected_Points_Kicker": 170,
+        "Current_Points_Kicker": 30,
+        "Difference_Kicker": -140
     },
     {
         "ID": "pl-k00139305",
@@ -5409,7 +6309,9 @@
         "Marktwert": 2000000,
         "Expected_Points_Kickbase": 2767,
         "Expected_Points_Sorare": 1756,
-        "Expected_Points_Kicker": 177
+        "Expected_Points_Kicker": 177,
+        "Current_Points_Kicker": 30,
+        "Difference_Kicker": -147
     },
     {
         "ID": "pl-k00139327",
@@ -5421,7 +6323,9 @@
         "Marktwert": 500000,
         "Expected_Points_Kickbase": 260,
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 15
+        "Expected_Points_Kicker": 15,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": -15
     },
     {
         "ID": "pl-k00139331",
@@ -5433,7 +6337,9 @@
         "Marktwert": 700000,
         "Expected_Points_Kickbase": 438,
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 25
+        "Expected_Points_Kicker": 25,
+        "Current_Points_Kicker": 2,
+        "Difference_Kicker": -23
     },
     {
         "ID": "pl-k00139335",
@@ -5445,7 +6351,9 @@
         "Marktwert": 800000,
         "Expected_Points_Kickbase": "NaN",
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 0
+        "Expected_Points_Kicker": 0,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": 0
     },
     {
         "ID": "pl-k00139342",
@@ -5457,7 +6365,9 @@
         "Marktwert": 1600000,
         "Expected_Points_Kickbase": 1653,
         "Expected_Points_Sorare": 1069,
-        "Expected_Points_Kicker": 107
+        "Expected_Points_Kicker": 107,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": -107
     },
     {
         "ID": "pl-k00139482",
@@ -5469,7 +6379,9 @@
         "Marktwert": 1200000,
         "Expected_Points_Kickbase": 722,
         "Expected_Points_Sorare": 910,
-        "Expected_Points_Kicker": 64
+        "Expected_Points_Kicker": 64,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": -64
     },
     {
         "ID": "pl-k00140720",
@@ -5481,7 +6393,9 @@
         "Marktwert": 500000,
         "Expected_Points_Kickbase": "NaN",
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 0
+        "Expected_Points_Kicker": 0,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": 0
     },
     {
         "ID": "pl-k00140723",
@@ -5493,7 +6407,9 @@
         "Marktwert": 500000,
         "Expected_Points_Kickbase": 307,
         "Expected_Points_Sorare": 843,
-        "Expected_Points_Kicker": 45
+        "Expected_Points_Kicker": 45,
+        "Current_Points_Kicker": 6,
+        "Difference_Kicker": -39
     },
     {
         "ID": "pl-k00141072",
@@ -5505,7 +6421,9 @@
         "Marktwert": 500000,
         "Expected_Points_Kickbase": 186,
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 11
+        "Expected_Points_Kicker": 11,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": -11
     },
     {
         "ID": "pl-k00141224",
@@ -5517,7 +6435,9 @@
         "Marktwert": 1600000,
         "Expected_Points_Kickbase": 1662,
         "Expected_Points_Sorare": 1433,
-        "Expected_Points_Kicker": 121
+        "Expected_Points_Kicker": 121,
+        "Current_Points_Kicker": 9,
+        "Difference_Kicker": -112
     },
     {
         "ID": "pl-k00141445",
@@ -5529,7 +6449,9 @@
         "Marktwert": 500000,
         "Expected_Points_Kickbase": "NaN",
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 0
+        "Expected_Points_Kicker": 0,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": 0
     },
     {
         "ID": "pl-k00141456",
@@ -5541,7 +6463,9 @@
         "Marktwert": 1000000,
         "Expected_Points_Kickbase": 805,
         "Expected_Points_Sorare": 1108,
-        "Expected_Points_Kicker": 75
+        "Expected_Points_Kicker": 75,
+        "Current_Points_Kicker": 6,
+        "Difference_Kicker": -69
     },
     {
         "ID": "pl-k00141641",
@@ -5553,7 +6477,9 @@
         "Marktwert": 500000,
         "Expected_Points_Kickbase": "NaN",
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 0
+        "Expected_Points_Kicker": 0,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": 0
     },
     {
         "ID": "pl-k00141643",
@@ -5565,7 +6491,9 @@
         "Marktwert": 500000,
         "Expected_Points_Kickbase": "NaN",
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 0
+        "Expected_Points_Kicker": 0,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": 0
     },
     {
         "ID": "pl-k00141654",
@@ -5577,7 +6505,9 @@
         "Marktwert": 500000,
         "Expected_Points_Kickbase": 257,
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 15
+        "Expected_Points_Kicker": 15,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": -15
     },
     {
         "ID": "pl-k00141673",
@@ -5589,7 +6519,9 @@
         "Marktwert": 700000,
         "Expected_Points_Kickbase": "NaN",
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 0
+        "Expected_Points_Kicker": 0,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": 0
     },
     {
         "ID": "pl-k00142935",
@@ -5601,7 +6533,9 @@
         "Marktwert": 500000,
         "Expected_Points_Kickbase": "NaN",
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 0
+        "Expected_Points_Kicker": 0,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": 0
     },
     {
         "ID": "pl-k00143055",
@@ -5613,7 +6547,9 @@
         "Marktwert": 500000,
         "Expected_Points_Kickbase": 459,
         "Expected_Points_Sorare": 84,
-        "Expected_Points_Kicker": 21
+        "Expected_Points_Kicker": 21,
+        "Current_Points_Kicker": 8,
+        "Difference_Kicker": -13
     },
     {
         "ID": "pl-k00143830",
@@ -5625,7 +6561,9 @@
         "Marktwert": 1500000,
         "Expected_Points_Kickbase": 1501,
         "Expected_Points_Sorare": 1463,
-        "Expected_Points_Kicker": 116
+        "Expected_Points_Kicker": 116,
+        "Current_Points_Kicker": 8,
+        "Difference_Kicker": -108
     },
     {
         "ID": "pl-k00143858",
@@ -5637,7 +6575,9 @@
         "Marktwert": 500000,
         "Expected_Points_Kickbase": "NaN",
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 0
+        "Expected_Points_Kicker": 0,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": 0
     },
     {
         "ID": "pl-k00143938",
@@ -5649,7 +6589,9 @@
         "Marktwert": 1500000,
         "Expected_Points_Kickbase": 1596,
         "Expected_Points_Sorare": 1092,
-        "Expected_Points_Kicker": 105
+        "Expected_Points_Kicker": 105,
+        "Current_Points_Kicker": 2,
+        "Difference_Kicker": -103
     },
     {
         "ID": "pl-k00144287",
@@ -5661,7 +6603,9 @@
         "Marktwert": 1500000,
         "Expected_Points_Kickbase": 553,
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 32
+        "Expected_Points_Kicker": 32,
+        "Current_Points_Kicker": 2,
+        "Difference_Kicker": -30
     },
     {
         "ID": "pl-k00144843",
@@ -5673,7 +6617,9 @@
         "Marktwert": 1600000,
         "Expected_Points_Kickbase": 1865,
         "Expected_Points_Sorare": 1096,
-        "Expected_Points_Kicker": 116
+        "Expected_Points_Kicker": 116,
+        "Current_Points_Kicker": 2,
+        "Difference_Kicker": -114
     },
     {
         "ID": "pl-k00145004",
@@ -5685,7 +6631,9 @@
         "Marktwert": 1200000,
         "Expected_Points_Kickbase": 332,
         "Expected_Points_Sorare": 841,
-        "Expected_Points_Kicker": 46
+        "Expected_Points_Kicker": 46,
+        "Current_Points_Kicker": 15,
+        "Difference_Kicker": -31
     },
     {
         "ID": "pl-k00145594",
@@ -5697,7 +6645,9 @@
         "Marktwert": 1200000,
         "Expected_Points_Kickbase": "NaN",
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 0
+        "Expected_Points_Kicker": 0,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": 0
     },
     {
         "ID": "pl-k00145626",
@@ -5709,7 +6659,9 @@
         "Marktwert": 500000,
         "Expected_Points_Kickbase": "NaN",
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 0
+        "Expected_Points_Kicker": 0,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": 0
     },
     {
         "ID": "pl-k00146026",
@@ -5721,7 +6673,9 @@
         "Marktwert": 500000,
         "Expected_Points_Kickbase": "NaN",
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 0
+        "Expected_Points_Kicker": 0,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": 0
     },
     {
         "ID": "pl-k00146044",
@@ -5733,7 +6687,9 @@
         "Marktwert": 2200000,
         "Expected_Points_Kickbase": 2216,
         "Expected_Points_Sorare": 1483,
-        "Expected_Points_Kicker": 145
+        "Expected_Points_Kicker": 145,
+        "Current_Points_Kicker": 10,
+        "Difference_Kicker": -135
     },
     {
         "ID": "pl-k00146292",
@@ -5745,7 +6701,9 @@
         "Marktwert": 2000000,
         "Expected_Points_Kickbase": 1053,
         "Expected_Points_Sorare": 1472,
-        "Expected_Points_Kicker": 99
+        "Expected_Points_Kicker": 99,
+        "Current_Points_Kicker": 6,
+        "Difference_Kicker": -93
     },
     {
         "ID": "pl-k00146323",
@@ -5757,7 +6715,9 @@
         "Marktwert": 1000000,
         "Expected_Points_Kickbase": 544,
         "Expected_Points_Sorare": 951,
-        "Expected_Points_Kicker": 59
+        "Expected_Points_Kicker": 59,
+        "Current_Points_Kicker": 2,
+        "Difference_Kicker": -57
     },
     {
         "ID": "pl-k00146959",
@@ -5769,7 +6729,9 @@
         "Marktwert": 1000000,
         "Expected_Points_Kickbase": 1120,
         "Expected_Points_Sorare": 986,
-        "Expected_Points_Kicker": 83
+        "Expected_Points_Kicker": 83,
+        "Current_Points_Kicker": 2,
+        "Difference_Kicker": -81
     },
     {
         "ID": "pl-k00147672",
@@ -5781,7 +6743,9 @@
         "Marktwert": 1500000,
         "Expected_Points_Kickbase": 633,
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 36
+        "Expected_Points_Kicker": 36,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": -36
     },
     {
         "ID": "pl-k00147890",
@@ -5793,7 +6757,9 @@
         "Marktwert": 1800000,
         "Expected_Points_Kickbase": 2221,
         "Expected_Points_Sorare": 1626,
-        "Expected_Points_Kicker": 151
+        "Expected_Points_Kicker": 151,
+        "Current_Points_Kicker": -6,
+        "Difference_Kicker": -157
     },
     {
         "ID": "pl-k00147901",
@@ -5805,7 +6771,9 @@
         "Marktwert": 1600000,
         "Expected_Points_Kickbase": 1810,
         "Expected_Points_Sorare": 1263,
-        "Expected_Points_Kicker": 121
+        "Expected_Points_Kicker": 121,
+        "Current_Points_Kicker": 8,
+        "Difference_Kicker": -113
     },
     {
         "ID": "pl-k00148187",
@@ -5817,7 +6785,9 @@
         "Marktwert": 1800000,
         "Expected_Points_Kickbase": 2704,
         "Expected_Points_Sorare": 1448,
-        "Expected_Points_Kicker": 163
+        "Expected_Points_Kicker": 163,
+        "Current_Points_Kicker": 8,
+        "Difference_Kicker": -155
     },
     {
         "ID": "pl-k00148820",
@@ -5829,7 +6799,9 @@
         "Marktwert": 500000,
         "Expected_Points_Kickbase": 428,
         "Expected_Points_Sorare": 43,
-        "Expected_Points_Kicker": 18
+        "Expected_Points_Kicker": 18,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": -18
     },
     {
         "ID": "pl-k00148821",
@@ -5841,7 +6813,9 @@
         "Marktwert": 1000000,
         "Expected_Points_Kickbase": "NaN",
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 0
+        "Expected_Points_Kicker": 0,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": 0
     },
     {
         "ID": "pl-k00149094",
@@ -5853,7 +6827,9 @@
         "Marktwert": 1200000,
         "Expected_Points_Kickbase": 636,
         "Expected_Points_Sorare": 898,
-        "Expected_Points_Kicker": 60
+        "Expected_Points_Kicker": 60,
+        "Current_Points_Kicker": 4,
+        "Difference_Kicker": -56
     },
     {
         "ID": "pl-k00149407",
@@ -5865,7 +6841,9 @@
         "Marktwert": 500000,
         "Expected_Points_Kickbase": 502,
         "Expected_Points_Sorare": 847,
-        "Expected_Points_Kicker": 53
+        "Expected_Points_Kicker": 53,
+        "Current_Points_Kicker": 4,
+        "Difference_Kicker": -49
     },
     {
         "ID": "pl-k00149666",
@@ -5877,7 +6855,9 @@
         "Marktwert": 500000,
         "Expected_Points_Kickbase": "NaN",
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 0
+        "Expected_Points_Kicker": 0,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": 0
     },
     {
         "ID": "pl-k00149677",
@@ -5889,7 +6869,9 @@
         "Marktwert": 500000,
         "Expected_Points_Kickbase": 25,
         "Expected_Points_Sorare": 30,
-        "Expected_Points_Kicker": 2
+        "Expected_Points_Kicker": 2,
+        "Current_Points_Kicker": 2,
+        "Difference_Kicker": 0
     },
     {
         "ID": "pl-k00150671",
@@ -5901,7 +6883,9 @@
         "Marktwert": 1400000,
         "Expected_Points_Kickbase": 1547,
         "Expected_Points_Sorare": 1286,
-        "Expected_Points_Kicker": 111
+        "Expected_Points_Kicker": 111,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": -111
     },
     {
         "ID": "pl-k00150987",
@@ -5913,7 +6897,9 @@
         "Marktwert": 500000,
         "Expected_Points_Kickbase": "NaN",
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 0
+        "Expected_Points_Kicker": 0,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": 0
     },
     {
         "ID": "pl-k00151054",
@@ -5925,7 +6911,9 @@
         "Marktwert": 2200000,
         "Expected_Points_Kickbase": 2015,
         "Expected_Points_Sorare": 1514,
-        "Expected_Points_Kicker": 138
+        "Expected_Points_Kicker": 138,
+        "Current_Points_Kicker": 40,
+        "Difference_Kicker": -98
     },
     {
         "ID": "pl-k00151289",
@@ -5937,7 +6925,9 @@
         "Marktwert": 500000,
         "Expected_Points_Kickbase": "NaN",
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 0
+        "Expected_Points_Kicker": 0,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": 0
     },
     {
         "ID": "pl-k00152047",
@@ -5949,7 +6939,9 @@
         "Marktwert": 800000,
         "Expected_Points_Kickbase": 302,
         "Expected_Points_Sorare": 107,
-        "Expected_Points_Kicker": 16
+        "Expected_Points_Kicker": 16,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": -16
     },
     {
         "ID": "pl-k00152386",
@@ -5961,7 +6953,9 @@
         "Marktwert": 1000000,
         "Expected_Points_Kickbase": 806,
         "Expected_Points_Sorare": 838,
-        "Expected_Points_Kicker": 64
+        "Expected_Points_Kicker": 64,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": -64
     },
     {
         "ID": "pl-k00153240",
@@ -5973,7 +6967,9 @@
         "Marktwert": 1700000,
         "Expected_Points_Kickbase": 999,
         "Expected_Points_Sorare": 1114,
-        "Expected_Points_Kicker": 83
+        "Expected_Points_Kicker": 83,
+        "Current_Points_Kicker": 31,
+        "Difference_Kicker": -52
     },
     {
         "ID": "pl-k00153415",
@@ -5985,7 +6981,9 @@
         "Marktwert": 1600000,
         "Expected_Points_Kickbase": 1792,
         "Expected_Points_Sorare": 1539,
-        "Expected_Points_Kicker": 131
+        "Expected_Points_Kicker": 131,
+        "Current_Points_Kicker": 2,
+        "Difference_Kicker": -129
     },
     {
         "ID": "pl-k00153573",
@@ -5997,7 +6995,9 @@
         "Marktwert": 1400000,
         "Expected_Points_Kickbase": 869,
         "Expected_Points_Sorare": 973,
-        "Expected_Points_Kicker": 72
+        "Expected_Points_Kicker": 72,
+        "Current_Points_Kicker": -6,
+        "Difference_Kicker": -78
     },
     {
         "ID": "pl-k00153662",
@@ -6009,7 +7009,9 @@
         "Marktwert": 1800000,
         "Expected_Points_Kickbase": 2180,
         "Expected_Points_Sorare": 1590,
-        "Expected_Points_Kicker": 148
+        "Expected_Points_Kicker": 148,
+        "Current_Points_Kicker": 12,
+        "Difference_Kicker": -136
     },
     {
         "ID": "pl-k00153733",
@@ -6021,7 +7023,9 @@
         "Marktwert": 500000,
         "Expected_Points_Kickbase": 374,
         "Expected_Points_Sorare": 71,
-        "Expected_Points_Kicker": 17
+        "Expected_Points_Kicker": 17,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": -17
     },
     {
         "ID": "pl-k00153779",
@@ -6033,7 +7037,9 @@
         "Marktwert": 500000,
         "Expected_Points_Kickbase": 273,
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 16
+        "Expected_Points_Kicker": 16,
+        "Current_Points_Kicker": 2,
+        "Difference_Kicker": -14
     },
     {
         "ID": "pl-k00154032",
@@ -6045,7 +7051,9 @@
         "Marktwert": 500000,
         "Expected_Points_Kickbase": "NaN",
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 0
+        "Expected_Points_Kicker": 0,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": 0
     },
     {
         "ID": "pl-k00155136",
@@ -6057,7 +7065,9 @@
         "Marktwert": 500000,
         "Expected_Points_Kickbase": 1,
         "Expected_Points_Sorare": 267,
-        "Expected_Points_Kicker": 11
+        "Expected_Points_Kicker": 11,
+        "Current_Points_Kicker": 18,
+        "Difference_Kicker": 7
     },
     {
         "ID": "pl-k00155796",
@@ -6069,7 +7079,9 @@
         "Marktwert": 500000,
         "Expected_Points_Kickbase": 256,
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 15
+        "Expected_Points_Kicker": 15,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": -15
     },
     {
         "ID": "pl-k00156018",
@@ -6081,7 +7093,9 @@
         "Marktwert": 500000,
         "Expected_Points_Kickbase": "NaN",
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 0
+        "Expected_Points_Kicker": 0,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": 0
     },
     {
         "ID": "pl-k00158167",
@@ -6093,7 +7107,9 @@
         "Marktwert": 500000,
         "Expected_Points_Kickbase": "NaN",
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 0
+        "Expected_Points_Kicker": 0,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": 0
     },
     {
         "ID": "pl-k00158733",
@@ -6105,7 +7121,9 @@
         "Marktwert": 500000,
         "Expected_Points_Kickbase": 280,
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 16
+        "Expected_Points_Kicker": 16,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": -16
     },
     {
         "ID": "pl-k00158918",
@@ -6117,7 +7135,9 @@
         "Marktwert": 500000,
         "Expected_Points_Kickbase": "NaN",
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 0
+        "Expected_Points_Kicker": 0,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": 0
     },
     {
         "ID": "pl-k00163733",
@@ -6129,7 +7149,9 @@
         "Marktwert": 1200000,
         "Expected_Points_Kickbase": "NaN",
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 0
+        "Expected_Points_Kicker": 0,
+        "Current_Points_Kicker": -6,
+        "Difference_Kicker": -6
     },
     {
         "ID": "pl-k00164430",
@@ -6141,7 +7163,9 @@
         "Marktwert": 1300000,
         "Expected_Points_Kickbase": 84,
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 5
+        "Expected_Points_Kicker": 5,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": -5
     },
     {
         "ID": "pl-k00164996",
@@ -6153,7 +7177,9 @@
         "Marktwert": 1000000,
         "Expected_Points_Kickbase": 850,
         "Expected_Points_Sorare": 905,
-        "Expected_Points_Kicker": 69
+        "Expected_Points_Kicker": 69,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": -69
     },
     {
         "ID": "pl-k00167084",
@@ -6165,7 +7191,9 @@
         "Marktwert": 800000,
         "Expected_Points_Kickbase": 2,
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 0
+        "Expected_Points_Kicker": 0,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": 0
     },
     {
         "ID": "pl-k00167652",
@@ -6177,7 +7205,9 @@
         "Marktwert": 800000,
         "Expected_Points_Kickbase": 2,
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 0
+        "Expected_Points_Kicker": 0,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": 0
     },
     {
         "ID": "pl-k00168154",
@@ -6189,7 +7219,9 @@
         "Marktwert": 1000000,
         "Expected_Points_Kickbase": "NaN",
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 0
+        "Expected_Points_Kicker": 0,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": 0
     },
     {
         "ID": "pl-k00170534",
@@ -6201,6 +7233,8 @@
         "Marktwert": 500000,
         "Expected_Points_Kickbase": "NaN",
         "Expected_Points_Sorare": "NaN",
-        "Expected_Points_Kicker": 0
+        "Expected_Points_Kicker": 0,
+        "Current_Points_Kicker": 0,
+        "Difference_Kicker": 0
     }
 ]
