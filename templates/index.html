@@ -62,7 +62,7 @@
         <button type="submit" class="bg-red-600 text-white py-2 px-4 rounded-md shadow-sm hover:bg-red-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500">Berechnen</button>
     </form>
     <div class="mb-4 mt-6 text-center text-xs text-gray-400">
-        <p>Die Vorhersage basiert auf einer Umrechnung von <a href="https://www.ligainsider.de" target="_blank" class="text-indigo-600 hover:underline">ligainsider.de</a> Daten und kann lediglich eine Orientierung für die Kaderplanung sein. Version 1.1.1</p>
+        <p>Die Vorhersage basiert auf einer Umrechnung von <a href="https://www.ligainsider.de" target="_blank" class="text-indigo-600 hover:underline">ligainsider.de</a> Daten und kann lediglich eine Orientierung für die Kaderplanung sein. Version 1.2.0</p>
     </div>
 
     <input type="text" id="searchInput" onkeyup="filterTable()" placeholder="Suche ..." class="mt-6 block px-3 py-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-indigo-500 focus:border-indigo-500 sm:text-sm" style="display: none;">
@@ -79,15 +79,18 @@
                     Marktwert <i class="fas fa-sort"></i>
                 </th>
                 <th onclick="sortTable(3)" class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-                    Punkte Vorhersage <i class="fas fa-sort"></i>
+                    Punkte Vorhersage (Saison) <i class="fas fa-sort"></i>
                 </th>
                 <th onclick="sortTable(4)" class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-                    Punkte Vorhersage pro Spiel <i class="fas fa-sort"></i>
+                    Punkte Aktuell (14 Spieltage) <i class="fas fa-sort"></i>
                 </th>
-                <th onclick="sortTable(5)" title="Gesamtpunkte / absolvierte Spieltage" class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-                    Punkte aktuell pro Spiel <i class="fas fa-sort"></i>
+                <th onclick="sortTable(5)" class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+                    Punkte Vorhersage (pro Spielag) <i class="fas fa-sort"></i>
                 </th>
-                <th onclick="sortTable(6)" class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+                <th onclick="sortTable(6)" title="Gesamtpunkte / absolvierte Spieltage" class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+                    Punkte aktuell (pro Spieltag) <i class="fas fa-sort"></i>
+                </th>
+                <th onclick="sortTable(7)" class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
                     Performance <i class="fas fa-sort"></i>
                 </th>
             </tr>
@@ -120,6 +123,7 @@
                         <td class="px-6 py-4 whitespace-nowrap">${player['Verein']}</td>
                         <td class="px-6 py-4 whitespace-nowrap">${player['Marktwert']}</td>
                         <td class="px-6 py-4 whitespace-nowrap">${player['Expected_Points_Kicker']}</td>
+                        <td class="px-6 py-4 whitespace-nowrap">${player['Current_Points_Kicker']}</td>
                         <td class="px-6 py-4 whitespace-nowrap">${player['Expected_Points_Per_Game_Kicker']}</td>
                         <td class="px-6 py-4 whitespace-nowrap">${player['Current_Points_Per_Game_Kicker']}</td>
                         <td class="px-6 py-4 whitespace-nowrap">${player['Performance']}</td>
