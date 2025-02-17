@@ -11,10 +11,10 @@
         "Expected_Points_Sorare": 2211,
         "Expected_Points_Kicker": 212,
         "Expected_Points_Per_Game_Kicker": 6.24,
-        "Current_Points_Kicker": 118,
-        "Current_Points_Per_Game_Kicker": 5.62,
-        "Difference_Kicker": -94,
-        "Performance": 0.9
+        "Current_Points_Kicker": 128,
+        "Current_Points_Per_Game_Kicker": 5.82,
+        "Difference_Kicker": -84,
+        "Performance": 0.93
     },
     {
         "ID": "pl-k00037056",
@@ -46,7 +46,7 @@
         "Expected_Points_Kicker": 46,
         "Expected_Points_Per_Game_Kicker": 1.35,
         "Current_Points_Kicker": 2,
-        "Current_Points_Per_Game_Kicker": 0.1,
+        "Current_Points_Per_Game_Kicker": 0.09,
         "Difference_Kicker": -44,
         "Performance": 0.07
     },
@@ -63,9 +63,9 @@
         "Expected_Points_Kicker": 14,
         "Expected_Points_Per_Game_Kicker": 0.41,
         "Current_Points_Kicker": 8,
-        "Current_Points_Per_Game_Kicker": 0.38,
+        "Current_Points_Per_Game_Kicker": 0.36,
         "Difference_Kicker": -6,
-        "Performance": 0.93
+        "Performance": 0.88
     },
     {
         "ID": "pl-k00039186",
@@ -97,9 +97,9 @@
         "Expected_Points_Kicker": 209,
         "Expected_Points_Per_Game_Kicker": 6.15,
         "Current_Points_Kicker": 121,
-        "Current_Points_Per_Game_Kicker": 5.76,
+        "Current_Points_Per_Game_Kicker": 5.5,
         "Difference_Kicker": -88,
-        "Performance": 0.94
+        "Performance": 0.89
     },
     {
         "ID": "pl-k00039317",
@@ -114,9 +114,9 @@
         "Expected_Points_Kicker": 167,
         "Expected_Points_Per_Game_Kicker": 4.91,
         "Current_Points_Kicker": 76,
-        "Current_Points_Per_Game_Kicker": 3.62,
+        "Current_Points_Per_Game_Kicker": 3.45,
         "Difference_Kicker": -91,
-        "Performance": 0.74
+        "Performance": 0.7
     },
     {
         "ID": "pl-k00040780",
@@ -181,10 +181,10 @@
         "Expected_Points_Sorare": 1956,
         "Expected_Points_Kicker": 179,
         "Expected_Points_Per_Game_Kicker": 5.26,
-        "Current_Points_Kicker": 102,
-        "Current_Points_Per_Game_Kicker": 4.86,
-        "Difference_Kicker": -77,
-        "Performance": 0.92
+        "Current_Points_Kicker": 108,
+        "Current_Points_Per_Game_Kicker": 4.91,
+        "Difference_Kicker": -71,
+        "Performance": 0.93
     },
     {
         "ID": "pl-k00043592",
@@ -198,10 +198,10 @@
         "Expected_Points_Sorare": 1296,
         "Expected_Points_Kicker": 112,
         "Expected_Points_Per_Game_Kicker": 3.29,
-        "Current_Points_Kicker": 103,
-        "Current_Points_Per_Game_Kicker": 4.9,
-        "Difference_Kicker": -9,
-        "Performance": 1.49
+        "Current_Points_Kicker": 111,
+        "Current_Points_Per_Game_Kicker": 5.05,
+        "Difference_Kicker": -1,
+        "Performance": 1.53
     },
     {
         "ID": "pl-k00047579",
@@ -216,9 +216,9 @@
         "Expected_Points_Kicker": 85,
         "Expected_Points_Per_Game_Kicker": 2.5,
         "Current_Points_Kicker": 36,
-        "Current_Points_Per_Game_Kicker": 1.71,
+        "Current_Points_Per_Game_Kicker": 1.64,
         "Difference_Kicker": -49,
-        "Performance": 0.68
+        "Performance": 0.66
     },
     {
         "ID": "pl-k00047724",
@@ -232,10 +232,10 @@
         "Expected_Points_Sorare": 1622,
         "Expected_Points_Kicker": 134,
         "Expected_Points_Per_Game_Kicker": 3.94,
-        "Current_Points_Kicker": 16,
-        "Current_Points_Per_Game_Kicker": 0.76,
-        "Difference_Kicker": -118,
-        "Performance": 0.19
+        "Current_Points_Kicker": 14,
+        "Current_Points_Per_Game_Kicker": 0.64,
+        "Difference_Kicker": -120,
+        "Performance": 0.16
     },
     {
         "ID": "pl-k00048998",
@@ -250,7 +250,7 @@
         "Expected_Points_Kicker": 109,
         "Expected_Points_Per_Game_Kicker": 3.21,
         "Current_Points_Kicker": 2,
-        "Current_Points_Per_Game_Kicker": 0.1,
+        "Current_Points_Per_Game_Kicker": 0.09,
         "Difference_Kicker": -107,
         "Performance": 0.03
     },
@@ -266,9 +266,9 @@
         "Expected_Points_Sorare": "NaN",
         "Expected_Points_Kicker": 0,
         "Expected_Points_Per_Game_Kicker": 0.0,
-        "Current_Points_Kicker": 0,
-        "Current_Points_Per_Game_Kicker": 0.0,
-        "Difference_Kicker": 0,
+        "Current_Points_Kicker": 10,
+        "Current_Points_Per_Game_Kicker": 0.45,
+        "Difference_Kicker": 10,
         "Performance": "NaN"
     },
     {
@@ -284,7 +284,7 @@
         "Expected_Points_Kicker": 0,
         "Expected_Points_Per_Game_Kicker": 0.0,
         "Current_Points_Kicker": 4,
-        "Current_Points_Per_Game_Kicker": 0.19,
+        "Current_Points_Per_Game_Kicker": 0.18,
         "Difference_Kicker": 4,
         "Performance": "NaN"
     },
@@ -317,9 +317,9 @@
         "Expected_Points_Sorare": "NaN",
         "Expected_Points_Kicker": 0,
         "Expected_Points_Per_Game_Kicker": 0.0,
-        "Current_Points_Kicker": 64,
-        "Current_Points_Per_Game_Kicker": 3.05,
-        "Difference_Kicker": 64,
+        "Current_Points_Kicker": 70,
+        "Current_Points_Per_Game_Kicker": 3.18,
+        "Difference_Kicker": 70,
         "Performance": "NaN"
     },
     {
@@ -335,9 +335,9 @@
         "Expected_Points_Kicker": 209,
         "Expected_Points_Per_Game_Kicker": 6.15,
         "Current_Points_Kicker": 50,
-        "Current_Points_Per_Game_Kicker": 2.38,
+        "Current_Points_Per_Game_Kicker": 2.27,
         "Difference_Kicker": -159,
-        "Performance": 0.39
+        "Performance": 0.37
     },
     {
         "ID": "pl-k00054657",
@@ -352,9 +352,9 @@
         "Expected_Points_Kicker": 147,
         "Expected_Points_Per_Game_Kicker": 4.32,
         "Current_Points_Kicker": 68,
-        "Current_Points_Per_Game_Kicker": 3.24,
+        "Current_Points_Per_Game_Kicker": 3.09,
         "Difference_Kicker": -79,
-        "Performance": 0.75
+        "Performance": 0.72
     },
     {
         "ID": "pl-k00054894",
@@ -385,10 +385,10 @@
         "Expected_Points_Sorare": 1480,
         "Expected_Points_Kicker": 137,
         "Expected_Points_Per_Game_Kicker": 4.03,
-        "Current_Points_Kicker": 60,
-        "Current_Points_Per_Game_Kicker": 2.86,
-        "Difference_Kicker": -77,
-        "Performance": 0.71
+        "Current_Points_Kicker": 64,
+        "Current_Points_Per_Game_Kicker": 2.91,
+        "Difference_Kicker": -73,
+        "Performance": 0.72
     },
     {
         "ID": "pl-k00057245",
@@ -403,9 +403,9 @@
         "Expected_Points_Kicker": 16,
         "Expected_Points_Per_Game_Kicker": 0.47,
         "Current_Points_Kicker": 30,
-        "Current_Points_Per_Game_Kicker": 1.43,
+        "Current_Points_Per_Game_Kicker": 1.36,
         "Difference_Kicker": 14,
-        "Performance": 3.04
+        "Performance": 2.89
     },
     {
         "ID": "pl-k00057247",
@@ -419,10 +419,10 @@
         "Expected_Points_Sorare": 1957,
         "Expected_Points_Kicker": 203,
         "Expected_Points_Per_Game_Kicker": 5.97,
-        "Current_Points_Kicker": 104,
-        "Current_Points_Per_Game_Kicker": 4.95,
-        "Difference_Kicker": -99,
-        "Performance": 0.83
+        "Current_Points_Kicker": 100,
+        "Current_Points_Per_Game_Kicker": 4.55,
+        "Difference_Kicker": -103,
+        "Performance": 0.76
     },
     {
         "ID": "pl-k00057343",
@@ -436,9 +436,9 @@
         "Expected_Points_Sorare": 2319,
         "Expected_Points_Kicker": 298,
         "Expected_Points_Per_Game_Kicker": 8.76,
-        "Current_Points_Kicker": 161,
-        "Current_Points_Per_Game_Kicker": 7.67,
-        "Difference_Kicker": -137,
+        "Current_Points_Kicker": 169,
+        "Current_Points_Per_Game_Kicker": 7.68,
+        "Difference_Kicker": -129,
         "Performance": 0.88
     },
     {
@@ -470,10 +470,10 @@
         "Expected_Points_Sorare": 974,
         "Expected_Points_Kicker": 77,
         "Expected_Points_Per_Game_Kicker": 2.26,
-        "Current_Points_Kicker": 74,
-        "Current_Points_Per_Game_Kicker": 3.52,
-        "Difference_Kicker": -3,
-        "Performance": 1.56
+        "Current_Points_Kicker": 76,
+        "Current_Points_Per_Game_Kicker": 3.45,
+        "Difference_Kicker": -1,
+        "Performance": 1.53
     },
     {
         "ID": "pl-k00057925",
@@ -487,10 +487,10 @@
         "Expected_Points_Sorare": 2039,
         "Expected_Points_Kicker": 191,
         "Expected_Points_Per_Game_Kicker": 5.62,
-        "Current_Points_Kicker": 110,
-        "Current_Points_Per_Game_Kicker": 5.24,
-        "Difference_Kicker": -81,
-        "Performance": 0.93
+        "Current_Points_Kicker": 118,
+        "Current_Points_Per_Game_Kicker": 5.36,
+        "Difference_Kicker": -73,
+        "Performance": 0.95
     },
     {
         "ID": "pl-k00058003",
@@ -504,10 +504,10 @@
         "Expected_Points_Sorare": 1699,
         "Expected_Points_Kicker": 184,
         "Expected_Points_Per_Game_Kicker": 5.41,
-        "Current_Points_Kicker": 117,
-        "Current_Points_Per_Game_Kicker": 5.57,
-        "Difference_Kicker": -67,
-        "Performance": 1.03
+        "Current_Points_Kicker": 119,
+        "Current_Points_Per_Game_Kicker": 5.41,
+        "Difference_Kicker": -65,
+        "Performance": 1.0
     },
     {
         "ID": "pl-k00058007",
@@ -521,10 +521,10 @@
         "Expected_Points_Sorare": 1933,
         "Expected_Points_Kicker": 175,
         "Expected_Points_Per_Game_Kicker": 5.15,
-        "Current_Points_Kicker": 46,
-        "Current_Points_Per_Game_Kicker": 2.19,
-        "Difference_Kicker": -129,
-        "Performance": 0.43
+        "Current_Points_Kicker": 56,
+        "Current_Points_Per_Game_Kicker": 2.55,
+        "Difference_Kicker": -119,
+        "Performance": 0.5
     },
     {
         "ID": "pl-k00058073",
@@ -555,9 +555,9 @@
         "Expected_Points_Sorare": 2141,
         "Expected_Points_Kicker": 214,
         "Expected_Points_Per_Game_Kicker": 6.29,
-        "Current_Points_Kicker": 164,
-        "Current_Points_Per_Game_Kicker": 7.81,
-        "Difference_Kicker": -50,
+        "Current_Points_Kicker": 172,
+        "Current_Points_Per_Game_Kicker": 7.82,
+        "Difference_Kicker": -42,
         "Performance": 1.24
     },
     {
@@ -573,9 +573,9 @@
         "Expected_Points_Kicker": 11,
         "Expected_Points_Per_Game_Kicker": 0.32,
         "Current_Points_Kicker": 16,
-        "Current_Points_Per_Game_Kicker": 0.76,
+        "Current_Points_Per_Game_Kicker": 0.73,
         "Difference_Kicker": 5,
-        "Performance": 2.38
+        "Performance": 2.28
     },
     {
         "ID": "pl-k00058774",
@@ -607,9 +607,9 @@
         "Expected_Points_Kicker": 82,
         "Expected_Points_Per_Game_Kicker": 2.41,
         "Current_Points_Kicker": 34,
-        "Current_Points_Per_Game_Kicker": 1.62,
+        "Current_Points_Per_Game_Kicker": 1.55,
         "Difference_Kicker": -48,
-        "Performance": 0.67
+        "Performance": 0.64
     },
     {
         "ID": "pl-k00058963",
@@ -623,9 +623,9 @@
         "Expected_Points_Sorare": "NaN",
         "Expected_Points_Kicker": 0,
         "Expected_Points_Per_Game_Kicker": 0.0,
-        "Current_Points_Kicker": 0,
-        "Current_Points_Per_Game_Kicker": 0.0,
-        "Difference_Kicker": 0,
+        "Current_Points_Kicker": 8,
+        "Current_Points_Per_Game_Kicker": 0.36,
+        "Difference_Kicker": 8,
         "Performance": "NaN"
     },
     {
@@ -640,10 +640,10 @@
         "Expected_Points_Sorare": 2158,
         "Expected_Points_Kicker": 233,
         "Expected_Points_Per_Game_Kicker": 6.85,
-        "Current_Points_Kicker": 88,
-        "Current_Points_Per_Game_Kicker": 4.19,
-        "Difference_Kicker": -145,
-        "Performance": 0.61
+        "Current_Points_Kicker": 100,
+        "Current_Points_Per_Game_Kicker": 4.55,
+        "Difference_Kicker": -133,
+        "Performance": 0.66
     },
     {
         "ID": "pl-k00059580",
@@ -657,10 +657,10 @@
         "Expected_Points_Sorare": 1078,
         "Expected_Points_Kicker": 95,
         "Expected_Points_Per_Game_Kicker": 2.79,
-        "Current_Points_Kicker": 21,
-        "Current_Points_Per_Game_Kicker": 1.0,
-        "Difference_Kicker": -74,
-        "Performance": 0.36
+        "Current_Points_Kicker": 23,
+        "Current_Points_Per_Game_Kicker": 1.05,
+        "Difference_Kicker": -72,
+        "Performance": 0.38
     },
     {
         "ID": "pl-k00060522",
@@ -675,9 +675,9 @@
         "Expected_Points_Kicker": 64,
         "Expected_Points_Per_Game_Kicker": 1.88,
         "Current_Points_Kicker": 69,
-        "Current_Points_Per_Game_Kicker": 3.29,
+        "Current_Points_Per_Game_Kicker": 3.14,
         "Difference_Kicker": 5,
-        "Performance": 1.75
+        "Performance": 1.67
     },
     {
         "ID": "pl-k00060535",
@@ -691,10 +691,10 @@
         "Expected_Points_Sorare": 1019,
         "Expected_Points_Kicker": 86,
         "Expected_Points_Per_Game_Kicker": 2.53,
-        "Current_Points_Kicker": 51,
-        "Current_Points_Per_Game_Kicker": 2.43,
-        "Difference_Kicker": -35,
-        "Performance": 0.96
+        "Current_Points_Kicker": 53,
+        "Current_Points_Per_Game_Kicker": 2.41,
+        "Difference_Kicker": -33,
+        "Performance": 0.95
     },
     {
         "ID": "pl-k00063586",
@@ -709,9 +709,9 @@
         "Expected_Points_Kicker": 10,
         "Expected_Points_Per_Game_Kicker": 0.29,
         "Current_Points_Kicker": 20,
-        "Current_Points_Per_Game_Kicker": 0.95,
+        "Current_Points_Per_Game_Kicker": 0.91,
         "Difference_Kicker": 10,
-        "Performance": 3.28
+        "Performance": 3.14
     },
     {
         "ID": "pl-k00063777",
@@ -726,9 +726,9 @@
         "Expected_Points_Kicker": 145,
         "Expected_Points_Per_Game_Kicker": 4.26,
         "Current_Points_Kicker": 96,
-        "Current_Points_Per_Game_Kicker": 4.57,
+        "Current_Points_Per_Game_Kicker": 4.36,
         "Difference_Kicker": -49,
-        "Performance": 1.07
+        "Performance": 1.02
     },
     {
         "ID": "pl-k00063799",
@@ -743,9 +743,9 @@
         "Expected_Points_Kicker": 108,
         "Expected_Points_Per_Game_Kicker": 3.18,
         "Current_Points_Kicker": 49,
-        "Current_Points_Per_Game_Kicker": 2.33,
+        "Current_Points_Per_Game_Kicker": 2.23,
         "Difference_Kicker": -59,
-        "Performance": 0.73
+        "Performance": 0.7
     },
     {
         "ID": "pl-k00064040",
@@ -760,9 +760,9 @@
         "Expected_Points_Kicker": 189,
         "Expected_Points_Per_Game_Kicker": 5.56,
         "Current_Points_Kicker": 122,
-        "Current_Points_Per_Game_Kicker": 5.81,
+        "Current_Points_Per_Game_Kicker": 5.55,
         "Difference_Kicker": -67,
-        "Performance": 1.04
+        "Performance": 1.0
     },
     {
         "ID": "pl-k00064802",
@@ -776,10 +776,10 @@
         "Expected_Points_Sorare": 1950,
         "Expected_Points_Kicker": 194,
         "Expected_Points_Per_Game_Kicker": 5.71,
-        "Current_Points_Kicker": 116,
-        "Current_Points_Per_Game_Kicker": 5.52,
-        "Difference_Kicker": -78,
-        "Performance": 0.97
+        "Current_Points_Kicker": 118,
+        "Current_Points_Per_Game_Kicker": 5.36,
+        "Difference_Kicker": -76,
+        "Performance": 0.94
     },
     {
         "ID": "pl-k00065090",
@@ -794,9 +794,9 @@
         "Expected_Points_Kicker": 148,
         "Expected_Points_Per_Game_Kicker": 4.35,
         "Current_Points_Kicker": 48,
-        "Current_Points_Per_Game_Kicker": 2.29,
+        "Current_Points_Per_Game_Kicker": 2.18,
         "Difference_Kicker": -100,
-        "Performance": 0.53
+        "Performance": 0.5
     },
     {
         "ID": "pl-k00065503",
@@ -811,9 +811,9 @@
         "Expected_Points_Kicker": 136,
         "Expected_Points_Per_Game_Kicker": 4.0,
         "Current_Points_Kicker": 48,
-        "Current_Points_Per_Game_Kicker": 2.29,
+        "Current_Points_Per_Game_Kicker": 2.18,
         "Difference_Kicker": -88,
-        "Performance": 0.57
+        "Performance": 0.55
     },
     {
         "ID": "pl-k00065896",
@@ -827,10 +827,10 @@
         "Expected_Points_Sorare": 1929,
         "Expected_Points_Kicker": 203,
         "Expected_Points_Per_Game_Kicker": 5.97,
-        "Current_Points_Kicker": 169,
-        "Current_Points_Per_Game_Kicker": 8.05,
-        "Difference_Kicker": -34,
-        "Performance": 1.35
+        "Current_Points_Kicker": 179,
+        "Current_Points_Per_Game_Kicker": 8.14,
+        "Difference_Kicker": -24,
+        "Performance": 1.36
     },
     {
         "ID": "pl-k00066084",
@@ -844,10 +844,10 @@
         "Expected_Points_Sorare": 1397,
         "Expected_Points_Kicker": 151,
         "Expected_Points_Per_Game_Kicker": 4.44,
-        "Current_Points_Kicker": 16,
-        "Current_Points_Per_Game_Kicker": 0.76,
-        "Difference_Kicker": -135,
-        "Performance": 0.17
+        "Current_Points_Kicker": 20,
+        "Current_Points_Per_Game_Kicker": 0.91,
+        "Difference_Kicker": -131,
+        "Performance": 0.2
     },
     {
         "ID": "pl-k00066249",
@@ -861,10 +861,10 @@
         "Expected_Points_Sorare": "NaN",
         "Expected_Points_Kicker": 61,
         "Expected_Points_Per_Game_Kicker": 1.79,
-        "Current_Points_Kicker": 24,
-        "Current_Points_Per_Game_Kicker": 1.14,
-        "Difference_Kicker": -37,
-        "Performance": 0.64
+        "Current_Points_Kicker": 26,
+        "Current_Points_Per_Game_Kicker": 1.18,
+        "Difference_Kicker": -35,
+        "Performance": 0.66
     },
     {
         "ID": "pl-k00066531",
@@ -878,10 +878,10 @@
         "Expected_Points_Sorare": 1645,
         "Expected_Points_Kicker": 149,
         "Expected_Points_Per_Game_Kicker": 4.38,
-        "Current_Points_Kicker": 43,
-        "Current_Points_Per_Game_Kicker": 2.05,
-        "Difference_Kicker": -106,
-        "Performance": 0.47
+        "Current_Points_Kicker": 55,
+        "Current_Points_Per_Game_Kicker": 2.5,
+        "Difference_Kicker": -94,
+        "Performance": 0.57
     },
     {
         "ID": "pl-k00066745",
@@ -895,10 +895,10 @@
         "Expected_Points_Sorare": 1948,
         "Expected_Points_Kicker": 205,
         "Expected_Points_Per_Game_Kicker": 6.03,
-        "Current_Points_Kicker": 32,
-        "Current_Points_Per_Game_Kicker": 1.52,
-        "Difference_Kicker": -173,
-        "Performance": 0.25
+        "Current_Points_Kicker": 28,
+        "Current_Points_Per_Game_Kicker": 1.27,
+        "Difference_Kicker": -177,
+        "Performance": 0.21
     },
     {
         "ID": "pl-k00066753",
@@ -912,10 +912,10 @@
         "Expected_Points_Sorare": 1555,
         "Expected_Points_Kicker": 166,
         "Expected_Points_Per_Game_Kicker": 4.88,
-        "Current_Points_Kicker": 82,
-        "Current_Points_Per_Game_Kicker": 3.9,
-        "Difference_Kicker": -84,
-        "Performance": 0.8
+        "Current_Points_Kicker": 84,
+        "Current_Points_Per_Game_Kicker": 3.82,
+        "Difference_Kicker": -82,
+        "Performance": 0.78
     },
     {
         "ID": "pl-k00066754",
@@ -929,10 +929,10 @@
         "Expected_Points_Sorare": 1073,
         "Expected_Points_Kicker": 85,
         "Expected_Points_Per_Game_Kicker": 2.5,
-        "Current_Points_Kicker": 77,
-        "Current_Points_Per_Game_Kicker": 3.67,
-        "Difference_Kicker": -8,
-        "Performance": 1.47
+        "Current_Points_Kicker": 79,
+        "Current_Points_Per_Game_Kicker": 3.59,
+        "Difference_Kicker": -6,
+        "Performance": 1.44
     },
     {
         "ID": "pl-k00067144",
@@ -947,9 +947,9 @@
         "Expected_Points_Kicker": 188,
         "Expected_Points_Per_Game_Kicker": 5.53,
         "Current_Points_Kicker": 92,
-        "Current_Points_Per_Game_Kicker": 4.38,
+        "Current_Points_Per_Game_Kicker": 4.18,
         "Difference_Kicker": -96,
-        "Performance": 0.79
+        "Performance": 0.76
     },
     {
         "ID": "pl-k00067514",
@@ -963,10 +963,10 @@
         "Expected_Points_Sorare": 2059,
         "Expected_Points_Kicker": 219,
         "Expected_Points_Per_Game_Kicker": 6.44,
-        "Current_Points_Kicker": 82,
-        "Current_Points_Per_Game_Kicker": 3.9,
-        "Difference_Kicker": -137,
-        "Performance": 0.61
+        "Current_Points_Kicker": 88,
+        "Current_Points_Per_Game_Kicker": 4.0,
+        "Difference_Kicker": -131,
+        "Performance": 0.62
     },
     {
         "ID": "pl-k00067724",
@@ -980,9 +980,9 @@
         "Expected_Points_Sorare": 1172,
         "Expected_Points_Kicker": 74,
         "Expected_Points_Per_Game_Kicker": 2.18,
-        "Current_Points_Kicker": 42,
+        "Current_Points_Kicker": 44,
         "Current_Points_Per_Game_Kicker": 2.0,
-        "Difference_Kicker": -32,
+        "Difference_Kicker": -30,
         "Performance": 0.92
     },
     {
@@ -998,9 +998,9 @@
         "Expected_Points_Kicker": 165,
         "Expected_Points_Per_Game_Kicker": 4.85,
         "Current_Points_Kicker": 16,
-        "Current_Points_Per_Game_Kicker": 0.76,
+        "Current_Points_Per_Game_Kicker": 0.73,
         "Difference_Kicker": -149,
-        "Performance": 0.16
+        "Performance": 0.15
     },
     {
         "ID": "pl-k00068578",
@@ -1015,9 +1015,9 @@
         "Expected_Points_Kicker": 237,
         "Expected_Points_Per_Game_Kicker": 6.97,
         "Current_Points_Kicker": 81,
-        "Current_Points_Per_Game_Kicker": 3.86,
+        "Current_Points_Per_Game_Kicker": 3.68,
         "Difference_Kicker": -156,
-        "Performance": 0.55
+        "Performance": 0.53
     },
     {
         "ID": "pl-k00068667",
@@ -1032,9 +1032,9 @@
         "Expected_Points_Kicker": 143,
         "Expected_Points_Per_Game_Kicker": 4.21,
         "Current_Points_Kicker": 40,
-        "Current_Points_Per_Game_Kicker": 1.9,
+        "Current_Points_Per_Game_Kicker": 1.82,
         "Difference_Kicker": -103,
-        "Performance": 0.45
+        "Performance": 0.43
     },
     {
         "ID": "pl-k00069255",
@@ -1049,9 +1049,9 @@
         "Expected_Points_Kicker": 197,
         "Expected_Points_Per_Game_Kicker": 5.79,
         "Current_Points_Kicker": 119,
-        "Current_Points_Per_Game_Kicker": 5.67,
+        "Current_Points_Per_Game_Kicker": 5.41,
         "Difference_Kicker": -78,
-        "Performance": 0.98
+        "Performance": 0.93
     },
     {
         "ID": "pl-k00069475",
@@ -1082,10 +1082,10 @@
         "Expected_Points_Sorare": "NaN",
         "Expected_Points_Kicker": 17,
         "Expected_Points_Per_Game_Kicker": 0.5,
-        "Current_Points_Kicker": 13,
-        "Current_Points_Per_Game_Kicker": 0.62,
-        "Difference_Kicker": -4,
-        "Performance": 1.24
+        "Current_Points_Kicker": 15,
+        "Current_Points_Per_Game_Kicker": 0.68,
+        "Difference_Kicker": -2,
+        "Performance": 1.36
     },
     {
         "ID": "pl-k00070592",
@@ -1099,10 +1099,10 @@
         "Expected_Points_Sorare": 1960,
         "Expected_Points_Kicker": 223,
         "Expected_Points_Per_Game_Kicker": 6.56,
-        "Current_Points_Kicker": 150,
-        "Current_Points_Per_Game_Kicker": 7.14,
-        "Difference_Kicker": -73,
-        "Performance": 1.09
+        "Current_Points_Kicker": 167,
+        "Current_Points_Per_Game_Kicker": 7.59,
+        "Difference_Kicker": -56,
+        "Performance": 1.16
     },
     {
         "ID": "pl-k00070605",
@@ -1117,9 +1117,9 @@
         "Expected_Points_Kicker": 317,
         "Expected_Points_Per_Game_Kicker": 9.32,
         "Current_Points_Kicker": 273,
-        "Current_Points_Per_Game_Kicker": 13.0,
+        "Current_Points_Per_Game_Kicker": 12.41,
         "Difference_Kicker": -44,
-        "Performance": 1.39
+        "Performance": 1.33
     },
     {
         "ID": "pl-k00070806",
@@ -1134,9 +1134,9 @@
         "Expected_Points_Kicker": 46,
         "Expected_Points_Per_Game_Kicker": 1.35,
         "Current_Points_Kicker": 4,
-        "Current_Points_Per_Game_Kicker": 0.19,
+        "Current_Points_Per_Game_Kicker": 0.18,
         "Difference_Kicker": -42,
-        "Performance": 0.14
+        "Performance": 0.13
     },
     {
         "ID": "pl-k00070987",
@@ -1167,10 +1167,10 @@
         "Expected_Points_Sorare": 1767,
         "Expected_Points_Kicker": 184,
         "Expected_Points_Per_Game_Kicker": 5.41,
-        "Current_Points_Kicker": 114,
-        "Current_Points_Per_Game_Kicker": 5.43,
-        "Difference_Kicker": -70,
-        "Performance": 1.0
+        "Current_Points_Kicker": 122,
+        "Current_Points_Per_Game_Kicker": 5.55,
+        "Difference_Kicker": -62,
+        "Performance": 1.03
     },
     {
         "ID": "pl-k00070997",
@@ -1185,9 +1185,9 @@
         "Expected_Points_Kicker": 160,
         "Expected_Points_Per_Game_Kicker": 4.71,
         "Current_Points_Kicker": 83,
-        "Current_Points_Per_Game_Kicker": 3.95,
+        "Current_Points_Per_Game_Kicker": 3.77,
         "Difference_Kicker": -77,
-        "Performance": 0.84
+        "Performance": 0.8
     },
     {
         "ID": "pl-k00071021",
@@ -1202,9 +1202,9 @@
         "Expected_Points_Kicker": 175,
         "Expected_Points_Per_Game_Kicker": 5.15,
         "Current_Points_Kicker": 44,
-        "Current_Points_Per_Game_Kicker": 2.1,
+        "Current_Points_Per_Game_Kicker": 2.0,
         "Difference_Kicker": -131,
-        "Performance": 0.41
+        "Performance": 0.39
     },
     {
         "ID": "pl-k00071150",
@@ -1218,10 +1218,10 @@
         "Expected_Points_Sorare": 2288,
         "Expected_Points_Kicker": 277,
         "Expected_Points_Per_Game_Kicker": 8.15,
-        "Current_Points_Kicker": 186,
-        "Current_Points_Per_Game_Kicker": 8.86,
-        "Difference_Kicker": -91,
-        "Performance": 1.09
+        "Current_Points_Kicker": 188,
+        "Current_Points_Per_Game_Kicker": 8.55,
+        "Difference_Kicker": -89,
+        "Performance": 1.05
     },
     {
         "ID": "pl-k00071151",
@@ -1235,10 +1235,10 @@
         "Expected_Points_Sorare": 1561,
         "Expected_Points_Kicker": 133,
         "Expected_Points_Per_Game_Kicker": 3.91,
-        "Current_Points_Kicker": 62,
-        "Current_Points_Per_Game_Kicker": 2.95,
-        "Difference_Kicker": -71,
-        "Performance": 0.75
+        "Current_Points_Kicker": 60,
+        "Current_Points_Per_Game_Kicker": 2.73,
+        "Difference_Kicker": -73,
+        "Performance": 0.7
     },
     {
         "ID": "pl-k00071294",
@@ -1252,10 +1252,10 @@
         "Expected_Points_Sorare": 1783,
         "Expected_Points_Kicker": 153,
         "Expected_Points_Per_Game_Kicker": 4.5,
-        "Current_Points_Kicker": 99,
-        "Current_Points_Per_Game_Kicker": 4.71,
-        "Difference_Kicker": -54,
-        "Performance": 1.05
+        "Current_Points_Kicker": 105,
+        "Current_Points_Per_Game_Kicker": 4.77,
+        "Difference_Kicker": -48,
+        "Performance": 1.06
     },
     {
         "ID": "pl-k00071610",
@@ -1270,9 +1270,9 @@
         "Expected_Points_Kicker": 84,
         "Expected_Points_Per_Game_Kicker": 2.47,
         "Current_Points_Kicker": 38,
-        "Current_Points_Per_Game_Kicker": 1.81,
+        "Current_Points_Per_Game_Kicker": 1.73,
         "Difference_Kicker": -46,
-        "Performance": 0.73
+        "Performance": 0.7
     },
     {
         "ID": "pl-k00071930",
@@ -1286,10 +1286,10 @@
         "Expected_Points_Sorare": 1170,
         "Expected_Points_Kicker": 102,
         "Expected_Points_Per_Game_Kicker": 3.0,
-        "Current_Points_Kicker": 40,
-        "Current_Points_Per_Game_Kicker": 1.9,
-        "Difference_Kicker": -62,
-        "Performance": 0.63
+        "Current_Points_Kicker": 46,
+        "Current_Points_Per_Game_Kicker": 2.09,
+        "Difference_Kicker": -56,
+        "Performance": 0.7
     },
     {
         "ID": "pl-k00071980",
@@ -1303,10 +1303,10 @@
         "Expected_Points_Sorare": 244,
         "Expected_Points_Kicker": 10,
         "Expected_Points_Per_Game_Kicker": 0.29,
-        "Current_Points_Kicker": 10,
-        "Current_Points_Per_Game_Kicker": 0.48,
-        "Difference_Kicker": 0,
-        "Performance": 1.66
+        "Current_Points_Kicker": 16,
+        "Current_Points_Per_Game_Kicker": 0.73,
+        "Difference_Kicker": 6,
+        "Performance": 2.52
     },
     {
         "ID": "pl-k00072607",
@@ -1338,9 +1338,9 @@
         "Expected_Points_Kicker": 146,
         "Expected_Points_Per_Game_Kicker": 4.29,
         "Current_Points_Kicker": 60,
-        "Current_Points_Per_Game_Kicker": 2.86,
+        "Current_Points_Per_Game_Kicker": 2.73,
         "Difference_Kicker": -86,
-        "Performance": 0.67
+        "Performance": 0.64
     },
     {
         "ID": "pl-k00072684",
@@ -1371,10 +1371,10 @@
         "Expected_Points_Sorare": 1483,
         "Expected_Points_Kicker": 156,
         "Expected_Points_Per_Game_Kicker": 4.59,
-        "Current_Points_Kicker": 95,
-        "Current_Points_Per_Game_Kicker": 4.52,
-        "Difference_Kicker": -61,
-        "Performance": 0.98
+        "Current_Points_Kicker": 105,
+        "Current_Points_Per_Game_Kicker": 4.77,
+        "Difference_Kicker": -51,
+        "Performance": 1.04
     },
     {
         "ID": "pl-k00072755",
@@ -1388,10 +1388,10 @@
         "Expected_Points_Sorare": 2029,
         "Expected_Points_Kicker": 191,
         "Expected_Points_Per_Game_Kicker": 5.62,
-        "Current_Points_Kicker": 146,
-        "Current_Points_Per_Game_Kicker": 6.95,
-        "Difference_Kicker": -45,
-        "Performance": 1.24
+        "Current_Points_Kicker": 152,
+        "Current_Points_Per_Game_Kicker": 6.91,
+        "Difference_Kicker": -39,
+        "Performance": 1.23
     },
     {
         "ID": "pl-k00072759",
@@ -1406,9 +1406,9 @@
         "Expected_Points_Kicker": 228,
         "Expected_Points_Per_Game_Kicker": 6.71,
         "Current_Points_Kicker": 134,
-        "Current_Points_Per_Game_Kicker": 6.38,
+        "Current_Points_Per_Game_Kicker": 6.09,
         "Difference_Kicker": -94,
-        "Performance": 0.95
+        "Performance": 0.91
     },
     {
         "ID": "pl-k00073015",
@@ -1422,9 +1422,9 @@
         "Expected_Points_Sorare": 1154,
         "Expected_Points_Kicker": 89,
         "Expected_Points_Per_Game_Kicker": 2.62,
-        "Current_Points_Kicker": 38,
-        "Current_Points_Per_Game_Kicker": 1.81,
-        "Difference_Kicker": -51,
+        "Current_Points_Kicker": 40,
+        "Current_Points_Per_Game_Kicker": 1.82,
+        "Difference_Kicker": -49,
         "Performance": 0.69
     },
     {
@@ -1439,10 +1439,10 @@
         "Expected_Points_Sorare": 1799,
         "Expected_Points_Kicker": 206,
         "Expected_Points_Per_Game_Kicker": 6.06,
-        "Current_Points_Kicker": 32,
-        "Current_Points_Per_Game_Kicker": 1.52,
-        "Difference_Kicker": -174,
-        "Performance": 0.25
+        "Current_Points_Kicker": 30,
+        "Current_Points_Per_Game_Kicker": 1.36,
+        "Difference_Kicker": -176,
+        "Performance": 0.22
     },
     {
         "ID": "pl-k00073704",
@@ -1456,10 +1456,10 @@
         "Expected_Points_Sorare": 1953,
         "Expected_Points_Kicker": 184,
         "Expected_Points_Per_Game_Kicker": 5.41,
-        "Current_Points_Kicker": 106,
-        "Current_Points_Per_Game_Kicker": 5.05,
-        "Difference_Kicker": -78,
-        "Performance": 0.93
+        "Current_Points_Kicker": 112,
+        "Current_Points_Per_Game_Kicker": 5.09,
+        "Difference_Kicker": -72,
+        "Performance": 0.94
     },
     {
         "ID": "pl-k00075006",
@@ -1473,10 +1473,10 @@
         "Expected_Points_Sorare": 1764,
         "Expected_Points_Kicker": 170,
         "Expected_Points_Per_Game_Kicker": 5.0,
-        "Current_Points_Kicker": 76,
-        "Current_Points_Per_Game_Kicker": 3.62,
-        "Difference_Kicker": -94,
-        "Performance": 0.72
+        "Current_Points_Kicker": 82,
+        "Current_Points_Per_Game_Kicker": 3.73,
+        "Difference_Kicker": -88,
+        "Performance": 0.75
     },
     {
         "ID": "pl-k00075072",
@@ -1491,9 +1491,9 @@
         "Expected_Points_Kicker": 156,
         "Expected_Points_Per_Game_Kicker": 4.59,
         "Current_Points_Kicker": 93,
-        "Current_Points_Per_Game_Kicker": 4.43,
+        "Current_Points_Per_Game_Kicker": 4.23,
         "Difference_Kicker": -63,
-        "Performance": 0.97
+        "Performance": 0.92
     },
     {
         "ID": "pl-k00075198",
@@ -1507,9 +1507,9 @@
         "Expected_Points_Sorare": 1488,
         "Expected_Points_Kicker": 117,
         "Expected_Points_Per_Game_Kicker": 3.44,
-        "Current_Points_Kicker": 72,
-        "Current_Points_Per_Game_Kicker": 3.43,
-        "Difference_Kicker": -45,
+        "Current_Points_Kicker": 76,
+        "Current_Points_Per_Game_Kicker": 3.45,
+        "Difference_Kicker": -41,
         "Performance": 1.0
     },
     {
@@ -1525,9 +1525,9 @@
         "Expected_Points_Kicker": 107,
         "Expected_Points_Per_Game_Kicker": 3.15,
         "Current_Points_Kicker": 15,
-        "Current_Points_Per_Game_Kicker": 0.71,
+        "Current_Points_Per_Game_Kicker": 0.68,
         "Difference_Kicker": -92,
-        "Performance": 0.23
+        "Performance": 0.22
     },
     {
         "ID": "pl-k00075379",
@@ -1541,10 +1541,10 @@
         "Expected_Points_Sorare": 886,
         "Expected_Points_Kicker": 72,
         "Expected_Points_Per_Game_Kicker": 2.12,
-        "Current_Points_Kicker": 32,
-        "Current_Points_Per_Game_Kicker": 1.52,
-        "Difference_Kicker": -40,
-        "Performance": 0.72
+        "Current_Points_Kicker": 34,
+        "Current_Points_Per_Game_Kicker": 1.55,
+        "Difference_Kicker": -38,
+        "Performance": 0.73
     },
     {
         "ID": "pl-k00075608",
@@ -1558,10 +1558,10 @@
         "Expected_Points_Sorare": 1205,
         "Expected_Points_Kicker": 84,
         "Expected_Points_Per_Game_Kicker": 2.47,
-        "Current_Points_Kicker": 44,
-        "Current_Points_Per_Game_Kicker": 2.1,
-        "Difference_Kicker": -40,
-        "Performance": 0.85
+        "Current_Points_Kicker": 52,
+        "Current_Points_Per_Game_Kicker": 2.36,
+        "Difference_Kicker": -32,
+        "Performance": 0.96
     },
     {
         "ID": "pl-k00075624",
@@ -1576,9 +1576,9 @@
         "Expected_Points_Kicker": 118,
         "Expected_Points_Per_Game_Kicker": 3.47,
         "Current_Points_Kicker": 46,
-        "Current_Points_Per_Game_Kicker": 2.19,
+        "Current_Points_Per_Game_Kicker": 2.09,
         "Difference_Kicker": -72,
-        "Performance": 0.63
+        "Performance": 0.6
     },
     {
         "ID": "pl-k00075625",
@@ -1592,10 +1592,10 @@
         "Expected_Points_Sorare": "NaN",
         "Expected_Points_Kicker": 15,
         "Expected_Points_Per_Game_Kicker": 0.44,
-        "Current_Points_Kicker": 14,
-        "Current_Points_Per_Game_Kicker": 0.67,
-        "Difference_Kicker": -1,
-        "Performance": 1.52
+        "Current_Points_Kicker": 16,
+        "Current_Points_Per_Game_Kicker": 0.73,
+        "Difference_Kicker": 1,
+        "Performance": 1.66
     },
     {
         "ID": "pl-k00075628",
@@ -1610,9 +1610,9 @@
         "Expected_Points_Kicker": 135,
         "Expected_Points_Per_Game_Kicker": 3.97,
         "Current_Points_Kicker": 24,
-        "Current_Points_Per_Game_Kicker": 1.14,
+        "Current_Points_Per_Game_Kicker": 1.09,
         "Difference_Kicker": -111,
-        "Performance": 0.29
+        "Performance": 0.27
     },
     {
         "ID": "pl-k00075632",
@@ -1626,10 +1626,10 @@
         "Expected_Points_Sorare": 1396,
         "Expected_Points_Kicker": 121,
         "Expected_Points_Per_Game_Kicker": 3.56,
-        "Current_Points_Kicker": 78,
-        "Current_Points_Per_Game_Kicker": 3.71,
-        "Difference_Kicker": -43,
-        "Performance": 1.04
+        "Current_Points_Kicker": 76,
+        "Current_Points_Per_Game_Kicker": 3.45,
+        "Difference_Kicker": -45,
+        "Performance": 0.97
     },
     {
         "ID": "pl-k00075651",
@@ -1643,10 +1643,10 @@
         "Expected_Points_Sorare": 2030,
         "Expected_Points_Kicker": 204,
         "Expected_Points_Per_Game_Kicker": 6.0,
-        "Current_Points_Kicker": 118,
-        "Current_Points_Per_Game_Kicker": 5.62,
-        "Difference_Kicker": -86,
-        "Performance": 0.94
+        "Current_Points_Kicker": 128,
+        "Current_Points_Per_Game_Kicker": 5.82,
+        "Difference_Kicker": -76,
+        "Performance": 0.97
     },
     {
         "ID": "pl-k00076053",
@@ -1660,10 +1660,10 @@
         "Expected_Points_Sorare": 1943,
         "Expected_Points_Kicker": 204,
         "Expected_Points_Per_Game_Kicker": 6.0,
-        "Current_Points_Kicker": 114,
-        "Current_Points_Per_Game_Kicker": 5.43,
-        "Difference_Kicker": -90,
-        "Performance": 0.9
+        "Current_Points_Kicker": 116,
+        "Current_Points_Per_Game_Kicker": 5.27,
+        "Difference_Kicker": -88,
+        "Performance": 0.88
     },
     {
         "ID": "pl-k00076421",
@@ -1677,10 +1677,10 @@
         "Expected_Points_Sorare": 1337,
         "Expected_Points_Kicker": 135,
         "Expected_Points_Per_Game_Kicker": 3.97,
-        "Current_Points_Kicker": 106,
-        "Current_Points_Per_Game_Kicker": 5.05,
-        "Difference_Kicker": -29,
-        "Performance": 1.27
+        "Current_Points_Kicker": 112,
+        "Current_Points_Per_Game_Kicker": 5.09,
+        "Difference_Kicker": -23,
+        "Performance": 1.28
     },
     {
         "ID": "pl-k00076446",
@@ -1694,10 +1694,10 @@
         "Expected_Points_Sorare": 930,
         "Expected_Points_Kicker": 67,
         "Expected_Points_Per_Game_Kicker": 1.97,
-        "Current_Points_Kicker": 24,
-        "Current_Points_Per_Game_Kicker": 1.14,
-        "Difference_Kicker": -43,
-        "Performance": 0.58
+        "Current_Points_Kicker": 26,
+        "Current_Points_Per_Game_Kicker": 1.18,
+        "Difference_Kicker": -41,
+        "Performance": 0.6
     },
     {
         "ID": "pl-k00076575",
@@ -1711,10 +1711,10 @@
         "Expected_Points_Sorare": 939,
         "Expected_Points_Kicker": 84,
         "Expected_Points_Per_Game_Kicker": 2.47,
-        "Current_Points_Kicker": 62,
-        "Current_Points_Per_Game_Kicker": 2.95,
-        "Difference_Kicker": -22,
-        "Performance": 1.19
+        "Current_Points_Kicker": 68,
+        "Current_Points_Per_Game_Kicker": 3.09,
+        "Difference_Kicker": -16,
+        "Performance": 1.25
     },
     {
         "ID": "pl-k00076799",
@@ -1728,10 +1728,10 @@
         "Expected_Points_Sorare": 2051,
         "Expected_Points_Kicker": 186,
         "Expected_Points_Per_Game_Kicker": 5.47,
-        "Current_Points_Kicker": 60,
-        "Current_Points_Per_Game_Kicker": 2.86,
-        "Difference_Kicker": -126,
-        "Performance": 0.52
+        "Current_Points_Kicker": 64,
+        "Current_Points_Per_Game_Kicker": 2.91,
+        "Difference_Kicker": -122,
+        "Performance": 0.53
     },
     {
         "ID": "pl-k00076954",
@@ -1745,9 +1745,9 @@
         "Expected_Points_Sorare": 1665,
         "Expected_Points_Kicker": 190,
         "Expected_Points_Per_Game_Kicker": 5.59,
-        "Current_Points_Kicker": 172,
-        "Current_Points_Per_Game_Kicker": 8.19,
-        "Difference_Kicker": -18,
+        "Current_Points_Kicker": 181,
+        "Current_Points_Per_Game_Kicker": 8.23,
+        "Difference_Kicker": -9,
         "Performance": 1.47
     },
     {
@@ -1796,10 +1796,10 @@
         "Expected_Points_Sorare": "NaN",
         "Expected_Points_Kicker": 15,
         "Expected_Points_Per_Game_Kicker": 0.44,
-        "Current_Points_Kicker": 56,
-        "Current_Points_Per_Game_Kicker": 2.67,
-        "Difference_Kicker": 41,
-        "Performance": 6.07
+        "Current_Points_Kicker": 58,
+        "Current_Points_Per_Game_Kicker": 2.64,
+        "Difference_Kicker": 43,
+        "Performance": 6.0
     },
     {
         "ID": "pl-k00077817",
@@ -1813,9 +1813,9 @@
         "Expected_Points_Sorare": 1483,
         "Expected_Points_Kicker": 134,
         "Expected_Points_Per_Game_Kicker": 3.94,
-        "Current_Points_Kicker": 88,
-        "Current_Points_Per_Game_Kicker": 4.19,
-        "Difference_Kicker": -46,
+        "Current_Points_Kicker": 92,
+        "Current_Points_Per_Game_Kicker": 4.18,
+        "Difference_Kicker": -42,
         "Performance": 1.06
     },
     {
@@ -1831,9 +1831,9 @@
         "Expected_Points_Kicker": 130,
         "Expected_Points_Per_Game_Kicker": 3.82,
         "Current_Points_Kicker": 48,
-        "Current_Points_Per_Game_Kicker": 2.29,
+        "Current_Points_Per_Game_Kicker": 2.18,
         "Difference_Kicker": -82,
-        "Performance": 0.6
+        "Performance": 0.57
     },
     {
         "ID": "pl-k00078917",
@@ -1864,10 +1864,10 @@
         "Expected_Points_Sorare": 1039,
         "Expected_Points_Kicker": 81,
         "Expected_Points_Per_Game_Kicker": 2.38,
-        "Current_Points_Kicker": 32,
-        "Current_Points_Per_Game_Kicker": 1.52,
-        "Difference_Kicker": -49,
-        "Performance": 0.64
+        "Current_Points_Kicker": 34,
+        "Current_Points_Per_Game_Kicker": 1.55,
+        "Difference_Kicker": -47,
+        "Performance": 0.65
     },
     {
         "ID": "pl-k00079078",
@@ -1881,10 +1881,10 @@
         "Expected_Points_Sorare": 1701,
         "Expected_Points_Kicker": 151,
         "Expected_Points_Per_Game_Kicker": 4.44,
-        "Current_Points_Kicker": 164,
-        "Current_Points_Per_Game_Kicker": 7.81,
-        "Difference_Kicker": 13,
-        "Performance": 1.76
+        "Current_Points_Kicker": 177,
+        "Current_Points_Per_Game_Kicker": 8.05,
+        "Difference_Kicker": 26,
+        "Performance": 1.81
     },
     {
         "ID": "pl-k00079176",
@@ -1898,10 +1898,10 @@
         "Expected_Points_Sorare": 1970,
         "Expected_Points_Kicker": 197,
         "Expected_Points_Per_Game_Kicker": 5.79,
-        "Current_Points_Kicker": 83,
-        "Current_Points_Per_Game_Kicker": 3.95,
-        "Difference_Kicker": -114,
-        "Performance": 0.68
+        "Current_Points_Kicker": 89,
+        "Current_Points_Per_Game_Kicker": 4.05,
+        "Difference_Kicker": -108,
+        "Performance": 0.7
     },
     {
         "ID": "pl-k00079188",
@@ -1915,10 +1915,10 @@
         "Expected_Points_Sorare": 1456,
         "Expected_Points_Kicker": 131,
         "Expected_Points_Per_Game_Kicker": 3.85,
-        "Current_Points_Kicker": 40,
-        "Current_Points_Per_Game_Kicker": 1.9,
-        "Difference_Kicker": -91,
-        "Performance": 0.49
+        "Current_Points_Kicker": 34,
+        "Current_Points_Per_Game_Kicker": 1.55,
+        "Difference_Kicker": -97,
+        "Performance": 0.4
     },
     {
         "ID": "pl-k00079199",
@@ -1932,9 +1932,9 @@
         "Expected_Points_Sorare": "NaN",
         "Expected_Points_Kicker": 0,
         "Expected_Points_Per_Game_Kicker": 0.0,
-        "Current_Points_Kicker": 138,
-        "Current_Points_Per_Game_Kicker": 6.57,
-        "Difference_Kicker": 138,
+        "Current_Points_Kicker": 142,
+        "Current_Points_Per_Game_Kicker": 6.45,
+        "Difference_Kicker": 142,
         "Performance": "NaN"
     },
     {
@@ -1950,9 +1950,9 @@
         "Expected_Points_Kicker": 84,
         "Expected_Points_Per_Game_Kicker": 2.47,
         "Current_Points_Kicker": 4,
-        "Current_Points_Per_Game_Kicker": 0.19,
+        "Current_Points_Per_Game_Kicker": 0.18,
         "Difference_Kicker": -80,
-        "Performance": 0.08
+        "Performance": 0.07
     },
     {
         "ID": "pl-k00079503",
@@ -1966,10 +1966,10 @@
         "Expected_Points_Sorare": 1654,
         "Expected_Points_Kicker": 163,
         "Expected_Points_Per_Game_Kicker": 4.79,
-        "Current_Points_Kicker": 58,
-        "Current_Points_Per_Game_Kicker": 2.76,
-        "Difference_Kicker": -105,
-        "Performance": 0.58
+        "Current_Points_Kicker": 62,
+        "Current_Points_Per_Game_Kicker": 2.82,
+        "Difference_Kicker": -101,
+        "Performance": 0.59
     },
     {
         "ID": "pl-k00079504",
@@ -2000,10 +2000,10 @@
         "Expected_Points_Sorare": 1735,
         "Expected_Points_Kicker": 244,
         "Expected_Points_Per_Game_Kicker": 7.18,
-        "Current_Points_Kicker": 81,
-        "Current_Points_Per_Game_Kicker": 3.86,
-        "Difference_Kicker": -163,
-        "Performance": 0.54
+        "Current_Points_Kicker": 83,
+        "Current_Points_Per_Game_Kicker": 3.77,
+        "Difference_Kicker": -161,
+        "Performance": 0.53
     },
     {
         "ID": "pl-k00079577",
@@ -2017,9 +2017,9 @@
         "Expected_Points_Sorare": 1385,
         "Expected_Points_Kicker": 134,
         "Expected_Points_Per_Game_Kicker": 3.94,
-        "Current_Points_Kicker": 39,
+        "Current_Points_Kicker": 41,
         "Current_Points_Per_Game_Kicker": 1.86,
-        "Difference_Kicker": -95,
+        "Difference_Kicker": -93,
         "Performance": 0.47
     },
     {
@@ -2034,10 +2034,10 @@
         "Expected_Points_Sorare": 1481,
         "Expected_Points_Kicker": 132,
         "Expected_Points_Per_Game_Kicker": 3.88,
-        "Current_Points_Kicker": 62,
-        "Current_Points_Per_Game_Kicker": 2.95,
-        "Difference_Kicker": -70,
-        "Performance": 0.76
+        "Current_Points_Kicker": 64,
+        "Current_Points_Per_Game_Kicker": 2.91,
+        "Difference_Kicker": -68,
+        "Performance": 0.75
     },
     {
         "ID": "pl-k00079813",
@@ -2051,10 +2051,10 @@
         "Expected_Points_Sorare": 2035,
         "Expected_Points_Kicker": 222,
         "Expected_Points_Per_Game_Kicker": 6.53,
-        "Current_Points_Kicker": 81,
-        "Current_Points_Per_Game_Kicker": 3.86,
-        "Difference_Kicker": -141,
-        "Performance": 0.59
+        "Current_Points_Kicker": 87,
+        "Current_Points_Per_Game_Kicker": 3.95,
+        "Difference_Kicker": -135,
+        "Performance": 0.6
     },
     {
         "ID": "pl-k00079914",
@@ -2069,9 +2069,9 @@
         "Expected_Points_Kicker": 44,
         "Expected_Points_Per_Game_Kicker": 1.29,
         "Current_Points_Kicker": 6,
-        "Current_Points_Per_Game_Kicker": 0.29,
+        "Current_Points_Per_Game_Kicker": 0.27,
         "Difference_Kicker": -38,
-        "Performance": 0.22
+        "Performance": 0.21
     },
     {
         "ID": "pl-k00079917",
@@ -2102,10 +2102,10 @@
         "Expected_Points_Sorare": 1551,
         "Expected_Points_Kicker": 149,
         "Expected_Points_Per_Game_Kicker": 4.38,
-        "Current_Points_Kicker": 65,
-        "Current_Points_Per_Game_Kicker": 3.1,
-        "Difference_Kicker": -84,
-        "Performance": 0.71
+        "Current_Points_Kicker": 67,
+        "Current_Points_Per_Game_Kicker": 3.05,
+        "Difference_Kicker": -82,
+        "Performance": 0.7
     },
     {
         "ID": "pl-k00080029",
@@ -2120,9 +2120,9 @@
         "Expected_Points_Kicker": 172,
         "Expected_Points_Per_Game_Kicker": 5.06,
         "Current_Points_Kicker": 22,
-        "Current_Points_Per_Game_Kicker": 1.05,
+        "Current_Points_Per_Game_Kicker": 1.0,
         "Difference_Kicker": -150,
-        "Performance": 0.21
+        "Performance": 0.2
     },
     {
         "ID": "pl-k00080083",
@@ -2136,10 +2136,10 @@
         "Expected_Points_Sorare": 2049,
         "Expected_Points_Kicker": 228,
         "Expected_Points_Per_Game_Kicker": 6.71,
-        "Current_Points_Kicker": 119,
-        "Current_Points_Per_Game_Kicker": 5.67,
-        "Difference_Kicker": -109,
-        "Performance": 0.85
+        "Current_Points_Kicker": 123,
+        "Current_Points_Per_Game_Kicker": 5.59,
+        "Difference_Kicker": -105,
+        "Performance": 0.83
     },
     {
         "ID": "pl-k00080088",
@@ -2154,7 +2154,7 @@
         "Expected_Points_Kicker": 0,
         "Expected_Points_Per_Game_Kicker": 0.0,
         "Current_Points_Kicker": 6,
-        "Current_Points_Per_Game_Kicker": 0.29,
+        "Current_Points_Per_Game_Kicker": 0.27,
         "Difference_Kicker": 6,
         "Performance": "NaN"
     },
@@ -2171,9 +2171,9 @@
         "Expected_Points_Kicker": 240,
         "Expected_Points_Per_Game_Kicker": 7.06,
         "Current_Points_Kicker": 67,
-        "Current_Points_Per_Game_Kicker": 3.19,
+        "Current_Points_Per_Game_Kicker": 3.05,
         "Difference_Kicker": -173,
-        "Performance": 0.45
+        "Performance": 0.43
     },
     {
         "ID": "pl-k00080342",
@@ -2188,9 +2188,9 @@
         "Expected_Points_Kicker": 120,
         "Expected_Points_Per_Game_Kicker": 3.53,
         "Current_Points_Kicker": 48,
-        "Current_Points_Per_Game_Kicker": 2.29,
+        "Current_Points_Per_Game_Kicker": 2.18,
         "Difference_Kicker": -72,
-        "Performance": 0.65
+        "Performance": 0.62
     },
     {
         "ID": "pl-k00080351",
@@ -2204,10 +2204,10 @@
         "Expected_Points_Sorare": 1595,
         "Expected_Points_Kicker": 186,
         "Expected_Points_Per_Game_Kicker": 5.47,
-        "Current_Points_Kicker": 88,
-        "Current_Points_Per_Game_Kicker": 4.19,
-        "Difference_Kicker": -98,
-        "Performance": 0.77
+        "Current_Points_Kicker": 94,
+        "Current_Points_Per_Game_Kicker": 4.27,
+        "Difference_Kicker": -92,
+        "Performance": 0.78
     },
     {
         "ID": "pl-k00080364",
@@ -2222,9 +2222,9 @@
         "Expected_Points_Kicker": 59,
         "Expected_Points_Per_Game_Kicker": 1.74,
         "Current_Points_Kicker": 20,
-        "Current_Points_Per_Game_Kicker": 0.95,
+        "Current_Points_Per_Game_Kicker": 0.91,
         "Difference_Kicker": -39,
-        "Performance": 0.55
+        "Performance": 0.52
     },
     {
         "ID": "pl-k00080554",
@@ -2239,9 +2239,9 @@
         "Expected_Points_Kicker": 111,
         "Expected_Points_Per_Game_Kicker": 3.26,
         "Current_Points_Kicker": 50,
-        "Current_Points_Per_Game_Kicker": 2.38,
+        "Current_Points_Per_Game_Kicker": 2.27,
         "Difference_Kicker": -61,
-        "Performance": 0.73
+        "Performance": 0.7
     },
     {
         "ID": "pl-k00080766",
@@ -2256,9 +2256,9 @@
         "Expected_Points_Kicker": 10,
         "Expected_Points_Per_Game_Kicker": 0.29,
         "Current_Points_Kicker": 12,
-        "Current_Points_Per_Game_Kicker": 0.57,
+        "Current_Points_Per_Game_Kicker": 0.55,
         "Difference_Kicker": 2,
-        "Performance": 1.97
+        "Performance": 1.9
     },
     {
         "ID": "pl-k00080875",
@@ -2273,9 +2273,9 @@
         "Expected_Points_Kicker": 119,
         "Expected_Points_Per_Game_Kicker": 3.5,
         "Current_Points_Kicker": 56,
-        "Current_Points_Per_Game_Kicker": 2.67,
+        "Current_Points_Per_Game_Kicker": 2.55,
         "Difference_Kicker": -63,
-        "Performance": 0.76
+        "Performance": 0.73
     },
     {
         "ID": "pl-k00081437",
@@ -2290,9 +2290,9 @@
         "Expected_Points_Kicker": 108,
         "Expected_Points_Per_Game_Kicker": 3.18,
         "Current_Points_Kicker": 102,
-        "Current_Points_Per_Game_Kicker": 4.86,
+        "Current_Points_Per_Game_Kicker": 4.64,
         "Difference_Kicker": -6,
-        "Performance": 1.53
+        "Performance": 1.46
     },
     {
         "ID": "pl-k00081465",
@@ -2306,9 +2306,9 @@
         "Expected_Points_Sorare": 2162,
         "Expected_Points_Kicker": 282,
         "Expected_Points_Per_Game_Kicker": 8.29,
-        "Current_Points_Kicker": 122,
-        "Current_Points_Per_Game_Kicker": 5.81,
-        "Difference_Kicker": -160,
+        "Current_Points_Kicker": 128,
+        "Current_Points_Per_Game_Kicker": 5.82,
+        "Difference_Kicker": -154,
         "Performance": 0.7
     },
     {
@@ -2323,10 +2323,10 @@
         "Expected_Points_Sorare": 1088,
         "Expected_Points_Kicker": 105,
         "Expected_Points_Per_Game_Kicker": 3.09,
-        "Current_Points_Kicker": 27,
-        "Current_Points_Per_Game_Kicker": 1.29,
-        "Difference_Kicker": -78,
-        "Performance": 0.42
+        "Current_Points_Kicker": 29,
+        "Current_Points_Per_Game_Kicker": 1.32,
+        "Difference_Kicker": -76,
+        "Performance": 0.43
     },
     {
         "ID": "pl-k00081971",
@@ -2341,9 +2341,9 @@
         "Expected_Points_Kicker": 144,
         "Expected_Points_Per_Game_Kicker": 4.24,
         "Current_Points_Kicker": 95,
-        "Current_Points_Per_Game_Kicker": 4.52,
+        "Current_Points_Per_Game_Kicker": 4.32,
         "Difference_Kicker": -49,
-        "Performance": 1.07
+        "Performance": 1.02
     },
     {
         "ID": "pl-k00082076",
@@ -2358,9 +2358,9 @@
         "Expected_Points_Kicker": 174,
         "Expected_Points_Per_Game_Kicker": 5.12,
         "Current_Points_Kicker": 78,
-        "Current_Points_Per_Game_Kicker": 3.71,
+        "Current_Points_Per_Game_Kicker": 3.55,
         "Difference_Kicker": -96,
-        "Performance": 0.72
+        "Performance": 0.69
     },
     {
         "ID": "pl-k00082087",
@@ -2374,9 +2374,9 @@
         "Expected_Points_Sorare": 1791,
         "Expected_Points_Kicker": 176,
         "Expected_Points_Per_Game_Kicker": 5.18,
-        "Current_Points_Kicker": 36,
-        "Current_Points_Per_Game_Kicker": 1.71,
-        "Difference_Kicker": -140,
+        "Current_Points_Kicker": 38,
+        "Current_Points_Per_Game_Kicker": 1.73,
+        "Difference_Kicker": -138,
         "Performance": 0.33
     },
     {
@@ -2409,9 +2409,9 @@
         "Expected_Points_Kicker": 125,
         "Expected_Points_Per_Game_Kicker": 3.68,
         "Current_Points_Kicker": 26,
-        "Current_Points_Per_Game_Kicker": 1.24,
+        "Current_Points_Per_Game_Kicker": 1.18,
         "Difference_Kicker": -99,
-        "Performance": 0.34
+        "Performance": 0.32
     },
     {
         "ID": "pl-k00082711",
@@ -2426,9 +2426,9 @@
         "Expected_Points_Kicker": 71,
         "Expected_Points_Per_Game_Kicker": 2.09,
         "Current_Points_Kicker": 22,
-        "Current_Points_Per_Game_Kicker": 1.05,
+        "Current_Points_Per_Game_Kicker": 1.0,
         "Difference_Kicker": -49,
-        "Performance": 0.5
+        "Performance": 0.48
     },
     {
         "ID": "pl-k00082727",
@@ -2442,10 +2442,10 @@
         "Expected_Points_Sorare": 1479,
         "Expected_Points_Kicker": 147,
         "Expected_Points_Per_Game_Kicker": 4.32,
-        "Current_Points_Kicker": 60,
-        "Current_Points_Per_Game_Kicker": 2.86,
-        "Difference_Kicker": -87,
-        "Performance": 0.66
+        "Current_Points_Kicker": 70,
+        "Current_Points_Per_Game_Kicker": 3.18,
+        "Difference_Kicker": -77,
+        "Performance": 0.74
     },
     {
         "ID": "pl-k00082732",
@@ -2459,9 +2459,9 @@
         "Expected_Points_Sorare": "NaN",
         "Expected_Points_Kicker": 0,
         "Expected_Points_Per_Game_Kicker": 0.0,
-        "Current_Points_Kicker": 76,
-        "Current_Points_Per_Game_Kicker": 3.62,
-        "Difference_Kicker": 76,
+        "Current_Points_Kicker": 82,
+        "Current_Points_Per_Game_Kicker": 3.73,
+        "Difference_Kicker": 82,
         "Performance": "NaN"
     },
     {
@@ -2476,10 +2476,10 @@
         "Expected_Points_Sorare": 1319,
         "Expected_Points_Kicker": 122,
         "Expected_Points_Per_Game_Kicker": 3.59,
-        "Current_Points_Kicker": 84,
-        "Current_Points_Per_Game_Kicker": 4.0,
-        "Difference_Kicker": -38,
-        "Performance": 1.11
+        "Current_Points_Kicker": 92,
+        "Current_Points_Per_Game_Kicker": 4.18,
+        "Difference_Kicker": -30,
+        "Performance": 1.16
     },
     {
         "ID": "pl-k00083673",
@@ -2493,10 +2493,10 @@
         "Expected_Points_Sorare": 1168,
         "Expected_Points_Kicker": 104,
         "Expected_Points_Per_Game_Kicker": 3.06,
-        "Current_Points_Kicker": 28,
-        "Current_Points_Per_Game_Kicker": 1.33,
-        "Difference_Kicker": -76,
-        "Performance": 0.43
+        "Current_Points_Kicker": 36,
+        "Current_Points_Per_Game_Kicker": 1.64,
+        "Difference_Kicker": -68,
+        "Performance": 0.54
     },
     {
         "ID": "pl-k00083812",
@@ -2510,10 +2510,10 @@
         "Expected_Points_Sorare": 925,
         "Expected_Points_Kicker": 56,
         "Expected_Points_Per_Game_Kicker": 1.65,
-        "Current_Points_Kicker": 32,
-        "Current_Points_Per_Game_Kicker": 1.52,
-        "Difference_Kicker": -24,
-        "Performance": 0.92
+        "Current_Points_Kicker": 40,
+        "Current_Points_Per_Game_Kicker": 1.82,
+        "Difference_Kicker": -16,
+        "Performance": 1.1
     },
     {
         "ID": "pl-k00083928",
@@ -2544,10 +2544,10 @@
         "Expected_Points_Sorare": 1076,
         "Expected_Points_Kicker": 81,
         "Expected_Points_Per_Game_Kicker": 2.38,
-        "Current_Points_Kicker": 74,
-        "Current_Points_Per_Game_Kicker": 3.52,
-        "Difference_Kicker": -7,
-        "Performance": 1.48
+        "Current_Points_Kicker": 78,
+        "Current_Points_Per_Game_Kicker": 3.55,
+        "Difference_Kicker": -3,
+        "Performance": 1.49
     },
     {
         "ID": "pl-k00084309",
@@ -2561,10 +2561,10 @@
         "Expected_Points_Sorare": 1829,
         "Expected_Points_Kicker": 194,
         "Expected_Points_Per_Game_Kicker": 5.71,
-        "Current_Points_Kicker": 14,
-        "Current_Points_Per_Game_Kicker": 0.67,
-        "Difference_Kicker": -180,
-        "Performance": 0.12
+        "Current_Points_Kicker": 20,
+        "Current_Points_Per_Game_Kicker": 0.91,
+        "Difference_Kicker": -174,
+        "Performance": 0.16
     },
     {
         "ID": "pl-k00084365",
@@ -2578,10 +2578,10 @@
         "Expected_Points_Sorare": 1804,
         "Expected_Points_Kicker": 183,
         "Expected_Points_Per_Game_Kicker": 5.38,
-        "Current_Points_Kicker": 69,
-        "Current_Points_Per_Game_Kicker": 3.29,
-        "Difference_Kicker": -114,
-        "Performance": 0.61
+        "Current_Points_Kicker": 75,
+        "Current_Points_Per_Game_Kicker": 3.41,
+        "Difference_Kicker": -108,
+        "Performance": 0.63
     },
     {
         "ID": "pl-k00084523",
@@ -2596,9 +2596,9 @@
         "Expected_Points_Kicker": 90,
         "Expected_Points_Per_Game_Kicker": 2.65,
         "Current_Points_Kicker": 38,
-        "Current_Points_Per_Game_Kicker": 1.81,
+        "Current_Points_Per_Game_Kicker": 1.73,
         "Difference_Kicker": -52,
-        "Performance": 0.68
+        "Performance": 0.65
     },
     {
         "ID": "pl-k00084538",
@@ -2613,9 +2613,9 @@
         "Expected_Points_Kicker": 140,
         "Expected_Points_Per_Game_Kicker": 4.12,
         "Current_Points_Kicker": 67,
-        "Current_Points_Per_Game_Kicker": 3.19,
+        "Current_Points_Per_Game_Kicker": 3.05,
         "Difference_Kicker": -73,
-        "Performance": 0.77
+        "Performance": 0.74
     },
     {
         "ID": "pl-k00084545",
@@ -2629,10 +2629,10 @@
         "Expected_Points_Sorare": 975,
         "Expected_Points_Kicker": 70,
         "Expected_Points_Per_Game_Kicker": 2.06,
-        "Current_Points_Kicker": 24,
-        "Current_Points_Per_Game_Kicker": 1.14,
-        "Difference_Kicker": -46,
-        "Performance": 0.55
+        "Current_Points_Kicker": 26,
+        "Current_Points_Per_Game_Kicker": 1.18,
+        "Difference_Kicker": -44,
+        "Performance": 0.57
     },
     {
         "ID": "pl-k00084550",
@@ -2647,9 +2647,9 @@
         "Expected_Points_Kicker": 185,
         "Expected_Points_Per_Game_Kicker": 5.44,
         "Current_Points_Kicker": 117,
-        "Current_Points_Per_Game_Kicker": 5.57,
+        "Current_Points_Per_Game_Kicker": 5.32,
         "Difference_Kicker": -68,
-        "Performance": 1.02
+        "Performance": 0.98
     },
     {
         "ID": "pl-k00084940",
@@ -2663,10 +2663,10 @@
         "Expected_Points_Sorare": 1821,
         "Expected_Points_Kicker": 176,
         "Expected_Points_Per_Game_Kicker": 5.18,
-        "Current_Points_Kicker": 77,
-        "Current_Points_Per_Game_Kicker": 3.67,
-        "Difference_Kicker": -99,
-        "Performance": 0.71
+        "Current_Points_Kicker": 83,
+        "Current_Points_Per_Game_Kicker": 3.77,
+        "Difference_Kicker": -93,
+        "Performance": 0.73
     },
     {
         "ID": "pl-k00084943",
@@ -2680,10 +2680,10 @@
         "Expected_Points_Sorare": 1081,
         "Expected_Points_Kicker": 97,
         "Expected_Points_Per_Game_Kicker": 2.85,
-        "Current_Points_Kicker": 62,
-        "Current_Points_Per_Game_Kicker": 2.95,
-        "Difference_Kicker": -35,
-        "Performance": 1.04
+        "Current_Points_Kicker": 66,
+        "Current_Points_Per_Game_Kicker": 3.0,
+        "Difference_Kicker": -31,
+        "Performance": 1.05
     },
     {
         "ID": "pl-k00085013",
@@ -2698,9 +2698,9 @@
         "Expected_Points_Kicker": 207,
         "Expected_Points_Per_Game_Kicker": 6.09,
         "Current_Points_Kicker": 40,
-        "Current_Points_Per_Game_Kicker": 1.9,
+        "Current_Points_Per_Game_Kicker": 1.82,
         "Difference_Kicker": -167,
-        "Performance": 0.31
+        "Performance": 0.3
     },
     {
         "ID": "pl-k00085014",
@@ -2714,10 +2714,10 @@
         "Expected_Points_Sorare": 71,
         "Expected_Points_Kicker": 13,
         "Expected_Points_Per_Game_Kicker": 0.38,
-        "Current_Points_Kicker": 25,
-        "Current_Points_Per_Game_Kicker": 1.19,
-        "Difference_Kicker": 12,
-        "Performance": 3.13
+        "Current_Points_Kicker": 23,
+        "Current_Points_Per_Game_Kicker": 1.05,
+        "Difference_Kicker": 10,
+        "Performance": 2.76
     },
     {
         "ID": "pl-k00085252",
@@ -2748,10 +2748,10 @@
         "Expected_Points_Sorare": 2012,
         "Expected_Points_Kicker": 208,
         "Expected_Points_Per_Game_Kicker": 6.12,
-        "Current_Points_Kicker": 91,
-        "Current_Points_Per_Game_Kicker": 4.33,
-        "Difference_Kicker": -117,
-        "Performance": 0.71
+        "Current_Points_Kicker": 97,
+        "Current_Points_Per_Game_Kicker": 4.41,
+        "Difference_Kicker": -111,
+        "Performance": 0.72
     },
     {
         "ID": "pl-k00085575",
@@ -2782,10 +2782,10 @@
         "Expected_Points_Sorare": 1346,
         "Expected_Points_Kicker": 132,
         "Expected_Points_Per_Game_Kicker": 3.88,
-        "Current_Points_Kicker": 151,
-        "Current_Points_Per_Game_Kicker": 7.19,
-        "Difference_Kicker": 19,
-        "Performance": 1.85
+        "Current_Points_Kicker": 153,
+        "Current_Points_Per_Game_Kicker": 6.95,
+        "Difference_Kicker": 21,
+        "Performance": 1.79
     },
     {
         "ID": "pl-k00086106",
@@ -2799,10 +2799,10 @@
         "Expected_Points_Sorare": 1477,
         "Expected_Points_Kicker": 139,
         "Expected_Points_Per_Game_Kicker": 4.09,
-        "Current_Points_Kicker": 69,
-        "Current_Points_Per_Game_Kicker": 3.29,
-        "Difference_Kicker": -70,
-        "Performance": 0.8
+        "Current_Points_Kicker": 67,
+        "Current_Points_Per_Game_Kicker": 3.05,
+        "Difference_Kicker": -72,
+        "Performance": 0.75
     },
     {
         "ID": "pl-k00086166",
@@ -2817,9 +2817,9 @@
         "Expected_Points_Kicker": 197,
         "Expected_Points_Per_Game_Kicker": 5.79,
         "Current_Points_Kicker": 73,
-        "Current_Points_Per_Game_Kicker": 3.48,
+        "Current_Points_Per_Game_Kicker": 3.32,
         "Difference_Kicker": -124,
-        "Performance": 0.6
+        "Performance": 0.57
     },
     {
         "ID": "pl-k00087441",
@@ -2834,9 +2834,9 @@
         "Expected_Points_Kicker": 89,
         "Expected_Points_Per_Game_Kicker": 2.62,
         "Current_Points_Kicker": 14,
-        "Current_Points_Per_Game_Kicker": 0.67,
+        "Current_Points_Per_Game_Kicker": 0.64,
         "Difference_Kicker": -75,
-        "Performance": 0.26
+        "Performance": 0.24
     },
     {
         "ID": "pl-k00087673",
@@ -2850,10 +2850,10 @@
         "Expected_Points_Sorare": 2088,
         "Expected_Points_Kicker": 212,
         "Expected_Points_Per_Game_Kicker": 6.24,
-        "Current_Points_Kicker": 104,
-        "Current_Points_Per_Game_Kicker": 4.95,
-        "Difference_Kicker": -108,
-        "Performance": 0.79
+        "Current_Points_Kicker": 114,
+        "Current_Points_Per_Game_Kicker": 5.18,
+        "Difference_Kicker": -98,
+        "Performance": 0.83
     },
     {
         "ID": "pl-k00087705",
@@ -2867,10 +2867,10 @@
         "Expected_Points_Sorare": 1763,
         "Expected_Points_Kicker": 203,
         "Expected_Points_Per_Game_Kicker": 5.97,
-        "Current_Points_Kicker": 94,
-        "Current_Points_Per_Game_Kicker": 4.48,
-        "Difference_Kicker": -109,
-        "Performance": 0.75
+        "Current_Points_Kicker": 96,
+        "Current_Points_Per_Game_Kicker": 4.36,
+        "Difference_Kicker": -107,
+        "Performance": 0.73
     },
     {
         "ID": "pl-k00087750",
@@ -2884,10 +2884,10 @@
         "Expected_Points_Sorare": 1844,
         "Expected_Points_Kicker": 220,
         "Expected_Points_Per_Game_Kicker": 6.47,
-        "Current_Points_Kicker": 79,
-        "Current_Points_Per_Game_Kicker": 3.76,
-        "Difference_Kicker": -141,
-        "Performance": 0.58
+        "Current_Points_Kicker": 85,
+        "Current_Points_Per_Game_Kicker": 3.86,
+        "Difference_Kicker": -135,
+        "Performance": 0.6
     },
     {
         "ID": "pl-k00087823",
@@ -2901,10 +2901,10 @@
         "Expected_Points_Sorare": 1501,
         "Expected_Points_Kicker": 143,
         "Expected_Points_Per_Game_Kicker": 4.21,
-        "Current_Points_Kicker": 122,
-        "Current_Points_Per_Game_Kicker": 5.81,
-        "Difference_Kicker": -21,
-        "Performance": 1.38
+        "Current_Points_Kicker": 124,
+        "Current_Points_Per_Game_Kicker": 5.64,
+        "Difference_Kicker": -19,
+        "Performance": 1.34
     },
     {
         "ID": "pl-k00087885",
@@ -2919,9 +2919,9 @@
         "Expected_Points_Kicker": 225,
         "Expected_Points_Per_Game_Kicker": 6.62,
         "Current_Points_Kicker": 82,
-        "Current_Points_Per_Game_Kicker": 3.9,
+        "Current_Points_Per_Game_Kicker": 3.73,
         "Difference_Kicker": -143,
-        "Performance": 0.59
+        "Performance": 0.56
     },
     {
         "ID": "pl-k00088061",
@@ -2936,9 +2936,9 @@
         "Expected_Points_Kicker": 48,
         "Expected_Points_Per_Game_Kicker": 1.41,
         "Current_Points_Kicker": 24,
-        "Current_Points_Per_Game_Kicker": 1.14,
+        "Current_Points_Per_Game_Kicker": 1.09,
         "Difference_Kicker": -24,
-        "Performance": 0.81
+        "Performance": 0.77
     },
     {
         "ID": "pl-k00088151",
@@ -2952,9 +2952,9 @@
         "Expected_Points_Sorare": 1847,
         "Expected_Points_Kicker": 189,
         "Expected_Points_Per_Game_Kicker": 5.56,
-        "Current_Points_Kicker": 126,
+        "Current_Points_Kicker": 132,
         "Current_Points_Per_Game_Kicker": 6.0,
-        "Difference_Kicker": -63,
+        "Difference_Kicker": -57,
         "Performance": 1.08
     },
     {
@@ -2970,9 +2970,9 @@
         "Expected_Points_Kicker": 83,
         "Expected_Points_Per_Game_Kicker": 2.44,
         "Current_Points_Kicker": 16,
-        "Current_Points_Per_Game_Kicker": 0.76,
+        "Current_Points_Per_Game_Kicker": 0.73,
         "Difference_Kicker": -67,
-        "Performance": 0.31
+        "Performance": 0.3
     },
     {
         "ID": "pl-k00088192",
@@ -2986,10 +2986,10 @@
         "Expected_Points_Sorare": 1485,
         "Expected_Points_Kicker": 157,
         "Expected_Points_Per_Game_Kicker": 4.62,
-        "Current_Points_Kicker": 155,
-        "Current_Points_Per_Game_Kicker": 7.38,
-        "Difference_Kicker": -2,
-        "Performance": 1.6
+        "Current_Points_Kicker": 173,
+        "Current_Points_Per_Game_Kicker": 7.86,
+        "Difference_Kicker": 16,
+        "Performance": 1.7
     },
     {
         "ID": "pl-k00088240",
@@ -3004,9 +3004,9 @@
         "Expected_Points_Kicker": 221,
         "Expected_Points_Per_Game_Kicker": 6.5,
         "Current_Points_Kicker": 62,
-        "Current_Points_Per_Game_Kicker": 2.95,
+        "Current_Points_Per_Game_Kicker": 2.82,
         "Difference_Kicker": -159,
-        "Performance": 0.45
+        "Performance": 0.43
     },
     {
         "ID": "pl-k00088376",
@@ -3038,9 +3038,9 @@
         "Expected_Points_Kicker": 12,
         "Expected_Points_Per_Game_Kicker": 0.35,
         "Current_Points_Kicker": 8,
-        "Current_Points_Per_Game_Kicker": 0.38,
+        "Current_Points_Per_Game_Kicker": 0.36,
         "Difference_Kicker": -4,
-        "Performance": 1.09
+        "Performance": 1.03
     },
     {
         "ID": "pl-k00088765",
@@ -3054,10 +3054,10 @@
         "Expected_Points_Sorare": 884,
         "Expected_Points_Kicker": 63,
         "Expected_Points_Per_Game_Kicker": 1.85,
-        "Current_Points_Kicker": 24,
-        "Current_Points_Per_Game_Kicker": 1.14,
-        "Difference_Kicker": -39,
-        "Performance": 0.62
+        "Current_Points_Kicker": 26,
+        "Current_Points_Per_Game_Kicker": 1.18,
+        "Difference_Kicker": -37,
+        "Performance": 0.64
     },
     {
         "ID": "pl-k00088770",
@@ -3072,9 +3072,9 @@
         "Expected_Points_Kicker": 81,
         "Expected_Points_Per_Game_Kicker": 2.38,
         "Current_Points_Kicker": 71,
-        "Current_Points_Per_Game_Kicker": 3.38,
+        "Current_Points_Per_Game_Kicker": 3.23,
         "Difference_Kicker": -10,
-        "Performance": 1.42
+        "Performance": 1.36
     },
     {
         "ID": "pl-k00088774",
@@ -3106,7 +3106,7 @@
         "Expected_Points_Kicker": 0,
         "Expected_Points_Per_Game_Kicker": 0.0,
         "Current_Points_Kicker": 18,
-        "Current_Points_Per_Game_Kicker": 0.86,
+        "Current_Points_Per_Game_Kicker": 0.82,
         "Difference_Kicker": 18,
         "Performance": "NaN"
     },
@@ -3122,9 +3122,9 @@
         "Expected_Points_Sorare": 1347,
         "Expected_Points_Kicker": 104,
         "Expected_Points_Per_Game_Kicker": 3.06,
-        "Current_Points_Kicker": 35,
-        "Current_Points_Per_Game_Kicker": 1.67,
-        "Difference_Kicker": -69,
+        "Current_Points_Kicker": 37,
+        "Current_Points_Per_Game_Kicker": 1.68,
+        "Difference_Kicker": -67,
         "Performance": 0.55
     },
     {
@@ -3157,9 +3157,9 @@
         "Expected_Points_Kicker": 107,
         "Expected_Points_Per_Game_Kicker": 3.15,
         "Current_Points_Kicker": 12,
-        "Current_Points_Per_Game_Kicker": 0.57,
+        "Current_Points_Per_Game_Kicker": 0.55,
         "Difference_Kicker": -95,
-        "Performance": 0.18
+        "Performance": 0.17
     },
     {
         "ID": "pl-k00089441",
@@ -3174,9 +3174,9 @@
         "Expected_Points_Kicker": 122,
         "Expected_Points_Per_Game_Kicker": 3.59,
         "Current_Points_Kicker": 18,
-        "Current_Points_Per_Game_Kicker": 0.86,
+        "Current_Points_Per_Game_Kicker": 0.82,
         "Difference_Kicker": -104,
-        "Performance": 0.24
+        "Performance": 0.23
     },
     {
         "ID": "pl-k00089442",
@@ -3190,10 +3190,10 @@
         "Expected_Points_Sorare": 1664,
         "Expected_Points_Kicker": 235,
         "Expected_Points_Per_Game_Kicker": 6.91,
-        "Current_Points_Kicker": 108,
-        "Current_Points_Per_Game_Kicker": 5.14,
-        "Difference_Kicker": -127,
-        "Performance": 0.74
+        "Current_Points_Kicker": 106,
+        "Current_Points_Per_Game_Kicker": 4.82,
+        "Difference_Kicker": -129,
+        "Performance": 0.7
     },
     {
         "ID": "pl-k00089649",
@@ -3208,9 +3208,9 @@
         "Expected_Points_Kicker": 109,
         "Expected_Points_Per_Game_Kicker": 3.21,
         "Current_Points_Kicker": 90,
-        "Current_Points_Per_Game_Kicker": 4.29,
+        "Current_Points_Per_Game_Kicker": 4.09,
         "Difference_Kicker": -19,
-        "Performance": 1.34
+        "Performance": 1.27
     },
     {
         "ID": "pl-k00089650",
@@ -3225,9 +3225,9 @@
         "Expected_Points_Kicker": 41,
         "Expected_Points_Per_Game_Kicker": 1.21,
         "Current_Points_Kicker": 4,
-        "Current_Points_Per_Game_Kicker": 0.19,
+        "Current_Points_Per_Game_Kicker": 0.18,
         "Difference_Kicker": -37,
-        "Performance": 0.16
+        "Performance": 0.15
     },
     {
         "ID": "pl-k00089655",
@@ -3242,9 +3242,9 @@
         "Expected_Points_Kicker": 180,
         "Expected_Points_Per_Game_Kicker": 5.29,
         "Current_Points_Kicker": 68,
-        "Current_Points_Per_Game_Kicker": 3.24,
+        "Current_Points_Per_Game_Kicker": 3.09,
         "Difference_Kicker": -112,
-        "Performance": 0.61
+        "Performance": 0.58
     },
     {
         "ID": "pl-k00089775",
@@ -3293,9 +3293,9 @@
         "Expected_Points_Kicker": 112,
         "Expected_Points_Per_Game_Kicker": 3.29,
         "Current_Points_Kicker": 47,
-        "Current_Points_Per_Game_Kicker": 2.24,
+        "Current_Points_Per_Game_Kicker": 2.14,
         "Difference_Kicker": -65,
-        "Performance": 0.68
+        "Performance": 0.65
     },
     {
         "ID": "pl-k00089892",
@@ -3309,10 +3309,10 @@
         "Expected_Points_Sorare": 1530,
         "Expected_Points_Kicker": 141,
         "Expected_Points_Per_Game_Kicker": 4.15,
-        "Current_Points_Kicker": 85,
-        "Current_Points_Per_Game_Kicker": 4.05,
-        "Difference_Kicker": -56,
-        "Performance": 0.98
+        "Current_Points_Kicker": 87,
+        "Current_Points_Per_Game_Kicker": 3.95,
+        "Difference_Kicker": -54,
+        "Performance": 0.95
     },
     {
         "ID": "pl-k00090042",
@@ -3327,9 +3327,9 @@
         "Expected_Points_Kicker": 182,
         "Expected_Points_Per_Game_Kicker": 5.35,
         "Current_Points_Kicker": 63,
-        "Current_Points_Per_Game_Kicker": 3.0,
+        "Current_Points_Per_Game_Kicker": 2.86,
         "Difference_Kicker": -119,
-        "Performance": 0.56
+        "Performance": 0.53
     },
     {
         "ID": "pl-k00090095",
@@ -3360,10 +3360,10 @@
         "Expected_Points_Sorare": 1560,
         "Expected_Points_Kicker": 137,
         "Expected_Points_Per_Game_Kicker": 4.03,
-        "Current_Points_Kicker": 54,
-        "Current_Points_Per_Game_Kicker": 2.57,
-        "Difference_Kicker": -83,
-        "Performance": 0.64
+        "Current_Points_Kicker": 58,
+        "Current_Points_Per_Game_Kicker": 2.64,
+        "Difference_Kicker": -79,
+        "Performance": 0.66
     },
     {
         "ID": "pl-k00090149",
@@ -3378,9 +3378,9 @@
         "Expected_Points_Kicker": 72,
         "Expected_Points_Per_Game_Kicker": 2.12,
         "Current_Points_Kicker": 16,
-        "Current_Points_Per_Game_Kicker": 0.76,
+        "Current_Points_Per_Game_Kicker": 0.73,
         "Difference_Kicker": -56,
-        "Performance": 0.36
+        "Performance": 0.34
     },
     {
         "ID": "pl-k00090371",
@@ -3394,10 +3394,10 @@
         "Expected_Points_Sorare": 1415,
         "Expected_Points_Kicker": 118,
         "Expected_Points_Per_Game_Kicker": 3.47,
-        "Current_Points_Kicker": 42,
-        "Current_Points_Per_Game_Kicker": 2.0,
-        "Difference_Kicker": -76,
-        "Performance": 0.58
+        "Current_Points_Kicker": 48,
+        "Current_Points_Per_Game_Kicker": 2.18,
+        "Difference_Kicker": -70,
+        "Performance": 0.63
     },
     {
         "ID": "pl-k00090996",
@@ -3411,10 +3411,10 @@
         "Expected_Points_Sorare": 2222,
         "Expected_Points_Kicker": 223,
         "Expected_Points_Per_Game_Kicker": 6.56,
-        "Current_Points_Kicker": 77,
-        "Current_Points_Per_Game_Kicker": 3.67,
-        "Difference_Kicker": -146,
-        "Performance": 0.56
+        "Current_Points_Kicker": 85,
+        "Current_Points_Per_Game_Kicker": 3.86,
+        "Difference_Kicker": -138,
+        "Performance": 0.59
     },
     {
         "ID": "pl-k00091011",
@@ -3428,10 +3428,10 @@
         "Expected_Points_Sorare": 937,
         "Expected_Points_Kicker": 61,
         "Expected_Points_Per_Game_Kicker": 1.79,
-        "Current_Points_Kicker": 27,
-        "Current_Points_Per_Game_Kicker": 1.29,
-        "Difference_Kicker": -34,
-        "Performance": 0.72
+        "Current_Points_Kicker": 29,
+        "Current_Points_Per_Game_Kicker": 1.32,
+        "Difference_Kicker": -32,
+        "Performance": 0.74
     },
     {
         "ID": "pl-k00091126",
@@ -3446,9 +3446,9 @@
         "Expected_Points_Kicker": 187,
         "Expected_Points_Per_Game_Kicker": 5.5,
         "Current_Points_Kicker": 77,
-        "Current_Points_Per_Game_Kicker": 3.67,
+        "Current_Points_Per_Game_Kicker": 3.5,
         "Difference_Kicker": -110,
-        "Performance": 0.67
+        "Performance": 0.64
     },
     {
         "ID": "pl-k00091372",
@@ -3462,10 +3462,10 @@
         "Expected_Points_Sorare": 1690,
         "Expected_Points_Kicker": 157,
         "Expected_Points_Per_Game_Kicker": 4.62,
-        "Current_Points_Kicker": 24,
-        "Current_Points_Per_Game_Kicker": 1.14,
-        "Difference_Kicker": -133,
-        "Performance": 0.25
+        "Current_Points_Kicker": 26,
+        "Current_Points_Per_Game_Kicker": 1.18,
+        "Difference_Kicker": -131,
+        "Performance": 0.26
     },
     {
         "ID": "pl-k00091663",
@@ -3480,9 +3480,9 @@
         "Expected_Points_Kicker": 131,
         "Expected_Points_Per_Game_Kicker": 3.85,
         "Current_Points_Kicker": 24,
-        "Current_Points_Per_Game_Kicker": 1.14,
+        "Current_Points_Per_Game_Kicker": 1.09,
         "Difference_Kicker": -107,
-        "Performance": 0.3
+        "Performance": 0.28
     },
     {
         "ID": "pl-k00092237",
@@ -3496,9 +3496,9 @@
         "Expected_Points_Sorare": 1881,
         "Expected_Points_Kicker": 183,
         "Expected_Points_Per_Game_Kicker": 5.38,
-        "Current_Points_Kicker": 92,
-        "Current_Points_Per_Game_Kicker": 4.38,
-        "Difference_Kicker": -91,
+        "Current_Points_Kicker": 96,
+        "Current_Points_Per_Game_Kicker": 4.36,
+        "Difference_Kicker": -87,
         "Performance": 0.81
     },
     {
@@ -3513,10 +3513,10 @@
         "Expected_Points_Sorare": 1513,
         "Expected_Points_Kicker": 160,
         "Expected_Points_Per_Game_Kicker": 4.71,
-        "Current_Points_Kicker": 32,
-        "Current_Points_Per_Game_Kicker": 1.52,
-        "Difference_Kicker": -128,
-        "Performance": 0.32
+        "Current_Points_Kicker": 42,
+        "Current_Points_Per_Game_Kicker": 1.91,
+        "Difference_Kicker": -118,
+        "Performance": 0.41
     },
     {
         "ID": "pl-k00093359",
@@ -3547,9 +3547,9 @@
         "Expected_Points_Sorare": "NaN",
         "Expected_Points_Kicker": 0,
         "Expected_Points_Per_Game_Kicker": 0.0,
-        "Current_Points_Kicker": 30,
-        "Current_Points_Per_Game_Kicker": 1.43,
-        "Difference_Kicker": 30,
+        "Current_Points_Kicker": 32,
+        "Current_Points_Per_Game_Kicker": 1.45,
+        "Difference_Kicker": 32,
         "Performance": "NaN"
     },
     {
@@ -3581,10 +3581,10 @@
         "Expected_Points_Sorare": 1144,
         "Expected_Points_Kicker": 100,
         "Expected_Points_Per_Game_Kicker": 2.94,
-        "Current_Points_Kicker": 18,
-        "Current_Points_Per_Game_Kicker": 0.86,
-        "Difference_Kicker": -82,
-        "Performance": 0.29
+        "Current_Points_Kicker": 22,
+        "Current_Points_Per_Game_Kicker": 1.0,
+        "Difference_Kicker": -78,
+        "Performance": 0.34
     },
     {
         "ID": "pl-k00093843",
@@ -3649,10 +3649,10 @@
         "Expected_Points_Sorare": "NaN",
         "Expected_Points_Kicker": 10,
         "Expected_Points_Per_Game_Kicker": 0.29,
-        "Current_Points_Kicker": 6,
-        "Current_Points_Per_Game_Kicker": 0.29,
-        "Difference_Kicker": -4,
-        "Performance": 1.0
+        "Current_Points_Kicker": 12,
+        "Current_Points_Per_Game_Kicker": 0.55,
+        "Difference_Kicker": 2,
+        "Performance": 1.9
     },
     {
         "ID": "pl-k00094599",
@@ -3700,10 +3700,10 @@
         "Expected_Points_Sorare": 1584,
         "Expected_Points_Kicker": 168,
         "Expected_Points_Per_Game_Kicker": 4.94,
-        "Current_Points_Kicker": 109,
-        "Current_Points_Per_Game_Kicker": 5.19,
-        "Difference_Kicker": -59,
-        "Performance": 1.05
+        "Current_Points_Kicker": 115,
+        "Current_Points_Per_Game_Kicker": 5.23,
+        "Difference_Kicker": -53,
+        "Performance": 1.06
     },
     {
         "ID": "pl-k00095052",
@@ -3734,10 +3734,10 @@
         "Expected_Points_Sorare": 1956,
         "Expected_Points_Kicker": 185,
         "Expected_Points_Per_Game_Kicker": 5.44,
-        "Current_Points_Kicker": 49,
-        "Current_Points_Per_Game_Kicker": 2.33,
-        "Difference_Kicker": -136,
-        "Performance": 0.43
+        "Current_Points_Kicker": 60,
+        "Current_Points_Per_Game_Kicker": 2.73,
+        "Difference_Kicker": -125,
+        "Performance": 0.5
     },
     {
         "ID": "pl-k00095202",
@@ -3769,9 +3769,9 @@
         "Expected_Points_Kicker": 54,
         "Expected_Points_Per_Game_Kicker": 1.59,
         "Current_Points_Kicker": 56,
-        "Current_Points_Per_Game_Kicker": 2.67,
+        "Current_Points_Per_Game_Kicker": 2.55,
         "Difference_Kicker": 2,
-        "Performance": 1.68
+        "Performance": 1.6
     },
     {
         "ID": "pl-k00095291",
@@ -3786,9 +3786,9 @@
         "Expected_Points_Kicker": 160,
         "Expected_Points_Per_Game_Kicker": 4.71,
         "Current_Points_Kicker": 26,
-        "Current_Points_Per_Game_Kicker": 1.24,
+        "Current_Points_Per_Game_Kicker": 1.18,
         "Difference_Kicker": -134,
-        "Performance": 0.26
+        "Performance": 0.25
     },
     {
         "ID": "pl-k00095487",
@@ -3803,9 +3803,9 @@
         "Expected_Points_Kicker": 100,
         "Expected_Points_Per_Game_Kicker": 2.94,
         "Current_Points_Kicker": 50,
-        "Current_Points_Per_Game_Kicker": 2.38,
+        "Current_Points_Per_Game_Kicker": 2.27,
         "Difference_Kicker": -50,
-        "Performance": 0.81
+        "Performance": 0.77
     },
     {
         "ID": "pl-k00095745",
@@ -3819,10 +3819,10 @@
         "Expected_Points_Sorare": 1383,
         "Expected_Points_Kicker": 120,
         "Expected_Points_Per_Game_Kicker": 3.53,
-        "Current_Points_Kicker": 48,
-        "Current_Points_Per_Game_Kicker": 2.29,
-        "Difference_Kicker": -72,
-        "Performance": 0.65
+        "Current_Points_Kicker": 50,
+        "Current_Points_Per_Game_Kicker": 2.27,
+        "Difference_Kicker": -70,
+        "Performance": 0.64
     },
     {
         "ID": "pl-k00096032",
@@ -3837,9 +3837,9 @@
         "Expected_Points_Kicker": 128,
         "Expected_Points_Per_Game_Kicker": 3.76,
         "Current_Points_Kicker": 44,
-        "Current_Points_Per_Game_Kicker": 2.1,
+        "Current_Points_Per_Game_Kicker": 2.0,
         "Difference_Kicker": -84,
-        "Performance": 0.56
+        "Performance": 0.53
     },
     {
         "ID": "pl-k00096038",
@@ -3853,10 +3853,10 @@
         "Expected_Points_Sorare": 2196,
         "Expected_Points_Kicker": 206,
         "Expected_Points_Per_Game_Kicker": 6.06,
-        "Current_Points_Kicker": 95,
-        "Current_Points_Per_Game_Kicker": 4.52,
-        "Difference_Kicker": -111,
-        "Performance": 0.75
+        "Current_Points_Kicker": 109,
+        "Current_Points_Per_Game_Kicker": 4.95,
+        "Difference_Kicker": -97,
+        "Performance": 0.82
     },
     {
         "ID": "pl-k00096140",
@@ -3870,10 +3870,10 @@
         "Expected_Points_Sorare": 2350,
         "Expected_Points_Kicker": 244,
         "Expected_Points_Per_Game_Kicker": 7.18,
-        "Current_Points_Kicker": 56,
-        "Current_Points_Per_Game_Kicker": 2.67,
-        "Difference_Kicker": -188,
-        "Performance": 0.37
+        "Current_Points_Kicker": 62,
+        "Current_Points_Per_Game_Kicker": 2.82,
+        "Difference_Kicker": -182,
+        "Performance": 0.39
     },
     {
         "ID": "pl-k00096210",
@@ -3887,9 +3887,9 @@
         "Expected_Points_Sorare": 1487,
         "Expected_Points_Kicker": 143,
         "Expected_Points_Per_Game_Kicker": 4.21,
-        "Current_Points_Kicker": 83,
+        "Current_Points_Kicker": 87,
         "Current_Points_Per_Game_Kicker": 3.95,
-        "Difference_Kicker": -60,
+        "Difference_Kicker": -56,
         "Performance": 0.94
     },
     {
@@ -3904,10 +3904,10 @@
         "Expected_Points_Sorare": 1524,
         "Expected_Points_Kicker": 149,
         "Expected_Points_Per_Game_Kicker": 4.38,
-        "Current_Points_Kicker": 105,
-        "Current_Points_Per_Game_Kicker": 5.0,
-        "Difference_Kicker": -44,
-        "Performance": 1.14
+        "Current_Points_Kicker": 111,
+        "Current_Points_Per_Game_Kicker": 5.05,
+        "Difference_Kicker": -38,
+        "Performance": 1.15
     },
     {
         "ID": "pl-k00096744",
@@ -3921,10 +3921,10 @@
         "Expected_Points_Sorare": 1405,
         "Expected_Points_Kicker": 136,
         "Expected_Points_Per_Game_Kicker": 4.0,
-        "Current_Points_Kicker": 14,
-        "Current_Points_Per_Game_Kicker": 0.67,
-        "Difference_Kicker": -122,
-        "Performance": 0.17
+        "Current_Points_Kicker": 12,
+        "Current_Points_Per_Game_Kicker": 0.55,
+        "Difference_Kicker": -124,
+        "Performance": 0.14
     },
     {
         "ID": "pl-k00097350",
@@ -3938,10 +3938,10 @@
         "Expected_Points_Sorare": 1394,
         "Expected_Points_Kicker": 145,
         "Expected_Points_Per_Game_Kicker": 4.26,
-        "Current_Points_Kicker": 63,
-        "Current_Points_Per_Game_Kicker": 3.0,
-        "Difference_Kicker": -82,
-        "Performance": 0.7
+        "Current_Points_Kicker": 69,
+        "Current_Points_Per_Game_Kicker": 3.14,
+        "Difference_Kicker": -76,
+        "Performance": 0.74
     },
     {
         "ID": "pl-k00097452",
@@ -3955,10 +3955,10 @@
         "Expected_Points_Sorare": 884,
         "Expected_Points_Kicker": 59,
         "Expected_Points_Per_Game_Kicker": 1.74,
-        "Current_Points_Kicker": 94,
-        "Current_Points_Per_Game_Kicker": 4.48,
-        "Difference_Kicker": 35,
-        "Performance": 2.57
+        "Current_Points_Kicker": 98,
+        "Current_Points_Per_Game_Kicker": 4.45,
+        "Difference_Kicker": 39,
+        "Performance": 2.56
     },
     {
         "ID": "pl-k00097629",
@@ -3972,10 +3972,10 @@
         "Expected_Points_Sorare": 918,
         "Expected_Points_Kicker": 73,
         "Expected_Points_Per_Game_Kicker": 2.15,
-        "Current_Points_Kicker": 10,
-        "Current_Points_Per_Game_Kicker": 0.48,
-        "Difference_Kicker": -63,
-        "Performance": 0.22
+        "Current_Points_Kicker": 16,
+        "Current_Points_Per_Game_Kicker": 0.73,
+        "Difference_Kicker": -57,
+        "Performance": 0.34
     },
     {
         "ID": "pl-k00097797",
@@ -3990,9 +3990,9 @@
         "Expected_Points_Kicker": 147,
         "Expected_Points_Per_Game_Kicker": 4.32,
         "Current_Points_Kicker": 50,
-        "Current_Points_Per_Game_Kicker": 2.38,
+        "Current_Points_Per_Game_Kicker": 2.27,
         "Difference_Kicker": -97,
-        "Performance": 0.55
+        "Performance": 0.53
     },
     {
         "ID": "pl-k00097892",
@@ -4024,9 +4024,9 @@
         "Expected_Points_Kicker": 14,
         "Expected_Points_Per_Game_Kicker": 0.41,
         "Current_Points_Kicker": 39,
-        "Current_Points_Per_Game_Kicker": 1.86,
+        "Current_Points_Per_Game_Kicker": 1.77,
         "Difference_Kicker": 25,
-        "Performance": 4.54
+        "Performance": 4.32
     },
     {
         "ID": "pl-k00097912",
@@ -4040,10 +4040,10 @@
         "Expected_Points_Sorare": 915,
         "Expected_Points_Kicker": 85,
         "Expected_Points_Per_Game_Kicker": 2.5,
-        "Current_Points_Kicker": 26,
-        "Current_Points_Per_Game_Kicker": 1.24,
-        "Difference_Kicker": -59,
-        "Performance": 0.5
+        "Current_Points_Kicker": 24,
+        "Current_Points_Per_Game_Kicker": 1.09,
+        "Difference_Kicker": -61,
+        "Performance": 0.44
     },
     {
         "ID": "pl-k00097999",
@@ -4075,9 +4075,9 @@
         "Expected_Points_Kicker": 122,
         "Expected_Points_Per_Game_Kicker": 3.59,
         "Current_Points_Kicker": 31,
-        "Current_Points_Per_Game_Kicker": 1.48,
+        "Current_Points_Per_Game_Kicker": 1.41,
         "Difference_Kicker": -91,
-        "Performance": 0.41
+        "Performance": 0.39
     },
     {
         "ID": "pl-k00098320",
@@ -4091,10 +4091,10 @@
         "Expected_Points_Sorare": 1615,
         "Expected_Points_Kicker": 171,
         "Expected_Points_Per_Game_Kicker": 5.03,
-        "Current_Points_Kicker": 32,
-        "Current_Points_Per_Game_Kicker": 1.52,
-        "Difference_Kicker": -139,
-        "Performance": 0.3
+        "Current_Points_Kicker": 42,
+        "Current_Points_Per_Game_Kicker": 1.91,
+        "Difference_Kicker": -129,
+        "Performance": 0.38
     },
     {
         "ID": "pl-k00098654",
@@ -4109,9 +4109,9 @@
         "Expected_Points_Kicker": 143,
         "Expected_Points_Per_Game_Kicker": 4.21,
         "Current_Points_Kicker": 72,
-        "Current_Points_Per_Game_Kicker": 3.43,
+        "Current_Points_Per_Game_Kicker": 3.27,
         "Difference_Kicker": -71,
-        "Performance": 0.81
+        "Performance": 0.78
     },
     {
         "ID": "pl-k00099583",
@@ -4126,9 +4126,9 @@
         "Expected_Points_Kicker": 181,
         "Expected_Points_Per_Game_Kicker": 5.32,
         "Current_Points_Kicker": 105,
-        "Current_Points_Per_Game_Kicker": 5.0,
+        "Current_Points_Per_Game_Kicker": 4.77,
         "Difference_Kicker": -76,
-        "Performance": 0.94
+        "Performance": 0.9
     },
     {
         "ID": "pl-k00099754",
@@ -4142,10 +4142,10 @@
         "Expected_Points_Sorare": 1654,
         "Expected_Points_Kicker": 151,
         "Expected_Points_Per_Game_Kicker": 4.44,
-        "Current_Points_Kicker": 86,
-        "Current_Points_Per_Game_Kicker": 4.1,
-        "Difference_Kicker": -65,
-        "Performance": 0.92
+        "Current_Points_Kicker": 98,
+        "Current_Points_Per_Game_Kicker": 4.45,
+        "Difference_Kicker": -53,
+        "Performance": 1.0
     },
     {
         "ID": "pl-k00099757",
@@ -4159,10 +4159,10 @@
         "Expected_Points_Sorare": 1203,
         "Expected_Points_Kicker": 108,
         "Expected_Points_Per_Game_Kicker": 3.18,
-        "Current_Points_Kicker": 48,
-        "Current_Points_Per_Game_Kicker": 2.29,
-        "Difference_Kicker": -60,
-        "Performance": 0.72
+        "Current_Points_Kicker": 52,
+        "Current_Points_Per_Game_Kicker": 2.36,
+        "Difference_Kicker": -56,
+        "Performance": 0.74
     },
     {
         "ID": "pl-k00099794",
@@ -4177,9 +4177,9 @@
         "Expected_Points_Kicker": 199,
         "Expected_Points_Per_Game_Kicker": 5.85,
         "Current_Points_Kicker": 52,
-        "Current_Points_Per_Game_Kicker": 2.48,
+        "Current_Points_Per_Game_Kicker": 2.36,
         "Difference_Kicker": -147,
-        "Performance": 0.42
+        "Performance": 0.4
     },
     {
         "ID": "pl-k00099897",
@@ -4193,9 +4193,9 @@
         "Expected_Points_Sorare": 1509,
         "Expected_Points_Kicker": 131,
         "Expected_Points_Per_Game_Kicker": 3.85,
-        "Current_Points_Kicker": 28,
-        "Current_Points_Per_Game_Kicker": 1.33,
-        "Difference_Kicker": -103,
+        "Current_Points_Kicker": 30,
+        "Current_Points_Per_Game_Kicker": 1.36,
+        "Difference_Kicker": -101,
         "Performance": 0.35
     },
     {
@@ -4210,10 +4210,10 @@
         "Expected_Points_Sorare": 1585,
         "Expected_Points_Kicker": 144,
         "Expected_Points_Per_Game_Kicker": 4.24,
-        "Current_Points_Kicker": 49,
-        "Current_Points_Per_Game_Kicker": 2.33,
-        "Difference_Kicker": -95,
-        "Performance": 0.55
+        "Current_Points_Kicker": 47,
+        "Current_Points_Per_Game_Kicker": 2.14,
+        "Difference_Kicker": -97,
+        "Performance": 0.5
     },
     {
         "ID": "pl-k00099946",
@@ -4245,7 +4245,7 @@
         "Expected_Points_Kicker": 87,
         "Expected_Points_Per_Game_Kicker": 2.56,
         "Current_Points_Kicker": 4,
-        "Current_Points_Per_Game_Kicker": 0.19,
+        "Current_Points_Per_Game_Kicker": 0.18,
         "Difference_Kicker": -83,
         "Performance": 0.07
     },
@@ -4261,10 +4261,10 @@
         "Expected_Points_Sorare": 1594,
         "Expected_Points_Kicker": 153,
         "Expected_Points_Per_Game_Kicker": 4.5,
-        "Current_Points_Kicker": 103,
-        "Current_Points_Per_Game_Kicker": 4.9,
-        "Difference_Kicker": -50,
-        "Performance": 1.09
+        "Current_Points_Kicker": 113,
+        "Current_Points_Per_Game_Kicker": 5.14,
+        "Difference_Kicker": -40,
+        "Performance": 1.14
     },
     {
         "ID": "pl-k00100558",
@@ -4278,10 +4278,10 @@
         "Expected_Points_Sorare": 1659,
         "Expected_Points_Kicker": 170,
         "Expected_Points_Per_Game_Kicker": 5.0,
-        "Current_Points_Kicker": 36,
-        "Current_Points_Per_Game_Kicker": 1.71,
-        "Difference_Kicker": -134,
-        "Performance": 0.34
+        "Current_Points_Kicker": 42,
+        "Current_Points_Per_Game_Kicker": 1.91,
+        "Difference_Kicker": -128,
+        "Performance": 0.38
     },
     {
         "ID": "pl-k00100591",
@@ -4295,9 +4295,9 @@
         "Expected_Points_Sorare": 1333,
         "Expected_Points_Kicker": 123,
         "Expected_Points_Per_Game_Kicker": 3.62,
-        "Current_Points_Kicker": 138,
-        "Current_Points_Per_Game_Kicker": 6.57,
-        "Difference_Kicker": 15,
+        "Current_Points_Kicker": 144,
+        "Current_Points_Per_Game_Kicker": 6.55,
+        "Difference_Kicker": 21,
         "Performance": 1.81
     },
     {
@@ -4347,7 +4347,7 @@
         "Expected_Points_Kicker": 62,
         "Expected_Points_Per_Game_Kicker": 1.82,
         "Current_Points_Kicker": -2,
-        "Current_Points_Per_Game_Kicker": -0.1,
+        "Current_Points_Per_Game_Kicker": -0.09,
         "Difference_Kicker": -64,
         "Performance": -0.05
     },
@@ -4363,10 +4363,10 @@
         "Expected_Points_Sorare": 1361,
         "Expected_Points_Kicker": 122,
         "Expected_Points_Per_Game_Kicker": 3.59,
-        "Current_Points_Kicker": 119,
-        "Current_Points_Per_Game_Kicker": 5.67,
-        "Difference_Kicker": -3,
-        "Performance": 1.58
+        "Current_Points_Kicker": 123,
+        "Current_Points_Per_Game_Kicker": 5.59,
+        "Difference_Kicker": 1,
+        "Performance": 1.56
     },
     {
         "ID": "pl-k00101460",
@@ -4381,9 +4381,9 @@
         "Expected_Points_Kicker": 177,
         "Expected_Points_Per_Game_Kicker": 5.21,
         "Current_Points_Kicker": 74,
-        "Current_Points_Per_Game_Kicker": 3.52,
+        "Current_Points_Per_Game_Kicker": 3.36,
         "Difference_Kicker": -103,
-        "Performance": 0.68
+        "Performance": 0.64
     },
     {
         "ID": "pl-k00101614",
@@ -4397,9 +4397,9 @@
         "Expected_Points_Sorare": 1767,
         "Expected_Points_Kicker": 163,
         "Expected_Points_Per_Game_Kicker": 4.79,
-        "Current_Points_Kicker": 76,
-        "Current_Points_Per_Game_Kicker": 3.62,
-        "Difference_Kicker": -87,
+        "Current_Points_Kicker": 80,
+        "Current_Points_Per_Game_Kicker": 3.64,
+        "Difference_Kicker": -83,
         "Performance": 0.76
     },
     {
@@ -4414,10 +4414,10 @@
         "Expected_Points_Sorare": 1594,
         "Expected_Points_Kicker": 167,
         "Expected_Points_Per_Game_Kicker": 4.91,
-        "Current_Points_Kicker": 32,
-        "Current_Points_Per_Game_Kicker": 1.52,
-        "Difference_Kicker": -135,
-        "Performance": 0.31
+        "Current_Points_Kicker": 34,
+        "Current_Points_Per_Game_Kicker": 1.55,
+        "Difference_Kicker": -133,
+        "Performance": 0.32
     },
     {
         "ID": "pl-k00101673",
@@ -4432,9 +4432,9 @@
         "Expected_Points_Kicker": 56,
         "Expected_Points_Per_Game_Kicker": 1.65,
         "Current_Points_Kicker": 20,
-        "Current_Points_Per_Game_Kicker": 0.95,
+        "Current_Points_Per_Game_Kicker": 0.91,
         "Difference_Kicker": -36,
-        "Performance": 0.58
+        "Performance": 0.55
     },
     {
         "ID": "pl-k00101721",
@@ -4448,10 +4448,10 @@
         "Expected_Points_Sorare": 1293,
         "Expected_Points_Kicker": 99,
         "Expected_Points_Per_Game_Kicker": 2.91,
-        "Current_Points_Kicker": 58,
-        "Current_Points_Per_Game_Kicker": 2.76,
-        "Difference_Kicker": -41,
-        "Performance": 0.95
+        "Current_Points_Kicker": 62,
+        "Current_Points_Per_Game_Kicker": 2.82,
+        "Difference_Kicker": -37,
+        "Performance": 0.97
     },
     {
         "ID": "pl-k00101764",
@@ -4499,10 +4499,10 @@
         "Expected_Points_Sorare": 1502,
         "Expected_Points_Kicker": 122,
         "Expected_Points_Per_Game_Kicker": 3.59,
-        "Current_Points_Kicker": 60,
-        "Current_Points_Per_Game_Kicker": 2.86,
-        "Difference_Kicker": -62,
-        "Performance": 0.8
+        "Current_Points_Kicker": 62,
+        "Current_Points_Per_Game_Kicker": 2.82,
+        "Difference_Kicker": -60,
+        "Performance": 0.79
     },
     {
         "ID": "pl-k00102402",
@@ -4533,10 +4533,10 @@
         "Expected_Points_Sorare": 1550,
         "Expected_Points_Kicker": 168,
         "Expected_Points_Per_Game_Kicker": 4.94,
-        "Current_Points_Kicker": 6,
-        "Current_Points_Per_Game_Kicker": 0.29,
-        "Difference_Kicker": -162,
-        "Performance": 0.06
+        "Current_Points_Kicker": 8,
+        "Current_Points_Per_Game_Kicker": 0.36,
+        "Difference_Kicker": -160,
+        "Performance": 0.07
     },
     {
         "ID": "pl-k00102795",
@@ -4550,9 +4550,9 @@
         "Expected_Points_Sorare": "NaN",
         "Expected_Points_Kicker": 0,
         "Expected_Points_Per_Game_Kicker": 0.0,
-        "Current_Points_Kicker": 14,
-        "Current_Points_Per_Game_Kicker": 0.67,
-        "Difference_Kicker": 14,
+        "Current_Points_Kicker": 20,
+        "Current_Points_Per_Game_Kicker": 0.91,
+        "Difference_Kicker": 20,
         "Performance": "NaN"
     },
     {
@@ -4567,10 +4567,10 @@
         "Expected_Points_Sorare": 1218,
         "Expected_Points_Kicker": 119,
         "Expected_Points_Per_Game_Kicker": 3.5,
-        "Current_Points_Kicker": 64,
-        "Current_Points_Per_Game_Kicker": 3.05,
-        "Difference_Kicker": -55,
-        "Performance": 0.87
+        "Current_Points_Kicker": 62,
+        "Current_Points_Per_Game_Kicker": 2.82,
+        "Difference_Kicker": -57,
+        "Performance": 0.81
     },
     {
         "ID": "pl-k00102817",
@@ -4584,10 +4584,10 @@
         "Expected_Points_Sorare": 1652,
         "Expected_Points_Kicker": 188,
         "Expected_Points_Per_Game_Kicker": 5.53,
-        "Current_Points_Kicker": 150,
-        "Current_Points_Per_Game_Kicker": 7.14,
-        "Difference_Kicker": -38,
-        "Performance": 1.29
+        "Current_Points_Kicker": 156,
+        "Current_Points_Per_Game_Kicker": 7.09,
+        "Difference_Kicker": -32,
+        "Performance": 1.28
     },
     {
         "ID": "pl-k00102956",
@@ -4602,9 +4602,9 @@
         "Expected_Points_Kicker": 204,
         "Expected_Points_Per_Game_Kicker": 6.0,
         "Current_Points_Kicker": 139,
-        "Current_Points_Per_Game_Kicker": 6.62,
+        "Current_Points_Per_Game_Kicker": 6.32,
         "Difference_Kicker": -65,
-        "Performance": 1.1
+        "Performance": 1.05
     },
     {
         "ID": "pl-k00102978",
@@ -4618,10 +4618,10 @@
         "Expected_Points_Sorare": "NaN",
         "Expected_Points_Kicker": 25,
         "Expected_Points_Per_Game_Kicker": 0.74,
-        "Current_Points_Kicker": 2,
-        "Current_Points_Per_Game_Kicker": 0.1,
-        "Difference_Kicker": -23,
-        "Performance": 0.14
+        "Current_Points_Kicker": 17,
+        "Current_Points_Per_Game_Kicker": 0.77,
+        "Difference_Kicker": -8,
+        "Performance": 1.04
     },
     {
         "ID": "pl-k00103305",
@@ -4635,9 +4635,9 @@
         "Expected_Points_Sorare": 1443,
         "Expected_Points_Kicker": 127,
         "Expected_Points_Per_Game_Kicker": 3.74,
-        "Current_Points_Kicker": 76,
-        "Current_Points_Per_Game_Kicker": 3.62,
-        "Difference_Kicker": -51,
+        "Current_Points_Kicker": 80,
+        "Current_Points_Per_Game_Kicker": 3.64,
+        "Difference_Kicker": -47,
         "Performance": 0.97
     },
     {
@@ -4652,10 +4652,10 @@
         "Expected_Points_Sorare": 1720,
         "Expected_Points_Kicker": 164,
         "Expected_Points_Per_Game_Kicker": 4.82,
-        "Current_Points_Kicker": 51,
-        "Current_Points_Per_Game_Kicker": 2.43,
-        "Difference_Kicker": -113,
-        "Performance": 0.5
+        "Current_Points_Kicker": 55,
+        "Current_Points_Per_Game_Kicker": 2.5,
+        "Difference_Kicker": -109,
+        "Performance": 0.52
     },
     {
         "ID": "pl-k00103527",
@@ -4670,9 +4670,9 @@
         "Expected_Points_Kicker": 118,
         "Expected_Points_Per_Game_Kicker": 3.47,
         "Current_Points_Kicker": 21,
-        "Current_Points_Per_Game_Kicker": 1.0,
+        "Current_Points_Per_Game_Kicker": 0.95,
         "Difference_Kicker": -97,
-        "Performance": 0.29
+        "Performance": 0.27
     },
     {
         "ID": "pl-k00103695",
@@ -4687,9 +4687,9 @@
         "Expected_Points_Kicker": 16,
         "Expected_Points_Per_Game_Kicker": 0.47,
         "Current_Points_Kicker": 12,
-        "Current_Points_Per_Game_Kicker": 0.57,
+        "Current_Points_Per_Game_Kicker": 0.55,
         "Difference_Kicker": -4,
-        "Performance": 1.21
+        "Performance": 1.17
     },
     {
         "ID": "pl-k00103702",
@@ -4737,10 +4737,10 @@
         "Expected_Points_Sorare": 1974,
         "Expected_Points_Kicker": 186,
         "Expected_Points_Per_Game_Kicker": 5.47,
-        "Current_Points_Kicker": 113,
-        "Current_Points_Per_Game_Kicker": 5.38,
-        "Difference_Kicker": -73,
-        "Performance": 0.98
+        "Current_Points_Kicker": 119,
+        "Current_Points_Per_Game_Kicker": 5.41,
+        "Difference_Kicker": -67,
+        "Performance": 0.99
     },
     {
         "ID": "pl-k00103878",
@@ -4771,10 +4771,10 @@
         "Expected_Points_Sorare": "NaN",
         "Expected_Points_Kicker": 19,
         "Expected_Points_Per_Game_Kicker": 0.56,
-        "Current_Points_Kicker": 2,
-        "Current_Points_Per_Game_Kicker": 0.1,
-        "Difference_Kicker": -17,
-        "Performance": 0.18
+        "Current_Points_Kicker": 4,
+        "Current_Points_Per_Game_Kicker": 0.18,
+        "Difference_Kicker": -15,
+        "Performance": 0.32
     },
     {
         "ID": "pl-k00104317",
@@ -4788,10 +4788,10 @@
         "Expected_Points_Sorare": 2126,
         "Expected_Points_Kicker": 232,
         "Expected_Points_Per_Game_Kicker": 6.82,
-        "Current_Points_Kicker": 125,
-        "Current_Points_Per_Game_Kicker": 5.95,
-        "Difference_Kicker": -107,
-        "Performance": 0.87
+        "Current_Points_Kicker": 133,
+        "Current_Points_Per_Game_Kicker": 6.05,
+        "Difference_Kicker": -99,
+        "Performance": 0.89
     },
     {
         "ID": "pl-k00104484",
@@ -4805,10 +4805,10 @@
         "Expected_Points_Sorare": 1716,
         "Expected_Points_Kicker": 154,
         "Expected_Points_Per_Game_Kicker": 4.53,
-        "Current_Points_Kicker": 29,
-        "Current_Points_Per_Game_Kicker": 1.38,
-        "Difference_Kicker": -125,
-        "Performance": 0.3
+        "Current_Points_Kicker": 31,
+        "Current_Points_Per_Game_Kicker": 1.41,
+        "Difference_Kicker": -123,
+        "Performance": 0.31
     },
     {
         "ID": "pl-k00104485",
@@ -4823,9 +4823,9 @@
         "Expected_Points_Kicker": 116,
         "Expected_Points_Per_Game_Kicker": 3.41,
         "Current_Points_Kicker": 58,
-        "Current_Points_Per_Game_Kicker": 2.76,
+        "Current_Points_Per_Game_Kicker": 2.64,
         "Difference_Kicker": -58,
-        "Performance": 0.81
+        "Performance": 0.77
     },
     {
         "ID": "pl-k00104895",
@@ -4840,9 +4840,9 @@
         "Expected_Points_Kicker": 172,
         "Expected_Points_Per_Game_Kicker": 5.06,
         "Current_Points_Kicker": 91,
-        "Current_Points_Per_Game_Kicker": 4.33,
+        "Current_Points_Per_Game_Kicker": 4.14,
         "Difference_Kicker": -81,
-        "Performance": 0.86
+        "Performance": 0.82
     },
     {
         "ID": "pl-k00104978",
@@ -4857,9 +4857,9 @@
         "Expected_Points_Kicker": 142,
         "Expected_Points_Per_Game_Kicker": 4.18,
         "Current_Points_Kicker": 89,
-        "Current_Points_Per_Game_Kicker": 4.24,
+        "Current_Points_Per_Game_Kicker": 4.05,
         "Difference_Kicker": -53,
-        "Performance": 1.01
+        "Performance": 0.97
     },
     {
         "ID": "pl-k00105180",
@@ -4873,9 +4873,9 @@
         "Expected_Points_Sorare": 1274,
         "Expected_Points_Kicker": 119,
         "Expected_Points_Per_Game_Kicker": 3.5,
-        "Current_Points_Kicker": 81,
+        "Current_Points_Kicker": 85,
         "Current_Points_Per_Game_Kicker": 3.86,
-        "Difference_Kicker": -38,
+        "Difference_Kicker": -34,
         "Performance": 1.1
     },
     {
@@ -4907,10 +4907,10 @@
         "Expected_Points_Sorare": 806,
         "Expected_Points_Kicker": 50,
         "Expected_Points_Per_Game_Kicker": 1.47,
-        "Current_Points_Kicker": 16,
-        "Current_Points_Per_Game_Kicker": 0.76,
-        "Difference_Kicker": -34,
-        "Performance": 0.52
+        "Current_Points_Kicker": 18,
+        "Current_Points_Per_Game_Kicker": 0.82,
+        "Difference_Kicker": -32,
+        "Performance": 0.56
     },
     {
         "ID": "pl-k00105566",
@@ -4924,10 +4924,10 @@
         "Expected_Points_Sorare": "NaN",
         "Expected_Points_Kicker": 53,
         "Expected_Points_Per_Game_Kicker": 1.56,
-        "Current_Points_Kicker": 17,
-        "Current_Points_Per_Game_Kicker": 0.81,
-        "Difference_Kicker": -36,
-        "Performance": 0.52
+        "Current_Points_Kicker": 19,
+        "Current_Points_Per_Game_Kicker": 0.86,
+        "Difference_Kicker": -34,
+        "Performance": 0.55
     },
     {
         "ID": "pl-k00105841",
@@ -4941,9 +4941,9 @@
         "Expected_Points_Sorare": 1252,
         "Expected_Points_Kicker": 116,
         "Expected_Points_Per_Game_Kicker": 3.41,
-        "Current_Points_Kicker": 35,
-        "Current_Points_Per_Game_Kicker": 1.67,
-        "Difference_Kicker": -81,
+        "Current_Points_Kicker": 37,
+        "Current_Points_Per_Game_Kicker": 1.68,
+        "Difference_Kicker": -79,
         "Performance": 0.49
     },
     {
@@ -4958,10 +4958,10 @@
         "Expected_Points_Sorare": 1959,
         "Expected_Points_Kicker": 195,
         "Expected_Points_Per_Game_Kicker": 5.74,
-        "Current_Points_Kicker": 110,
-        "Current_Points_Per_Game_Kicker": 5.24,
-        "Difference_Kicker": -85,
-        "Performance": 0.91
+        "Current_Points_Kicker": 118,
+        "Current_Points_Per_Game_Kicker": 5.36,
+        "Difference_Kicker": -77,
+        "Performance": 0.93
     },
     {
         "ID": "pl-k00105999",
@@ -4976,9 +4976,9 @@
         "Expected_Points_Kicker": 167,
         "Expected_Points_Per_Game_Kicker": 4.91,
         "Current_Points_Kicker": 113,
-        "Current_Points_Per_Game_Kicker": 5.38,
+        "Current_Points_Per_Game_Kicker": 5.14,
         "Difference_Kicker": -54,
-        "Performance": 1.1
+        "Performance": 1.05
     },
     {
         "ID": "pl-k00106078",
@@ -4993,9 +4993,9 @@
         "Expected_Points_Kicker": 89,
         "Expected_Points_Per_Game_Kicker": 2.62,
         "Current_Points_Kicker": 8,
-        "Current_Points_Per_Game_Kicker": 0.38,
+        "Current_Points_Per_Game_Kicker": 0.36,
         "Difference_Kicker": -81,
-        "Performance": 0.15
+        "Performance": 0.14
     },
     {
         "ID": "pl-k00106087",
@@ -5009,10 +5009,10 @@
         "Expected_Points_Sorare": 1793,
         "Expected_Points_Kicker": 184,
         "Expected_Points_Per_Game_Kicker": 5.41,
-        "Current_Points_Kicker": 89,
-        "Current_Points_Per_Game_Kicker": 4.24,
-        "Difference_Kicker": -95,
-        "Performance": 0.78
+        "Current_Points_Kicker": 97,
+        "Current_Points_Per_Game_Kicker": 4.41,
+        "Difference_Kicker": -87,
+        "Performance": 0.82
     },
     {
         "ID": "pl-k00106313",
@@ -5026,10 +5026,10 @@
         "Expected_Points_Sorare": 1421,
         "Expected_Points_Kicker": 117,
         "Expected_Points_Per_Game_Kicker": 3.44,
-        "Current_Points_Kicker": 78,
-        "Current_Points_Per_Game_Kicker": 3.71,
-        "Difference_Kicker": -39,
-        "Performance": 1.08
+        "Current_Points_Kicker": 74,
+        "Current_Points_Per_Game_Kicker": 3.36,
+        "Difference_Kicker": -43,
+        "Performance": 0.98
     },
     {
         "ID": "pl-k00106358",
@@ -5061,9 +5061,9 @@
         "Expected_Points_Kicker": 172,
         "Expected_Points_Per_Game_Kicker": 5.06,
         "Current_Points_Kicker": 34,
-        "Current_Points_Per_Game_Kicker": 1.62,
+        "Current_Points_Per_Game_Kicker": 1.55,
         "Difference_Kicker": -138,
-        "Performance": 0.32
+        "Performance": 0.31
     },
     {
         "ID": "pl-k00106697",
@@ -5078,9 +5078,9 @@
         "Expected_Points_Kicker": 42,
         "Expected_Points_Per_Game_Kicker": 1.24,
         "Current_Points_Kicker": 35,
-        "Current_Points_Per_Game_Kicker": 1.67,
+        "Current_Points_Per_Game_Kicker": 1.59,
         "Difference_Kicker": -7,
-        "Performance": 1.35
+        "Performance": 1.28
     },
     {
         "ID": "pl-k00106698",
@@ -5094,9 +5094,9 @@
         "Expected_Points_Sorare": 1028,
         "Expected_Points_Kicker": 83,
         "Expected_Points_Per_Game_Kicker": 2.44,
-        "Current_Points_Kicker": 94,
-        "Current_Points_Per_Game_Kicker": 4.48,
-        "Difference_Kicker": 11,
+        "Current_Points_Kicker": 99,
+        "Current_Points_Per_Game_Kicker": 4.5,
+        "Difference_Kicker": 16,
         "Performance": 1.84
     },
     {
@@ -5112,9 +5112,9 @@
         "Expected_Points_Kicker": 106,
         "Expected_Points_Per_Game_Kicker": 3.12,
         "Current_Points_Kicker": 73,
-        "Current_Points_Per_Game_Kicker": 3.48,
+        "Current_Points_Per_Game_Kicker": 3.32,
         "Difference_Kicker": -33,
-        "Performance": 1.12
+        "Performance": 1.06
     },
     {
         "ID": "pl-k00107684",
@@ -5129,9 +5129,9 @@
         "Expected_Points_Kicker": 146,
         "Expected_Points_Per_Game_Kicker": 4.29,
         "Current_Points_Kicker": 18,
-        "Current_Points_Per_Game_Kicker": 0.86,
+        "Current_Points_Per_Game_Kicker": 0.82,
         "Difference_Kicker": -128,
-        "Performance": 0.2
+        "Performance": 0.19
     },
     {
         "ID": "pl-k00107692",
@@ -5145,10 +5145,10 @@
         "Expected_Points_Sorare": 2311,
         "Expected_Points_Kicker": 307,
         "Expected_Points_Per_Game_Kicker": 9.03,
-        "Current_Points_Kicker": 186,
-        "Current_Points_Per_Game_Kicker": 8.86,
-        "Difference_Kicker": -121,
-        "Performance": 0.98
+        "Current_Points_Kicker": 184,
+        "Current_Points_Per_Game_Kicker": 8.36,
+        "Difference_Kicker": -123,
+        "Performance": 0.93
     },
     {
         "ID": "pl-k00107693",
@@ -5162,9 +5162,9 @@
         "Expected_Points_Sorare": 2207,
         "Expected_Points_Kicker": 328,
         "Expected_Points_Per_Game_Kicker": 9.65,
-        "Current_Points_Kicker": 248,
-        "Current_Points_Per_Game_Kicker": 11.81,
-        "Difference_Kicker": -80,
+        "Current_Points_Kicker": 258,
+        "Current_Points_Per_Game_Kicker": 11.73,
+        "Difference_Kicker": -70,
         "Performance": 1.22
     },
     {
@@ -5179,10 +5179,10 @@
         "Expected_Points_Sorare": "NaN",
         "Expected_Points_Kicker": 11,
         "Expected_Points_Per_Game_Kicker": 0.32,
-        "Current_Points_Kicker": 32,
-        "Current_Points_Per_Game_Kicker": 1.52,
-        "Difference_Kicker": 21,
-        "Performance": 4.75
+        "Current_Points_Kicker": 38,
+        "Current_Points_Per_Game_Kicker": 1.73,
+        "Difference_Kicker": 27,
+        "Performance": 5.41
     },
     {
         "ID": "pl-k00108204",
@@ -5197,9 +5197,9 @@
         "Expected_Points_Kicker": 106,
         "Expected_Points_Per_Game_Kicker": 3.12,
         "Current_Points_Kicker": 28,
-        "Current_Points_Per_Game_Kicker": 1.33,
+        "Current_Points_Per_Game_Kicker": 1.27,
         "Difference_Kicker": -78,
-        "Performance": 0.43
+        "Performance": 0.41
     },
     {
         "ID": "pl-k00109417",
@@ -5213,10 +5213,10 @@
         "Expected_Points_Sorare": 1597,
         "Expected_Points_Kicker": 130,
         "Expected_Points_Per_Game_Kicker": 3.82,
-        "Current_Points_Kicker": 92,
-        "Current_Points_Per_Game_Kicker": 4.38,
-        "Difference_Kicker": -38,
-        "Performance": 1.15
+        "Current_Points_Kicker": 96,
+        "Current_Points_Per_Game_Kicker": 4.36,
+        "Difference_Kicker": -34,
+        "Performance": 1.14
     },
     {
         "ID": "pl-k00109512",
@@ -5231,9 +5231,9 @@
         "Expected_Points_Kicker": 129,
         "Expected_Points_Per_Game_Kicker": 3.79,
         "Current_Points_Kicker": 83,
-        "Current_Points_Per_Game_Kicker": 3.95,
+        "Current_Points_Per_Game_Kicker": 3.77,
         "Difference_Kicker": -46,
-        "Performance": 1.04
+        "Performance": 0.99
     },
     {
         "ID": "pl-k00109835",
@@ -5247,9 +5247,9 @@
         "Expected_Points_Sorare": "NaN",
         "Expected_Points_Kicker": 0,
         "Expected_Points_Per_Game_Kicker": 0.0,
-        "Current_Points_Kicker": -2,
-        "Current_Points_Per_Game_Kicker": -0.1,
-        "Difference_Kicker": -2,
+        "Current_Points_Kicker": 2,
+        "Current_Points_Per_Game_Kicker": 0.09,
+        "Difference_Kicker": 2,
         "Performance": "NaN"
     },
     {
@@ -5265,9 +5265,9 @@
         "Expected_Points_Kicker": 145,
         "Expected_Points_Per_Game_Kicker": 4.26,
         "Current_Points_Kicker": 22,
-        "Current_Points_Per_Game_Kicker": 1.05,
+        "Current_Points_Per_Game_Kicker": 1.0,
         "Difference_Kicker": -123,
-        "Performance": 0.25
+        "Performance": 0.23
     },
     {
         "ID": "pl-k00110187",
@@ -5281,10 +5281,10 @@
         "Expected_Points_Sorare": 1250,
         "Expected_Points_Kicker": 96,
         "Expected_Points_Per_Game_Kicker": 2.82,
-        "Current_Points_Kicker": 42,
-        "Current_Points_Per_Game_Kicker": 2.0,
-        "Difference_Kicker": -54,
-        "Performance": 0.71
+        "Current_Points_Kicker": 40,
+        "Current_Points_Per_Game_Kicker": 1.82,
+        "Difference_Kicker": -56,
+        "Performance": 0.65
     },
     {
         "ID": "pl-k00110417",
@@ -5332,10 +5332,10 @@
         "Expected_Points_Sorare": 2053,
         "Expected_Points_Kicker": 252,
         "Expected_Points_Per_Game_Kicker": 7.41,
-        "Current_Points_Kicker": 134,
-        "Current_Points_Per_Game_Kicker": 6.38,
-        "Difference_Kicker": -118,
-        "Performance": 0.86
+        "Current_Points_Kicker": 130,
+        "Current_Points_Per_Game_Kicker": 5.91,
+        "Difference_Kicker": -122,
+        "Performance": 0.8
     },
     {
         "ID": "pl-k00110890",
@@ -5367,7 +5367,7 @@
         "Expected_Points_Kicker": 0,
         "Expected_Points_Per_Game_Kicker": 0.0,
         "Current_Points_Kicker": 18,
-        "Current_Points_Per_Game_Kicker": 0.86,
+        "Current_Points_Per_Game_Kicker": 0.82,
         "Difference_Kicker": 18,
         "Performance": "NaN"
     },
@@ -5401,9 +5401,9 @@
         "Expected_Points_Kicker": 90,
         "Expected_Points_Per_Game_Kicker": 2.65,
         "Current_Points_Kicker": 41,
-        "Current_Points_Per_Game_Kicker": 1.95,
+        "Current_Points_Per_Game_Kicker": 1.86,
         "Difference_Kicker": -49,
-        "Performance": 0.74
+        "Performance": 0.7
     },
     {
         "ID": "pl-k00111919",
@@ -5417,10 +5417,10 @@
         "Expected_Points_Sorare": 1009,
         "Expected_Points_Kicker": 67,
         "Expected_Points_Per_Game_Kicker": 1.97,
-        "Current_Points_Kicker": 54,
-        "Current_Points_Per_Game_Kicker": 2.57,
-        "Difference_Kicker": -13,
-        "Performance": 1.3
+        "Current_Points_Kicker": 56,
+        "Current_Points_Per_Game_Kicker": 2.55,
+        "Difference_Kicker": -11,
+        "Performance": 1.29
     },
     {
         "ID": "pl-k00111928",
@@ -5434,9 +5434,9 @@
         "Expected_Points_Sorare": 1129,
         "Expected_Points_Kicker": 98,
         "Expected_Points_Per_Game_Kicker": 2.88,
-        "Current_Points_Kicker": 44,
-        "Current_Points_Per_Game_Kicker": 2.1,
-        "Difference_Kicker": -54,
+        "Current_Points_Kicker": 46,
+        "Current_Points_Per_Game_Kicker": 2.09,
+        "Difference_Kicker": -52,
         "Performance": 0.73
     },
     {
@@ -5452,9 +5452,9 @@
         "Expected_Points_Kicker": 60,
         "Expected_Points_Per_Game_Kicker": 1.76,
         "Current_Points_Kicker": 16,
-        "Current_Points_Per_Game_Kicker": 0.76,
+        "Current_Points_Per_Game_Kicker": 0.73,
         "Difference_Kicker": -44,
-        "Performance": 0.43
+        "Performance": 0.41
     },
     {
         "ID": "pl-k00112134",
@@ -5469,9 +5469,9 @@
         "Expected_Points_Kicker": 158,
         "Expected_Points_Per_Game_Kicker": 4.65,
         "Current_Points_Kicker": 92,
-        "Current_Points_Per_Game_Kicker": 4.38,
+        "Current_Points_Per_Game_Kicker": 4.18,
         "Difference_Kicker": -66,
-        "Performance": 0.94
+        "Performance": 0.9
     },
     {
         "ID": "pl-k00112498",
@@ -5485,9 +5485,9 @@
         "Expected_Points_Sorare": 1017,
         "Expected_Points_Kicker": 84,
         "Expected_Points_Per_Game_Kicker": 2.47,
-        "Current_Points_Kicker": 33,
-        "Current_Points_Per_Game_Kicker": 1.57,
-        "Difference_Kicker": -51,
+        "Current_Points_Kicker": 35,
+        "Current_Points_Per_Game_Kicker": 1.59,
+        "Difference_Kicker": -49,
         "Performance": 0.64
     },
     {
@@ -5502,9 +5502,9 @@
         "Expected_Points_Sorare": 1428,
         "Expected_Points_Kicker": 132,
         "Expected_Points_Per_Game_Kicker": 3.88,
-        "Current_Points_Kicker": 48,
-        "Current_Points_Per_Game_Kicker": 2.29,
-        "Difference_Kicker": -84,
+        "Current_Points_Kicker": 50,
+        "Current_Points_Per_Game_Kicker": 2.27,
+        "Difference_Kicker": -82,
         "Performance": 0.59
     },
     {
@@ -5537,9 +5537,9 @@
         "Expected_Points_Kicker": 13,
         "Expected_Points_Per_Game_Kicker": 0.38,
         "Current_Points_Kicker": 10,
-        "Current_Points_Per_Game_Kicker": 0.48,
+        "Current_Points_Per_Game_Kicker": 0.45,
         "Difference_Kicker": -3,
-        "Performance": 1.26
+        "Performance": 1.18
     },
     {
         "ID": "pl-k00113185",
@@ -5553,10 +5553,10 @@
         "Expected_Points_Sorare": 1320,
         "Expected_Points_Kicker": 133,
         "Expected_Points_Per_Game_Kicker": 3.91,
-        "Current_Points_Kicker": 42,
-        "Current_Points_Per_Game_Kicker": 2.0,
-        "Difference_Kicker": -91,
-        "Performance": 0.51
+        "Current_Points_Kicker": 46,
+        "Current_Points_Per_Game_Kicker": 2.09,
+        "Difference_Kicker": -87,
+        "Performance": 0.53
     },
     {
         "ID": "pl-k00113667",
@@ -5570,10 +5570,10 @@
         "Expected_Points_Sorare": "NaN",
         "Expected_Points_Kicker": 7,
         "Expected_Points_Per_Game_Kicker": 0.21,
-        "Current_Points_Kicker": 34,
-        "Current_Points_Per_Game_Kicker": 1.62,
-        "Difference_Kicker": 27,
-        "Performance": 7.71
+        "Current_Points_Kicker": 38,
+        "Current_Points_Per_Game_Kicker": 1.73,
+        "Difference_Kicker": 31,
+        "Performance": 8.24
     },
     {
         "ID": "pl-k00114601",
@@ -5587,10 +5587,10 @@
         "Expected_Points_Sorare": 1997,
         "Expected_Points_Kicker": 219,
         "Expected_Points_Per_Game_Kicker": 6.44,
-        "Current_Points_Kicker": 96,
-        "Current_Points_Per_Game_Kicker": 4.57,
-        "Difference_Kicker": -123,
-        "Performance": 0.71
+        "Current_Points_Kicker": 106,
+        "Current_Points_Per_Game_Kicker": 4.82,
+        "Difference_Kicker": -113,
+        "Performance": 0.75
     },
     {
         "ID": "pl-k00114612",
@@ -5604,10 +5604,10 @@
         "Expected_Points_Sorare": 1067,
         "Expected_Points_Kicker": 91,
         "Expected_Points_Per_Game_Kicker": 2.68,
-        "Current_Points_Kicker": 87,
-        "Current_Points_Per_Game_Kicker": 4.14,
-        "Difference_Kicker": -4,
-        "Performance": 1.54
+        "Current_Points_Kicker": 102,
+        "Current_Points_Per_Game_Kicker": 4.64,
+        "Difference_Kicker": 11,
+        "Performance": 1.73
     },
     {
         "ID": "pl-k00114616",
@@ -5622,9 +5622,9 @@
         "Expected_Points_Kicker": 153,
         "Expected_Points_Per_Game_Kicker": 4.5,
         "Current_Points_Kicker": 34,
-        "Current_Points_Per_Game_Kicker": 1.62,
+        "Current_Points_Per_Game_Kicker": 1.55,
         "Difference_Kicker": -119,
-        "Performance": 0.36
+        "Performance": 0.34
     },
     {
         "ID": "pl-k00114735",
@@ -5655,10 +5655,10 @@
         "Expected_Points_Sorare": 1536,
         "Expected_Points_Kicker": 171,
         "Expected_Points_Per_Game_Kicker": 5.03,
-        "Current_Points_Kicker": 67,
-        "Current_Points_Per_Game_Kicker": 3.19,
-        "Difference_Kicker": -104,
-        "Performance": 0.63
+        "Current_Points_Kicker": 63,
+        "Current_Points_Per_Game_Kicker": 2.86,
+        "Difference_Kicker": -108,
+        "Performance": 0.57
     },
     {
         "ID": "pl-k00114751",
@@ -5673,9 +5673,9 @@
         "Expected_Points_Kicker": 82,
         "Expected_Points_Per_Game_Kicker": 2.41,
         "Current_Points_Kicker": 14,
-        "Current_Points_Per_Game_Kicker": 0.67,
+        "Current_Points_Per_Game_Kicker": 0.64,
         "Difference_Kicker": -68,
-        "Performance": 0.28
+        "Performance": 0.27
     },
     {
         "ID": "pl-k00115533",
@@ -5690,9 +5690,9 @@
         "Expected_Points_Kicker": 95,
         "Expected_Points_Per_Game_Kicker": 2.79,
         "Current_Points_Kicker": 31,
-        "Current_Points_Per_Game_Kicker": 1.48,
+        "Current_Points_Per_Game_Kicker": 1.41,
         "Difference_Kicker": -64,
-        "Performance": 0.53
+        "Performance": 0.51
     },
     {
         "ID": "pl-k00115990",
@@ -5706,10 +5706,10 @@
         "Expected_Points_Sorare": "NaN",
         "Expected_Points_Kicker": 73,
         "Expected_Points_Per_Game_Kicker": 2.15,
-        "Current_Points_Kicker": 24,
-        "Current_Points_Per_Game_Kicker": 1.14,
-        "Difference_Kicker": -49,
-        "Performance": 0.53
+        "Current_Points_Kicker": 26,
+        "Current_Points_Per_Game_Kicker": 1.18,
+        "Difference_Kicker": -47,
+        "Performance": 0.55
     },
     {
         "ID": "pl-k00116369",
@@ -5724,9 +5724,9 @@
         "Expected_Points_Kicker": 113,
         "Expected_Points_Per_Game_Kicker": 3.32,
         "Current_Points_Kicker": 14,
-        "Current_Points_Per_Game_Kicker": 0.67,
+        "Current_Points_Per_Game_Kicker": 0.64,
         "Difference_Kicker": -99,
-        "Performance": 0.2
+        "Performance": 0.19
     },
     {
         "ID": "pl-k00116548",
@@ -5757,10 +5757,10 @@
         "Expected_Points_Sorare": 1193,
         "Expected_Points_Kicker": 89,
         "Expected_Points_Per_Game_Kicker": 2.62,
-        "Current_Points_Kicker": 91,
-        "Current_Points_Per_Game_Kicker": 4.33,
-        "Difference_Kicker": 2,
-        "Performance": 1.65
+        "Current_Points_Kicker": 100,
+        "Current_Points_Per_Game_Kicker": 4.55,
+        "Difference_Kicker": 11,
+        "Performance": 1.74
     },
     {
         "ID": "pl-k00116648",
@@ -5775,7 +5775,7 @@
         "Expected_Points_Kicker": 158,
         "Expected_Points_Per_Game_Kicker": 4.65,
         "Current_Points_Kicker": 16,
-        "Current_Points_Per_Game_Kicker": 0.76,
+        "Current_Points_Per_Game_Kicker": 0.73,
         "Difference_Kicker": -142,
         "Performance": 0.16
     },
@@ -5791,9 +5791,9 @@
         "Expected_Points_Sorare": "NaN",
         "Expected_Points_Kicker": 0,
         "Expected_Points_Per_Game_Kicker": 0.0,
-        "Current_Points_Kicker": 78,
-        "Current_Points_Per_Game_Kicker": 3.71,
-        "Difference_Kicker": 78,
+        "Current_Points_Kicker": 86,
+        "Current_Points_Per_Game_Kicker": 3.91,
+        "Difference_Kicker": 86,
         "Performance": "NaN"
     },
     {
@@ -5808,10 +5808,10 @@
         "Expected_Points_Sorare": 1873,
         "Expected_Points_Kicker": 209,
         "Expected_Points_Per_Game_Kicker": 6.15,
-        "Current_Points_Kicker": 109,
-        "Current_Points_Per_Game_Kicker": 5.19,
-        "Difference_Kicker": -100,
-        "Performance": 0.84
+        "Current_Points_Kicker": 115,
+        "Current_Points_Per_Game_Kicker": 5.23,
+        "Difference_Kicker": -94,
+        "Performance": 0.85
     },
     {
         "ID": "pl-k00116735",
@@ -5825,10 +5825,10 @@
         "Expected_Points_Sorare": 1468,
         "Expected_Points_Kicker": 123,
         "Expected_Points_Per_Game_Kicker": 3.62,
-        "Current_Points_Kicker": 54,
-        "Current_Points_Per_Game_Kicker": 2.57,
-        "Difference_Kicker": -69,
-        "Performance": 0.71
+        "Current_Points_Kicker": 52,
+        "Current_Points_Per_Game_Kicker": 2.36,
+        "Difference_Kicker": -71,
+        "Performance": 0.65
     },
     {
         "ID": "pl-k00117298",
@@ -5843,9 +5843,9 @@
         "Expected_Points_Kicker": 156,
         "Expected_Points_Per_Game_Kicker": 4.59,
         "Current_Points_Kicker": 115,
-        "Current_Points_Per_Game_Kicker": 5.48,
+        "Current_Points_Per_Game_Kicker": 5.23,
         "Difference_Kicker": -41,
-        "Performance": 1.19
+        "Performance": 1.14
     },
     {
         "ID": "pl-k00117583",
@@ -5859,10 +5859,10 @@
         "Expected_Points_Sorare": 934,
         "Expected_Points_Kicker": 69,
         "Expected_Points_Per_Game_Kicker": 2.03,
-        "Current_Points_Kicker": 24,
-        "Current_Points_Per_Game_Kicker": 1.14,
-        "Difference_Kicker": -45,
-        "Performance": 0.56
+        "Current_Points_Kicker": 32,
+        "Current_Points_Per_Game_Kicker": 1.45,
+        "Difference_Kicker": -37,
+        "Performance": 0.71
     },
     {
         "ID": "pl-k00117805",
@@ -5877,9 +5877,9 @@
         "Expected_Points_Kicker": 176,
         "Expected_Points_Per_Game_Kicker": 5.18,
         "Current_Points_Kicker": 29,
-        "Current_Points_Per_Game_Kicker": 1.38,
+        "Current_Points_Per_Game_Kicker": 1.32,
         "Difference_Kicker": -147,
-        "Performance": 0.27
+        "Performance": 0.25
     },
     {
         "ID": "pl-k00118051",
@@ -5911,7 +5911,7 @@
         "Expected_Points_Kicker": 68,
         "Expected_Points_Per_Game_Kicker": 2.0,
         "Current_Points_Kicker": 6,
-        "Current_Points_Per_Game_Kicker": 0.29,
+        "Current_Points_Per_Game_Kicker": 0.27,
         "Difference_Kicker": -62,
         "Performance": 0.14
     },
@@ -5927,10 +5927,10 @@
         "Expected_Points_Sorare": "NaN",
         "Expected_Points_Kicker": 12,
         "Expected_Points_Per_Game_Kicker": 0.35,
-        "Current_Points_Kicker": 53,
-        "Current_Points_Per_Game_Kicker": 2.52,
-        "Difference_Kicker": 41,
-        "Performance": 7.2
+        "Current_Points_Kicker": 59,
+        "Current_Points_Per_Game_Kicker": 2.68,
+        "Difference_Kicker": 47,
+        "Performance": 7.66
     },
     {
         "ID": "pl-k00118073",
@@ -5945,9 +5945,9 @@
         "Expected_Points_Kicker": 82,
         "Expected_Points_Per_Game_Kicker": 2.41,
         "Current_Points_Kicker": 14,
-        "Current_Points_Per_Game_Kicker": 0.67,
+        "Current_Points_Per_Game_Kicker": 0.64,
         "Difference_Kicker": -68,
-        "Performance": 0.28
+        "Performance": 0.27
     },
     {
         "ID": "pl-k00118285",
@@ -5961,10 +5961,10 @@
         "Expected_Points_Sorare": "NaN",
         "Expected_Points_Kicker": 52,
         "Expected_Points_Per_Game_Kicker": 1.53,
-        "Current_Points_Kicker": 66,
-        "Current_Points_Per_Game_Kicker": 3.14,
-        "Difference_Kicker": 14,
-        "Performance": 2.05
+        "Current_Points_Kicker": 68,
+        "Current_Points_Per_Game_Kicker": 3.09,
+        "Difference_Kicker": 16,
+        "Performance": 2.02
     },
     {
         "ID": "pl-k00118291",
@@ -5979,9 +5979,9 @@
         "Expected_Points_Kicker": 96,
         "Expected_Points_Per_Game_Kicker": 2.82,
         "Current_Points_Kicker": 70,
-        "Current_Points_Per_Game_Kicker": 3.33,
+        "Current_Points_Per_Game_Kicker": 3.18,
         "Difference_Kicker": -26,
-        "Performance": 1.18
+        "Performance": 1.13
     },
     {
         "ID": "pl-k00118312",
@@ -5995,9 +5995,9 @@
         "Expected_Points_Sorare": 1651,
         "Expected_Points_Kicker": 162,
         "Expected_Points_Per_Game_Kicker": 4.76,
-        "Current_Points_Kicker": 36,
-        "Current_Points_Per_Game_Kicker": 1.71,
-        "Difference_Kicker": -126,
+        "Current_Points_Kicker": 38,
+        "Current_Points_Per_Game_Kicker": 1.73,
+        "Difference_Kicker": -124,
         "Performance": 0.36
     },
     {
@@ -6013,9 +6013,9 @@
         "Expected_Points_Kicker": 108,
         "Expected_Points_Per_Game_Kicker": 3.18,
         "Current_Points_Kicker": 33,
-        "Current_Points_Per_Game_Kicker": 1.57,
+        "Current_Points_Per_Game_Kicker": 1.5,
         "Difference_Kicker": -75,
-        "Performance": 0.49
+        "Performance": 0.47
     },
     {
         "ID": "pl-k00118662",
@@ -6030,9 +6030,9 @@
         "Expected_Points_Kicker": 82,
         "Expected_Points_Per_Game_Kicker": 2.41,
         "Current_Points_Kicker": 12,
-        "Current_Points_Per_Game_Kicker": 0.57,
+        "Current_Points_Per_Game_Kicker": 0.55,
         "Difference_Kicker": -70,
-        "Performance": 0.24
+        "Performance": 0.23
     },
     {
         "ID": "pl-k00118755",
@@ -6046,10 +6046,10 @@
         "Expected_Points_Sorare": 1076,
         "Expected_Points_Kicker": 109,
         "Expected_Points_Per_Game_Kicker": 3.21,
-        "Current_Points_Kicker": 34,
-        "Current_Points_Per_Game_Kicker": 1.62,
-        "Difference_Kicker": -75,
-        "Performance": 0.5
+        "Current_Points_Kicker": 36,
+        "Current_Points_Per_Game_Kicker": 1.64,
+        "Difference_Kicker": -73,
+        "Performance": 0.51
     },
     {
         "ID": "pl-k00118768",
@@ -6063,10 +6063,10 @@
         "Expected_Points_Sorare": 70,
         "Expected_Points_Kicker": 7,
         "Expected_Points_Per_Game_Kicker": 0.21,
-        "Current_Points_Kicker": 29,
-        "Current_Points_Per_Game_Kicker": 1.38,
-        "Difference_Kicker": 22,
-        "Performance": 6.57
+        "Current_Points_Kicker": 31,
+        "Current_Points_Per_Game_Kicker": 1.41,
+        "Difference_Kicker": 24,
+        "Performance": 6.71
     },
     {
         "ID": "pl-k00119357",
@@ -6097,10 +6097,10 @@
         "Expected_Points_Sorare": 40,
         "Expected_Points_Kicker": 5,
         "Expected_Points_Per_Game_Kicker": 0.15,
-        "Current_Points_Kicker": 77,
-        "Current_Points_Per_Game_Kicker": 3.67,
-        "Difference_Kicker": 72,
-        "Performance": 24.47
+        "Current_Points_Kicker": 75,
+        "Current_Points_Per_Game_Kicker": 3.41,
+        "Difference_Kicker": 70,
+        "Performance": 22.73
     },
     {
         "ID": "pl-k00119706",
@@ -6114,10 +6114,10 @@
         "Expected_Points_Kickbase": "NaN",
         "Expected_Points_Kicker": 122,
         "Expected_Points_Per_Game_Kicker": 3.59,
-        "Current_Points_Kicker": 34,
-        "Current_Points_Per_Game_Kicker": 1.62,
-        "Difference_Kicker": -88,
-        "Performance": 0.45
+        "Current_Points_Kicker": 36,
+        "Current_Points_Per_Game_Kicker": 1.64,
+        "Difference_Kicker": -86,
+        "Performance": 0.46
     },
     {
         "ID": "pl-k00119823",
@@ -6131,10 +6131,10 @@
         "Expected_Points_Sorare": 1507,
         "Expected_Points_Kicker": 154,
         "Expected_Points_Per_Game_Kicker": 4.53,
-        "Current_Points_Kicker": 62,
-        "Current_Points_Per_Game_Kicker": 2.95,
-        "Difference_Kicker": -92,
-        "Performance": 0.65
+        "Current_Points_Kicker": 60,
+        "Current_Points_Per_Game_Kicker": 2.73,
+        "Difference_Kicker": -94,
+        "Performance": 0.6
     },
     {
         "ID": "pl-k00119824",
@@ -6165,10 +6165,10 @@
         "Expected_Points_Sorare": 1520,
         "Expected_Points_Kicker": 157,
         "Expected_Points_Per_Game_Kicker": 4.62,
-        "Current_Points_Kicker": 22,
-        "Current_Points_Per_Game_Kicker": 1.05,
-        "Difference_Kicker": -135,
-        "Performance": 0.23
+        "Current_Points_Kicker": 24,
+        "Current_Points_Per_Game_Kicker": 1.09,
+        "Difference_Kicker": -133,
+        "Performance": 0.24
     },
     {
         "ID": "pl-k00119858",
@@ -6182,10 +6182,10 @@
         "Expected_Points_Sorare": 1490,
         "Expected_Points_Kicker": 156,
         "Expected_Points_Per_Game_Kicker": 4.59,
-        "Current_Points_Kicker": 26,
-        "Current_Points_Per_Game_Kicker": 1.24,
-        "Difference_Kicker": -130,
-        "Performance": 0.27
+        "Current_Points_Kicker": 28,
+        "Current_Points_Per_Game_Kicker": 1.27,
+        "Difference_Kicker": -128,
+        "Performance": 0.28
     },
     {
         "ID": "pl-k00119868",
@@ -6234,9 +6234,9 @@
         "Expected_Points_Kicker": 105,
         "Expected_Points_Per_Game_Kicker": 3.09,
         "Current_Points_Kicker": 17,
-        "Current_Points_Per_Game_Kicker": 0.81,
+        "Current_Points_Per_Game_Kicker": 0.77,
         "Difference_Kicker": -88,
-        "Performance": 0.26
+        "Performance": 0.25
     },
     {
         "ID": "pl-k00121863",
@@ -6250,10 +6250,10 @@
         "Expected_Points_Sorare": 971,
         "Expected_Points_Kicker": 105,
         "Expected_Points_Per_Game_Kicker": 3.09,
-        "Current_Points_Kicker": 7,
-        "Current_Points_Per_Game_Kicker": 0.33,
-        "Difference_Kicker": -98,
-        "Performance": 0.11
+        "Current_Points_Kicker": 9,
+        "Current_Points_Per_Game_Kicker": 0.41,
+        "Difference_Kicker": -96,
+        "Performance": 0.13
     },
     {
         "ID": "pl-k00121927",
@@ -6267,9 +6267,9 @@
         "Expected_Points_Sorare": 1743,
         "Expected_Points_Kicker": 212,
         "Expected_Points_Per_Game_Kicker": 6.24,
-        "Current_Points_Kicker": 128,
-        "Current_Points_Per_Game_Kicker": 6.1,
-        "Difference_Kicker": -84,
+        "Current_Points_Kicker": 134,
+        "Current_Points_Per_Game_Kicker": 6.09,
+        "Difference_Kicker": -78,
         "Performance": 0.98
     },
     {
@@ -6301,10 +6301,10 @@
         "Expected_Points_Sorare": 1444,
         "Expected_Points_Kicker": 170,
         "Expected_Points_Per_Game_Kicker": 5.0,
-        "Current_Points_Kicker": 2,
-        "Current_Points_Per_Game_Kicker": 0.1,
-        "Difference_Kicker": -168,
-        "Performance": 0.02
+        "Current_Points_Kicker": -2,
+        "Current_Points_Per_Game_Kicker": -0.09,
+        "Difference_Kicker": -172,
+        "Performance": -0.02
     },
     {
         "ID": "pl-k00123796",
@@ -6335,10 +6335,10 @@
         "Expected_Points_Sorare": 1915,
         "Expected_Points_Kicker": 203,
         "Expected_Points_Per_Game_Kicker": 5.97,
-        "Current_Points_Kicker": 129,
-        "Current_Points_Per_Game_Kicker": 6.14,
-        "Difference_Kicker": -74,
-        "Performance": 1.03
+        "Current_Points_Kicker": 139,
+        "Current_Points_Per_Game_Kicker": 6.32,
+        "Difference_Kicker": -64,
+        "Performance": 1.06
     },
     {
         "ID": "pl-k00123991",
@@ -6352,9 +6352,9 @@
         "Expected_Points_Sorare": 1477,
         "Expected_Points_Kicker": 140,
         "Expected_Points_Per_Game_Kicker": 4.12,
-        "Current_Points_Kicker": 30,
-        "Current_Points_Per_Game_Kicker": 1.43,
-        "Difference_Kicker": -110,
+        "Current_Points_Kicker": 32,
+        "Current_Points_Per_Game_Kicker": 1.45,
+        "Difference_Kicker": -108,
         "Performance": 0.35
     },
     {
@@ -6369,10 +6369,10 @@
         "Expected_Points_Sorare": 948,
         "Expected_Points_Kicker": 67,
         "Expected_Points_Per_Game_Kicker": 1.97,
-        "Current_Points_Kicker": 16,
-        "Current_Points_Per_Game_Kicker": 0.76,
-        "Difference_Kicker": -51,
-        "Performance": 0.39
+        "Current_Points_Kicker": 18,
+        "Current_Points_Per_Game_Kicker": 0.82,
+        "Difference_Kicker": -49,
+        "Performance": 0.42
     },
     {
         "ID": "pl-k00124455",
@@ -6386,9 +6386,9 @@
         "Expected_Points_Sorare": 1641,
         "Expected_Points_Kicker": 164,
         "Expected_Points_Per_Game_Kicker": 4.82,
-        "Current_Points_Kicker": 82,
-        "Current_Points_Per_Game_Kicker": 3.9,
-        "Difference_Kicker": -82,
+        "Current_Points_Kicker": 86,
+        "Current_Points_Per_Game_Kicker": 3.91,
+        "Difference_Kicker": -78,
         "Performance": 0.81
     },
     {
@@ -6421,7 +6421,7 @@
         "Expected_Points_Kicker": 119,
         "Expected_Points_Per_Game_Kicker": 3.5,
         "Current_Points_Kicker": 4,
-        "Current_Points_Per_Game_Kicker": 0.19,
+        "Current_Points_Per_Game_Kicker": 0.18,
         "Difference_Kicker": -115,
         "Performance": 0.05
     },
@@ -6437,10 +6437,10 @@
         "Expected_Points_Sorare": 1887,
         "Expected_Points_Kicker": 239,
         "Expected_Points_Per_Game_Kicker": 7.03,
-        "Current_Points_Kicker": 177,
-        "Current_Points_Per_Game_Kicker": 8.43,
-        "Difference_Kicker": -62,
-        "Performance": 1.2
+        "Current_Points_Kicker": 175,
+        "Current_Points_Per_Game_Kicker": 7.95,
+        "Difference_Kicker": -64,
+        "Performance": 1.13
     },
     {
         "ID": "pl-k00125269",
@@ -6454,10 +6454,10 @@
         "Expected_Points_Sorare": 1259,
         "Expected_Points_Kicker": 115,
         "Expected_Points_Per_Game_Kicker": 3.38,
-        "Current_Points_Kicker": 71,
-        "Current_Points_Per_Game_Kicker": 3.38,
-        "Difference_Kicker": -44,
-        "Performance": 1.0
+        "Current_Points_Kicker": 79,
+        "Current_Points_Per_Game_Kicker": 3.59,
+        "Difference_Kicker": -36,
+        "Performance": 1.06
     },
     {
         "ID": "pl-k00125581",
@@ -6489,9 +6489,9 @@
         "Expected_Points_Kicker": 128,
         "Expected_Points_Per_Game_Kicker": 3.76,
         "Current_Points_Kicker": 34,
-        "Current_Points_Per_Game_Kicker": 1.62,
+        "Current_Points_Per_Game_Kicker": 1.55,
         "Difference_Kicker": -94,
-        "Performance": 0.43
+        "Performance": 0.41
     },
     {
         "ID": "pl-k00125797",
@@ -6505,10 +6505,10 @@
         "Expected_Points_Sorare": 912,
         "Expected_Points_Kicker": 42,
         "Expected_Points_Per_Game_Kicker": 1.24,
-        "Current_Points_Kicker": 22,
-        "Current_Points_Per_Game_Kicker": 1.05,
-        "Difference_Kicker": -20,
-        "Performance": 0.85
+        "Current_Points_Kicker": 24,
+        "Current_Points_Per_Game_Kicker": 1.09,
+        "Difference_Kicker": -18,
+        "Performance": 0.88
     },
     {
         "ID": "pl-k00125975",
@@ -6522,10 +6522,10 @@
         "Expected_Points_Sorare": "NaN",
         "Expected_Points_Kicker": 28,
         "Expected_Points_Per_Game_Kicker": 0.82,
-        "Current_Points_Kicker": 9,
-        "Current_Points_Per_Game_Kicker": 0.43,
-        "Difference_Kicker": -19,
-        "Performance": 0.52
+        "Current_Points_Kicker": 5,
+        "Current_Points_Per_Game_Kicker": 0.23,
+        "Difference_Kicker": -23,
+        "Performance": 0.28
     },
     {
         "ID": "pl-k00125994",
@@ -6573,10 +6573,10 @@
         "Expected_Points_Sorare": 1028,
         "Expected_Points_Kicker": 84,
         "Expected_Points_Per_Game_Kicker": 2.47,
-        "Current_Points_Kicker": 79,
-        "Current_Points_Per_Game_Kicker": 3.76,
-        "Difference_Kicker": -5,
-        "Performance": 1.52
+        "Current_Points_Kicker": 77,
+        "Current_Points_Per_Game_Kicker": 3.5,
+        "Difference_Kicker": -7,
+        "Performance": 1.42
     },
     {
         "ID": "pl-k00129118",
@@ -6590,10 +6590,10 @@
         "Expected_Points_Sorare": 1020,
         "Expected_Points_Kicker": 96,
         "Expected_Points_Per_Game_Kicker": 2.82,
-        "Current_Points_Kicker": 51,
-        "Current_Points_Per_Game_Kicker": 2.43,
-        "Difference_Kicker": -45,
-        "Performance": 0.86
+        "Current_Points_Kicker": 59,
+        "Current_Points_Per_Game_Kicker": 2.68,
+        "Difference_Kicker": -37,
+        "Performance": 0.95
     },
     {
         "ID": "pl-k00129212",
@@ -6607,10 +6607,10 @@
         "Expected_Points_Sorare": 1292,
         "Expected_Points_Kicker": 126,
         "Expected_Points_Per_Game_Kicker": 3.71,
-        "Current_Points_Kicker": 40,
-        "Current_Points_Per_Game_Kicker": 1.9,
-        "Difference_Kicker": -86,
-        "Performance": 0.51
+        "Current_Points_Kicker": 48,
+        "Current_Points_Per_Game_Kicker": 2.18,
+        "Difference_Kicker": -78,
+        "Performance": 0.59
     },
     {
         "ID": "pl-k00129414",
@@ -6624,10 +6624,10 @@
         "Expected_Points_Sorare": 1897,
         "Expected_Points_Kicker": 191,
         "Expected_Points_Per_Game_Kicker": 5.62,
-        "Current_Points_Kicker": 89,
-        "Current_Points_Per_Game_Kicker": 4.24,
-        "Difference_Kicker": -102,
-        "Performance": 0.75
+        "Current_Points_Kicker": 95,
+        "Current_Points_Per_Game_Kicker": 4.32,
+        "Difference_Kicker": -96,
+        "Performance": 0.77
     },
     {
         "ID": "pl-k00129671",
@@ -6641,10 +6641,10 @@
         "Expected_Points_Sorare": 889,
         "Expected_Points_Kicker": 77,
         "Expected_Points_Per_Game_Kicker": 2.26,
-        "Current_Points_Kicker": 83,
-        "Current_Points_Per_Game_Kicker": 3.95,
-        "Difference_Kicker": 6,
-        "Performance": 1.75
+        "Current_Points_Kicker": 93,
+        "Current_Points_Per_Game_Kicker": 4.23,
+        "Difference_Kicker": 16,
+        "Performance": 1.87
     },
     {
         "ID": "pl-k00129784",
@@ -6659,9 +6659,9 @@
         "Expected_Points_Kicker": 150,
         "Expected_Points_Per_Game_Kicker": 4.41,
         "Current_Points_Kicker": 10,
-        "Current_Points_Per_Game_Kicker": 0.48,
+        "Current_Points_Per_Game_Kicker": 0.45,
         "Difference_Kicker": -140,
-        "Performance": 0.11
+        "Performance": 0.1
     },
     {
         "ID": "pl-k00130251",
@@ -6676,9 +6676,9 @@
         "Expected_Points_Kicker": 112,
         "Expected_Points_Per_Game_Kicker": 3.29,
         "Current_Points_Kicker": 27,
-        "Current_Points_Per_Game_Kicker": 1.29,
+        "Current_Points_Per_Game_Kicker": 1.23,
         "Difference_Kicker": -85,
-        "Performance": 0.39
+        "Performance": 0.37
     },
     {
         "ID": "pl-k00130252",
@@ -6692,10 +6692,10 @@
         "Expected_Points_Sorare": 1101,
         "Expected_Points_Kicker": 85,
         "Expected_Points_Per_Game_Kicker": 2.5,
-        "Current_Points_Kicker": 38,
-        "Current_Points_Per_Game_Kicker": 1.81,
-        "Difference_Kicker": -47,
-        "Performance": 0.72
+        "Current_Points_Kicker": 40,
+        "Current_Points_Per_Game_Kicker": 1.82,
+        "Difference_Kicker": -45,
+        "Performance": 0.73
     },
     {
         "ID": "pl-k00130566",
@@ -6710,9 +6710,9 @@
         "Expected_Points_Kicker": 81,
         "Expected_Points_Per_Game_Kicker": 2.38,
         "Current_Points_Kicker": 31,
-        "Current_Points_Per_Game_Kicker": 1.48,
+        "Current_Points_Per_Game_Kicker": 1.41,
         "Difference_Kicker": -50,
-        "Performance": 0.62
+        "Performance": 0.59
     },
     {
         "ID": "pl-k00130568",
@@ -6727,9 +6727,9 @@
         "Expected_Points_Kicker": 132,
         "Expected_Points_Per_Game_Kicker": 3.88,
         "Current_Points_Kicker": 2,
-        "Current_Points_Per_Game_Kicker": 0.1,
+        "Current_Points_Per_Game_Kicker": 0.09,
         "Difference_Kicker": -130,
-        "Performance": 0.03
+        "Performance": 0.02
     },
     {
         "ID": "pl-k00130593",
@@ -6743,10 +6743,10 @@
         "Expected_Points_Sorare": 1609,
         "Expected_Points_Kicker": 133,
         "Expected_Points_Per_Game_Kicker": 3.91,
-        "Current_Points_Kicker": 54,
-        "Current_Points_Per_Game_Kicker": 2.57,
-        "Difference_Kicker": -79,
-        "Performance": 0.66
+        "Current_Points_Kicker": 62,
+        "Current_Points_Per_Game_Kicker": 2.82,
+        "Difference_Kicker": -71,
+        "Performance": 0.72
     },
     {
         "ID": "pl-k00130880",
@@ -6777,10 +6777,10 @@
         "Expected_Points_Sorare": "NaN",
         "Expected_Points_Kicker": 38,
         "Expected_Points_Per_Game_Kicker": 1.12,
-        "Current_Points_Kicker": 37,
-        "Current_Points_Per_Game_Kicker": 1.76,
-        "Difference_Kicker": -1,
-        "Performance": 1.57
+        "Current_Points_Kicker": 43,
+        "Current_Points_Per_Game_Kicker": 1.95,
+        "Difference_Kicker": 5,
+        "Performance": 1.74
     },
     {
         "ID": "pl-k00131111",
@@ -6794,10 +6794,10 @@
         "Expected_Points_Sorare": 2094,
         "Expected_Points_Kicker": 275,
         "Expected_Points_Per_Game_Kicker": 8.09,
-        "Current_Points_Kicker": 101,
-        "Current_Points_Per_Game_Kicker": 4.81,
-        "Difference_Kicker": -174,
-        "Performance": 0.59
+        "Current_Points_Kicker": 103,
+        "Current_Points_Per_Game_Kicker": 4.68,
+        "Difference_Kicker": -172,
+        "Performance": 0.58
     },
     {
         "ID": "pl-k00131172",
@@ -6811,10 +6811,10 @@
         "Expected_Points_Sorare": 870,
         "Expected_Points_Kicker": 54,
         "Expected_Points_Per_Game_Kicker": 1.59,
-        "Current_Points_Kicker": 24,
-        "Current_Points_Per_Game_Kicker": 1.14,
-        "Difference_Kicker": -30,
-        "Performance": 0.72
+        "Current_Points_Kicker": 26,
+        "Current_Points_Per_Game_Kicker": 1.18,
+        "Difference_Kicker": -28,
+        "Performance": 0.74
     },
     {
         "ID": "pl-k00131396",
@@ -6828,9 +6828,9 @@
         "Expected_Points_Sorare": "NaN",
         "Expected_Points_Kicker": 0,
         "Expected_Points_Per_Game_Kicker": 0.0,
-        "Current_Points_Kicker": 26,
-        "Current_Points_Per_Game_Kicker": 1.24,
-        "Difference_Kicker": 26,
+        "Current_Points_Kicker": 28,
+        "Current_Points_Per_Game_Kicker": 1.27,
+        "Difference_Kicker": 28,
         "Performance": "NaN"
     },
     {
@@ -6846,9 +6846,9 @@
         "Expected_Points_Kicker": 178,
         "Expected_Points_Per_Game_Kicker": 5.24,
         "Current_Points_Kicker": 109,
-        "Current_Points_Per_Game_Kicker": 5.19,
+        "Current_Points_Per_Game_Kicker": 4.95,
         "Difference_Kicker": -69,
-        "Performance": 0.99
+        "Performance": 0.94
     },
     {
         "ID": "pl-k00131628",
@@ -6880,9 +6880,9 @@
         "Expected_Points_Kicker": 126,
         "Expected_Points_Per_Game_Kicker": 3.71,
         "Current_Points_Kicker": 79,
-        "Current_Points_Per_Game_Kicker": 3.76,
+        "Current_Points_Per_Game_Kicker": 3.59,
         "Difference_Kicker": -47,
-        "Performance": 1.01
+        "Performance": 0.97
     },
     {
         "ID": "pl-k00131919",
@@ -6896,10 +6896,10 @@
         "Expected_Points_Sorare": 2039,
         "Expected_Points_Kicker": 233,
         "Expected_Points_Per_Game_Kicker": 6.85,
-        "Current_Points_Kicker": 154,
-        "Current_Points_Per_Game_Kicker": 7.33,
-        "Difference_Kicker": -79,
-        "Performance": 1.07
+        "Current_Points_Kicker": 156,
+        "Current_Points_Per_Game_Kicker": 7.09,
+        "Difference_Kicker": -77,
+        "Performance": 1.04
     },
     {
         "ID": "pl-k00131930",
@@ -6913,9 +6913,9 @@
         "Expected_Points_Sorare": 1185,
         "Expected_Points_Kicker": 126,
         "Expected_Points_Per_Game_Kicker": 3.71,
-        "Current_Points_Kicker": 40,
-        "Current_Points_Per_Game_Kicker": 1.9,
-        "Difference_Kicker": -86,
+        "Current_Points_Kicker": 42,
+        "Current_Points_Per_Game_Kicker": 1.91,
+        "Difference_Kicker": -84,
         "Performance": 0.51
     },
     {
@@ -6948,9 +6948,9 @@
         "Expected_Points_Kicker": 69,
         "Expected_Points_Per_Game_Kicker": 2.03,
         "Current_Points_Kicker": 2,
-        "Current_Points_Per_Game_Kicker": 0.1,
+        "Current_Points_Per_Game_Kicker": 0.09,
         "Difference_Kicker": -67,
-        "Performance": 0.05
+        "Performance": 0.04
     },
     {
         "ID": "pl-k00132180",
@@ -6998,10 +6998,10 @@
         "Expected_Points_Sorare": 936,
         "Expected_Points_Kicker": 60,
         "Expected_Points_Per_Game_Kicker": 1.76,
-        "Current_Points_Kicker": 88,
-        "Current_Points_Per_Game_Kicker": 4.19,
-        "Difference_Kicker": 28,
-        "Performance": 2.38
+        "Current_Points_Kicker": 100,
+        "Current_Points_Per_Game_Kicker": 4.55,
+        "Difference_Kicker": 40,
+        "Performance": 2.59
     },
     {
         "ID": "pl-k00132193",
@@ -7066,10 +7066,10 @@
         "Expected_Points_Sorare": "NaN",
         "Expected_Points_Kicker": 16,
         "Expected_Points_Per_Game_Kicker": 0.47,
-        "Current_Points_Kicker": 62,
-        "Current_Points_Per_Game_Kicker": 2.95,
-        "Difference_Kicker": 46,
-        "Performance": 6.28
+        "Current_Points_Kicker": 80,
+        "Current_Points_Per_Game_Kicker": 3.64,
+        "Difference_Kicker": 64,
+        "Performance": 7.74
     },
     {
         "ID": "pl-k00132207",
@@ -7083,10 +7083,10 @@
         "Expected_Points_Sorare": "NaN",
         "Expected_Points_Kicker": 20,
         "Expected_Points_Per_Game_Kicker": 0.59,
-        "Current_Points_Kicker": 27,
-        "Current_Points_Per_Game_Kicker": 1.29,
-        "Difference_Kicker": 7,
-        "Performance": 2.19
+        "Current_Points_Kicker": 38,
+        "Current_Points_Per_Game_Kicker": 1.73,
+        "Difference_Kicker": 18,
+        "Performance": 2.93
     },
     {
         "ID": "pl-k00132800",
@@ -7101,9 +7101,9 @@
         "Expected_Points_Kicker": 232,
         "Expected_Points_Per_Game_Kicker": 6.82,
         "Current_Points_Kicker": 82,
-        "Current_Points_Per_Game_Kicker": 3.9,
+        "Current_Points_Per_Game_Kicker": 3.73,
         "Difference_Kicker": -150,
-        "Performance": 0.57
+        "Performance": 0.55
     },
     {
         "ID": "pl-k00132863",
@@ -7134,10 +7134,10 @@
         "Expected_Points_Sorare": 1742,
         "Expected_Points_Kicker": 205,
         "Expected_Points_Per_Game_Kicker": 6.03,
-        "Current_Points_Kicker": 98,
-        "Current_Points_Per_Game_Kicker": 4.67,
-        "Difference_Kicker": -107,
-        "Performance": 0.77
+        "Current_Points_Kicker": 96,
+        "Current_Points_Per_Game_Kicker": 4.36,
+        "Difference_Kicker": -109,
+        "Performance": 0.72
     },
     {
         "ID": "pl-k00134048",
@@ -7168,10 +7168,10 @@
         "Expected_Points_Sorare": 1720,
         "Expected_Points_Kicker": 168,
         "Expected_Points_Per_Game_Kicker": 4.94,
-        "Current_Points_Kicker": 50,
-        "Current_Points_Per_Game_Kicker": 2.38,
-        "Difference_Kicker": -118,
-        "Performance": 0.48
+        "Current_Points_Kicker": 54,
+        "Current_Points_Per_Game_Kicker": 2.45,
+        "Difference_Kicker": -114,
+        "Performance": 0.5
     },
     {
         "ID": "pl-k00135247",
@@ -7186,9 +7186,9 @@
         "Expected_Points_Kicker": 139,
         "Expected_Points_Per_Game_Kicker": 4.09,
         "Current_Points_Kicker": 84,
-        "Current_Points_Per_Game_Kicker": 4.0,
+        "Current_Points_Per_Game_Kicker": 3.82,
         "Difference_Kicker": -55,
-        "Performance": 0.98
+        "Performance": 0.93
     },
     {
         "ID": "pl-k00135346",
@@ -7203,9 +7203,9 @@
         "Expected_Points_Kicker": 48,
         "Expected_Points_Per_Game_Kicker": 1.41,
         "Current_Points_Kicker": 12,
-        "Current_Points_Per_Game_Kicker": 0.57,
+        "Current_Points_Per_Game_Kicker": 0.55,
         "Difference_Kicker": -36,
-        "Performance": 0.4
+        "Performance": 0.39
     },
     {
         "ID": "pl-k00135660",
@@ -7219,10 +7219,10 @@
         "Expected_Points_Sorare": 1784,
         "Expected_Points_Kicker": 155,
         "Expected_Points_Per_Game_Kicker": 4.56,
-        "Current_Points_Kicker": 52,
-        "Current_Points_Per_Game_Kicker": 2.48,
-        "Difference_Kicker": -103,
-        "Performance": 0.54
+        "Current_Points_Kicker": 50,
+        "Current_Points_Per_Game_Kicker": 2.27,
+        "Difference_Kicker": -105,
+        "Performance": 0.5
     },
     {
         "ID": "pl-k00136357",
@@ -7236,10 +7236,10 @@
         "Expected_Points_Sorare": 1427,
         "Expected_Points_Kicker": 131,
         "Expected_Points_Per_Game_Kicker": 3.85,
-        "Current_Points_Kicker": 66,
-        "Current_Points_Per_Game_Kicker": 3.14,
-        "Difference_Kicker": -65,
-        "Performance": 0.82
+        "Current_Points_Kicker": 72,
+        "Current_Points_Per_Game_Kicker": 3.27,
+        "Difference_Kicker": -59,
+        "Performance": 0.85
     },
     {
         "ID": "pl-k00136435",
@@ -7253,9 +7253,9 @@
         "Expected_Points_Sorare": 1424,
         "Expected_Points_Kicker": 150,
         "Expected_Points_Per_Game_Kicker": 4.41,
-        "Current_Points_Kicker": 38,
-        "Current_Points_Per_Game_Kicker": 1.81,
-        "Difference_Kicker": -112,
+        "Current_Points_Kicker": 40,
+        "Current_Points_Per_Game_Kicker": 1.82,
+        "Difference_Kicker": -110,
         "Performance": 0.41
     },
     {
@@ -7288,9 +7288,9 @@
         "Expected_Points_Kicker": 55,
         "Expected_Points_Per_Game_Kicker": 1.62,
         "Current_Points_Kicker": 28,
-        "Current_Points_Per_Game_Kicker": 1.33,
+        "Current_Points_Per_Game_Kicker": 1.27,
         "Difference_Kicker": -27,
-        "Performance": 0.82
+        "Performance": 0.78
     },
     {
         "ID": "pl-k00136677",
@@ -7305,9 +7305,9 @@
         "Expected_Points_Kicker": 31,
         "Expected_Points_Per_Game_Kicker": 0.91,
         "Current_Points_Kicker": 20,
-        "Current_Points_Per_Game_Kicker": 0.95,
+        "Current_Points_Per_Game_Kicker": 0.91,
         "Difference_Kicker": -11,
-        "Performance": 1.04
+        "Performance": 1.0
     },
     {
         "ID": "pl-k00136835",
@@ -7322,9 +7322,9 @@
         "Expected_Points_Kicker": 57,
         "Expected_Points_Per_Game_Kicker": 1.68,
         "Current_Points_Kicker": 13,
-        "Current_Points_Per_Game_Kicker": 0.62,
+        "Current_Points_Per_Game_Kicker": 0.59,
         "Difference_Kicker": -44,
-        "Performance": 0.37
+        "Performance": 0.35
     },
     {
         "ID": "pl-k00137082",
@@ -7338,10 +7338,10 @@
         "Expected_Points_Sorare": 1034,
         "Expected_Points_Kicker": 78,
         "Expected_Points_Per_Game_Kicker": 2.29,
-        "Current_Points_Kicker": 20,
-        "Current_Points_Per_Game_Kicker": 0.95,
-        "Difference_Kicker": -58,
-        "Performance": 0.41
+        "Current_Points_Kicker": 24,
+        "Current_Points_Per_Game_Kicker": 1.09,
+        "Difference_Kicker": -54,
+        "Performance": 0.48
     },
     {
         "ID": "pl-k00137168",
@@ -7389,10 +7389,10 @@
         "Expected_Points_Sorare": 1237,
         "Expected_Points_Kicker": 92,
         "Expected_Points_Per_Game_Kicker": 2.71,
-        "Current_Points_Kicker": 53,
-        "Current_Points_Per_Game_Kicker": 2.52,
-        "Difference_Kicker": -39,
-        "Performance": 0.93
+        "Current_Points_Kicker": 51,
+        "Current_Points_Per_Game_Kicker": 2.32,
+        "Difference_Kicker": -41,
+        "Performance": 0.86
     },
     {
         "ID": "pl-k00137843",
@@ -7441,9 +7441,9 @@
         "Expected_Points_Kicker": 72,
         "Expected_Points_Per_Game_Kicker": 2.12,
         "Current_Points_Kicker": 20,
-        "Current_Points_Per_Game_Kicker": 0.95,
+        "Current_Points_Per_Game_Kicker": 0.91,
         "Difference_Kicker": -52,
-        "Performance": 0.45
+        "Performance": 0.43
     },
     {
         "ID": "pl-k00138020",
@@ -7458,9 +7458,9 @@
         "Expected_Points_Kicker": 47,
         "Expected_Points_Per_Game_Kicker": 1.38,
         "Current_Points_Kicker": 52,
-        "Current_Points_Per_Game_Kicker": 2.48,
+        "Current_Points_Per_Game_Kicker": 2.36,
         "Difference_Kicker": 5,
-        "Performance": 1.8
+        "Performance": 1.71
     },
     {
         "ID": "pl-k00138025",
@@ -7542,10 +7542,10 @@
         "Expected_Points_Sorare": 1946,
         "Expected_Points_Kicker": 181,
         "Expected_Points_Per_Game_Kicker": 5.32,
-        "Current_Points_Kicker": 72,
-        "Current_Points_Per_Game_Kicker": 3.43,
-        "Difference_Kicker": -109,
-        "Performance": 0.64
+        "Current_Points_Kicker": 70,
+        "Current_Points_Per_Game_Kicker": 3.18,
+        "Difference_Kicker": -111,
+        "Performance": 0.6
     },
     {
         "ID": "pl-k00138530",
@@ -7560,9 +7560,9 @@
         "Expected_Points_Kicker": 181,
         "Expected_Points_Per_Game_Kicker": 5.32,
         "Current_Points_Kicker": 74,
-        "Current_Points_Per_Game_Kicker": 3.52,
+        "Current_Points_Per_Game_Kicker": 3.36,
         "Difference_Kicker": -107,
-        "Performance": 0.66
+        "Performance": 0.63
     },
     {
         "ID": "pl-k00138699",
@@ -7594,9 +7594,9 @@
         "Expected_Points_Kicker": 176,
         "Expected_Points_Per_Game_Kicker": 5.18,
         "Current_Points_Kicker": 86,
-        "Current_Points_Per_Game_Kicker": 4.1,
+        "Current_Points_Per_Game_Kicker": 3.91,
         "Difference_Kicker": -90,
-        "Performance": 0.79
+        "Performance": 0.75
     },
     {
         "ID": "pl-k00139273",
@@ -7611,9 +7611,9 @@
         "Expected_Points_Kicker": 57,
         "Expected_Points_Per_Game_Kicker": 1.68,
         "Current_Points_Kicker": 20,
-        "Current_Points_Per_Game_Kicker": 0.95,
+        "Current_Points_Per_Game_Kicker": 0.91,
         "Difference_Kicker": -37,
-        "Performance": 0.57
+        "Performance": 0.54
     },
     {
         "ID": "pl-k00139276",
@@ -7644,10 +7644,10 @@
         "Expected_Points_Sorare": 1627,
         "Expected_Points_Kicker": 170,
         "Expected_Points_Per_Game_Kicker": 5.0,
-        "Current_Points_Kicker": 168,
-        "Current_Points_Per_Game_Kicker": 8.0,
-        "Difference_Kicker": -2,
-        "Performance": 1.6
+        "Current_Points_Kicker": 186,
+        "Current_Points_Per_Game_Kicker": 8.45,
+        "Difference_Kicker": 16,
+        "Performance": 1.69
     },
     {
         "ID": "pl-k00139305",
@@ -7662,9 +7662,9 @@
         "Expected_Points_Kicker": 177,
         "Expected_Points_Per_Game_Kicker": 5.21,
         "Current_Points_Kicker": 98,
-        "Current_Points_Per_Game_Kicker": 4.67,
+        "Current_Points_Per_Game_Kicker": 4.45,
         "Difference_Kicker": -79,
-        "Performance": 0.9
+        "Performance": 0.85
     },
     {
         "ID": "pl-k00139327",
@@ -7696,9 +7696,9 @@
         "Expected_Points_Kicker": 25,
         "Expected_Points_Per_Game_Kicker": 0.74,
         "Current_Points_Kicker": 40,
-        "Current_Points_Per_Game_Kicker": 1.9,
+        "Current_Points_Per_Game_Kicker": 1.82,
         "Difference_Kicker": 15,
-        "Performance": 2.57
+        "Performance": 2.46
     },
     {
         "ID": "pl-k00139335",
@@ -7747,7 +7747,7 @@
         "Expected_Points_Kicker": 64,
         "Expected_Points_Per_Game_Kicker": 1.88,
         "Current_Points_Kicker": 4,
-        "Current_Points_Per_Game_Kicker": 0.19,
+        "Current_Points_Per_Game_Kicker": 0.18,
         "Difference_Kicker": -60,
         "Performance": 0.1
     },
@@ -7781,9 +7781,9 @@
         "Expected_Points_Kicker": 45,
         "Expected_Points_Per_Game_Kicker": 1.32,
         "Current_Points_Kicker": 12,
-        "Current_Points_Per_Game_Kicker": 0.57,
+        "Current_Points_Per_Game_Kicker": 0.55,
         "Difference_Kicker": -33,
-        "Performance": 0.43
+        "Performance": 0.42
     },
     {
         "ID": "pl-k00141072",
@@ -7815,9 +7815,9 @@
         "Expected_Points_Kicker": 121,
         "Expected_Points_Per_Game_Kicker": 3.56,
         "Current_Points_Kicker": 41,
-        "Current_Points_Per_Game_Kicker": 1.95,
+        "Current_Points_Per_Game_Kicker": 1.86,
         "Difference_Kicker": -80,
-        "Performance": 0.55
+        "Performance": 0.52
     },
     {
         "ID": "pl-k00141445",
@@ -7849,9 +7849,9 @@
         "Expected_Points_Kicker": 75,
         "Expected_Points_Per_Game_Kicker": 2.21,
         "Current_Points_Kicker": 20,
-        "Current_Points_Per_Game_Kicker": 0.95,
+        "Current_Points_Per_Game_Kicker": 0.91,
         "Difference_Kicker": -55,
-        "Performance": 0.43
+        "Performance": 0.41
     },
     {
         "ID": "pl-k00141641",
@@ -7951,9 +7951,9 @@
         "Expected_Points_Kicker": 21,
         "Expected_Points_Per_Game_Kicker": 0.62,
         "Current_Points_Kicker": 14,
-        "Current_Points_Per_Game_Kicker": 0.67,
+        "Current_Points_Per_Game_Kicker": 0.64,
         "Difference_Kicker": -7,
-        "Performance": 1.08
+        "Performance": 1.03
     },
     {
         "ID": "pl-k00143830",
@@ -7967,9 +7967,9 @@
         "Expected_Points_Sorare": 1463,
         "Expected_Points_Kicker": 116,
         "Expected_Points_Per_Game_Kicker": 3.41,
-        "Current_Points_Kicker": 38,
-        "Current_Points_Per_Game_Kicker": 1.81,
-        "Difference_Kicker": -78,
+        "Current_Points_Kicker": 40,
+        "Current_Points_Per_Game_Kicker": 1.82,
+        "Difference_Kicker": -76,
         "Performance": 0.53
     },
     {
@@ -8002,7 +8002,7 @@
         "Expected_Points_Kicker": 105,
         "Expected_Points_Per_Game_Kicker": 3.09,
         "Current_Points_Kicker": 8,
-        "Current_Points_Per_Game_Kicker": 0.38,
+        "Current_Points_Per_Game_Kicker": 0.36,
         "Difference_Kicker": -97,
         "Performance": 0.12
     },
@@ -8019,9 +8019,9 @@
         "Expected_Points_Kicker": 32,
         "Expected_Points_Per_Game_Kicker": 0.94,
         "Current_Points_Kicker": 16,
-        "Current_Points_Per_Game_Kicker": 0.76,
+        "Current_Points_Per_Game_Kicker": 0.73,
         "Difference_Kicker": -16,
-        "Performance": 0.81
+        "Performance": 0.78
     },
     {
         "ID": "pl-k00144843",
@@ -8036,9 +8036,9 @@
         "Expected_Points_Kicker": 116,
         "Expected_Points_Per_Game_Kicker": 3.41,
         "Current_Points_Kicker": 24,
-        "Current_Points_Per_Game_Kicker": 1.14,
+        "Current_Points_Per_Game_Kicker": 1.09,
         "Difference_Kicker": -92,
-        "Performance": 0.33
+        "Performance": 0.32
     },
     {
         "ID": "pl-k00145004",
@@ -8053,9 +8053,9 @@
         "Expected_Points_Kicker": 46,
         "Expected_Points_Per_Game_Kicker": 1.35,
         "Current_Points_Kicker": 35,
-        "Current_Points_Per_Game_Kicker": 1.67,
+        "Current_Points_Per_Game_Kicker": 1.59,
         "Difference_Kicker": -11,
-        "Performance": 1.24
+        "Performance": 1.18
     },
     {
         "ID": "pl-k00145594",
@@ -8069,9 +8069,9 @@
         "Expected_Points_Sorare": "NaN",
         "Expected_Points_Kicker": 0,
         "Expected_Points_Per_Game_Kicker": 0.0,
-        "Current_Points_Kicker": 42,
-        "Current_Points_Per_Game_Kicker": 2.0,
-        "Difference_Kicker": 42,
+        "Current_Points_Kicker": 48,
+        "Current_Points_Per_Game_Kicker": 2.18,
+        "Difference_Kicker": 48,
         "Performance": "NaN"
     },
     {
@@ -8120,9 +8120,9 @@
         "Expected_Points_Sorare": 1483,
         "Expected_Points_Kicker": 145,
         "Expected_Points_Per_Game_Kicker": 4.26,
-        "Current_Points_Kicker": 40,
-        "Current_Points_Per_Game_Kicker": 1.9,
-        "Difference_Kicker": -105,
+        "Current_Points_Kicker": 42,
+        "Current_Points_Per_Game_Kicker": 1.91,
+        "Difference_Kicker": -103,
         "Performance": 0.45
     },
     {
@@ -8137,10 +8137,10 @@
         "Expected_Points_Sorare": 1472,
         "Expected_Points_Kicker": 99,
         "Expected_Points_Per_Game_Kicker": 2.91,
-        "Current_Points_Kicker": 43,
-        "Current_Points_Per_Game_Kicker": 2.05,
-        "Difference_Kicker": -56,
-        "Performance": 0.7
+        "Current_Points_Kicker": 59,
+        "Current_Points_Per_Game_Kicker": 2.68,
+        "Difference_Kicker": -40,
+        "Performance": 0.92
     },
     {
         "ID": "pl-k00146323",
@@ -8154,10 +8154,10 @@
         "Expected_Points_Sorare": 951,
         "Expected_Points_Kicker": 59,
         "Expected_Points_Per_Game_Kicker": 1.74,
-        "Current_Points_Kicker": 26,
-        "Current_Points_Per_Game_Kicker": 1.24,
-        "Difference_Kicker": -33,
-        "Performance": 0.71
+        "Current_Points_Kicker": 28,
+        "Current_Points_Per_Game_Kicker": 1.27,
+        "Difference_Kicker": -31,
+        "Performance": 0.73
     },
     {
         "ID": "pl-k00146959",
@@ -8171,10 +8171,10 @@
         "Expected_Points_Sorare": 986,
         "Expected_Points_Kicker": 83,
         "Expected_Points_Per_Game_Kicker": 2.44,
-        "Current_Points_Kicker": 14,
-        "Current_Points_Per_Game_Kicker": 0.67,
-        "Difference_Kicker": -69,
-        "Performance": 0.27
+        "Current_Points_Kicker": 10,
+        "Current_Points_Per_Game_Kicker": 0.45,
+        "Difference_Kicker": -73,
+        "Performance": 0.18
     },
     {
         "ID": "pl-k00147672",
@@ -8189,9 +8189,9 @@
         "Expected_Points_Kicker": 36,
         "Expected_Points_Per_Game_Kicker": 1.06,
         "Current_Points_Kicker": 12,
-        "Current_Points_Per_Game_Kicker": 0.57,
+        "Current_Points_Per_Game_Kicker": 0.55,
         "Difference_Kicker": -24,
-        "Performance": 0.54
+        "Performance": 0.52
     },
     {
         "ID": "pl-k00147890",
@@ -8206,7 +8206,7 @@
         "Expected_Points_Kicker": 151,
         "Expected_Points_Per_Game_Kicker": 4.44,
         "Current_Points_Kicker": -4,
-        "Current_Points_Per_Game_Kicker": -0.19,
+        "Current_Points_Per_Game_Kicker": -0.18,
         "Difference_Kicker": -155,
         "Performance": -0.04
     },
@@ -8223,9 +8223,9 @@
         "Expected_Points_Kicker": 121,
         "Expected_Points_Per_Game_Kicker": 3.56,
         "Current_Points_Kicker": 12,
-        "Current_Points_Per_Game_Kicker": 0.57,
+        "Current_Points_Per_Game_Kicker": 0.55,
         "Difference_Kicker": -109,
-        "Performance": 0.16
+        "Performance": 0.15
     },
     {
         "ID": "pl-k00148187",
@@ -8240,9 +8240,9 @@
         "Expected_Points_Kicker": 163,
         "Expected_Points_Per_Game_Kicker": 4.79,
         "Current_Points_Kicker": 22,
-        "Current_Points_Per_Game_Kicker": 1.05,
+        "Current_Points_Per_Game_Kicker": 1.0,
         "Difference_Kicker": -141,
-        "Performance": 0.22
+        "Performance": 0.21
     },
     {
         "ID": "pl-k00148820",
@@ -8257,9 +8257,9 @@
         "Expected_Points_Kicker": 18,
         "Expected_Points_Per_Game_Kicker": 0.53,
         "Current_Points_Kicker": 4,
-        "Current_Points_Per_Game_Kicker": 0.19,
+        "Current_Points_Per_Game_Kicker": 0.18,
         "Difference_Kicker": -14,
-        "Performance": 0.36
+        "Performance": 0.34
     },
     {
         "ID": "pl-k00148821",
@@ -8290,10 +8290,10 @@
         "Expected_Points_Sorare": 898,
         "Expected_Points_Kicker": 60,
         "Expected_Points_Per_Game_Kicker": 1.76,
-        "Current_Points_Kicker": 32,
-        "Current_Points_Per_Game_Kicker": 1.52,
-        "Difference_Kicker": -28,
-        "Performance": 0.86
+        "Current_Points_Kicker": 34,
+        "Current_Points_Per_Game_Kicker": 1.55,
+        "Difference_Kicker": -26,
+        "Performance": 0.88
     },
     {
         "ID": "pl-k00149407",
@@ -8308,7 +8308,7 @@
         "Expected_Points_Kicker": 53,
         "Expected_Points_Per_Game_Kicker": 1.56,
         "Current_Points_Kicker": 4,
-        "Current_Points_Per_Game_Kicker": 0.19,
+        "Current_Points_Per_Game_Kicker": 0.18,
         "Difference_Kicker": -49,
         "Performance": 0.12
     },
@@ -8342,9 +8342,9 @@
         "Expected_Points_Kicker": 2,
         "Expected_Points_Per_Game_Kicker": 0.06,
         "Current_Points_Kicker": 2,
-        "Current_Points_Per_Game_Kicker": 0.1,
+        "Current_Points_Per_Game_Kicker": 0.09,
         "Difference_Kicker": 0,
-        "Performance": 1.67
+        "Performance": 1.5
     },
     {
         "ID": "pl-k00150671",
@@ -8358,10 +8358,10 @@
         "Expected_Points_Sorare": 1286,
         "Expected_Points_Kicker": 111,
         "Expected_Points_Per_Game_Kicker": 3.26,
-        "Current_Points_Kicker": 9,
-        "Current_Points_Per_Game_Kicker": 0.43,
-        "Difference_Kicker": -102,
-        "Performance": 0.13
+        "Current_Points_Kicker": 18,
+        "Current_Points_Per_Game_Kicker": 0.82,
+        "Difference_Kicker": -93,
+        "Performance": 0.25
     },
     {
         "ID": "pl-k00150987",
@@ -8392,10 +8392,10 @@
         "Expected_Points_Sorare": 1514,
         "Expected_Points_Kicker": 138,
         "Expected_Points_Per_Game_Kicker": 4.06,
-        "Current_Points_Kicker": 94,
-        "Current_Points_Per_Game_Kicker": 4.48,
-        "Difference_Kicker": -44,
-        "Performance": 1.1
+        "Current_Points_Kicker": 106,
+        "Current_Points_Per_Game_Kicker": 4.82,
+        "Difference_Kicker": -32,
+        "Performance": 1.19
     },
     {
         "ID": "pl-k00151289",
@@ -8427,9 +8427,9 @@
         "Expected_Points_Kicker": 16,
         "Expected_Points_Per_Game_Kicker": 0.47,
         "Current_Points_Kicker": 9,
-        "Current_Points_Per_Game_Kicker": 0.43,
+        "Current_Points_Per_Game_Kicker": 0.41,
         "Difference_Kicker": -7,
-        "Performance": 0.91
+        "Performance": 0.87
     },
     {
         "ID": "pl-k00152386",
@@ -8460,10 +8460,10 @@
         "Expected_Points_Sorare": 1114,
         "Expected_Points_Kicker": 83,
         "Expected_Points_Per_Game_Kicker": 2.44,
-        "Current_Points_Kicker": 72,
-        "Current_Points_Per_Game_Kicker": 3.43,
-        "Difference_Kicker": -11,
-        "Performance": 1.41
+        "Current_Points_Kicker": 68,
+        "Current_Points_Per_Game_Kicker": 3.09,
+        "Difference_Kicker": -15,
+        "Performance": 1.27
     },
     {
         "ID": "pl-k00153415",
@@ -8477,10 +8477,10 @@
         "Expected_Points_Sorare": 1539,
         "Expected_Points_Kicker": 131,
         "Expected_Points_Per_Game_Kicker": 3.85,
-        "Current_Points_Kicker": 18,
-        "Current_Points_Per_Game_Kicker": 0.86,
-        "Difference_Kicker": -113,
-        "Performance": 0.22
+        "Current_Points_Kicker": 20,
+        "Current_Points_Per_Game_Kicker": 0.91,
+        "Difference_Kicker": -111,
+        "Performance": 0.24
     },
     {
         "ID": "pl-k00153573",
@@ -8495,9 +8495,9 @@
         "Expected_Points_Kicker": 72,
         "Expected_Points_Per_Game_Kicker": 2.12,
         "Current_Points_Kicker": -4,
-        "Current_Points_Per_Game_Kicker": -0.19,
+        "Current_Points_Per_Game_Kicker": -0.18,
         "Difference_Kicker": -76,
-        "Performance": -0.09
+        "Performance": -0.08
     },
     {
         "ID": "pl-k00153662",
@@ -8511,10 +8511,10 @@
         "Expected_Points_Sorare": 1590,
         "Expected_Points_Kicker": 148,
         "Expected_Points_Per_Game_Kicker": 4.35,
-        "Current_Points_Kicker": 108,
-        "Current_Points_Per_Game_Kicker": 5.14,
-        "Difference_Kicker": -40,
-        "Performance": 1.18
+        "Current_Points_Kicker": 116,
+        "Current_Points_Per_Game_Kicker": 5.27,
+        "Difference_Kicker": -32,
+        "Performance": 1.21
     },
     {
         "ID": "pl-k00153733",
@@ -8529,9 +8529,9 @@
         "Expected_Points_Kicker": 17,
         "Expected_Points_Per_Game_Kicker": 0.5,
         "Current_Points_Kicker": 8,
-        "Current_Points_Per_Game_Kicker": 0.38,
+        "Current_Points_Per_Game_Kicker": 0.36,
         "Difference_Kicker": -9,
-        "Performance": 0.76
+        "Performance": 0.72
     },
     {
         "ID": "pl-k00153779",
@@ -8546,9 +8546,9 @@
         "Expected_Points_Kicker": 16,
         "Expected_Points_Per_Game_Kicker": 0.47,
         "Current_Points_Kicker": 6,
-        "Current_Points_Per_Game_Kicker": 0.29,
+        "Current_Points_Per_Game_Kicker": 0.27,
         "Difference_Kicker": -10,
-        "Performance": 0.62
+        "Performance": 0.57
     },
     {
         "ID": "pl-k00154032",
@@ -8580,9 +8580,9 @@
         "Expected_Points_Kicker": 11,
         "Expected_Points_Per_Game_Kicker": 0.32,
         "Current_Points_Kicker": 20,
-        "Current_Points_Per_Game_Kicker": 0.95,
+        "Current_Points_Per_Game_Kicker": 0.91,
         "Difference_Kicker": 9,
-        "Performance": 2.97
+        "Performance": 2.84
     },
     {
         "ID": "pl-k00155796",
@@ -8682,7 +8682,7 @@
         "Expected_Points_Kicker": 0,
         "Expected_Points_Per_Game_Kicker": 0.0,
         "Current_Points_Kicker": 16,
-        "Current_Points_Per_Game_Kicker": 0.76,
+        "Current_Points_Per_Game_Kicker": 0.73,
         "Difference_Kicker": 16,
         "Performance": "NaN"
     },
@@ -8699,9 +8699,9 @@
         "Expected_Points_Kicker": 5,
         "Expected_Points_Per_Game_Kicker": 0.15,
         "Current_Points_Kicker": 10,
-        "Current_Points_Per_Game_Kicker": 0.48,
+        "Current_Points_Per_Game_Kicker": 0.45,
         "Difference_Kicker": 5,
-        "Performance": 3.2
+        "Performance": 3.0
     },
     {
         "ID": "pl-k00164996",
@@ -8750,7 +8750,7 @@
         "Expected_Points_Kicker": 0,
         "Expected_Points_Per_Game_Kicker": 0.0,
         "Current_Points_Kicker": 2,
-        "Current_Points_Per_Game_Kicker": 0.1,
+        "Current_Points_Per_Game_Kicker": 0.09,
         "Difference_Kicker": 2,
         "Performance": "NaN"
     },
